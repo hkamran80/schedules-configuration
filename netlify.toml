@@ -1,4 +1,13 @@
-[[redirects]]
+# Headers
+[[headers]]
+for = "/*"
+
+[headers.value]
+X-Frame-Options = "DENY"
+X-XSS-Protection = "1; mode=block"
+Access-Control-Allow-Origin = "https://unisontech.org"
+
+# Redirects[[redirects]]
 from = "/schedules/latest"
 to = "/schedules-latest.json"
 status = 200
