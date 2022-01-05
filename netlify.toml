@@ -1,0 +1,9 @@
+[[redirects]]
+from = "/schedules/latest"
+to = "/schedules-latest.json"
+status = 200
+
+[[redirects]]
+from = "/schedules/*"
+to = "/schedules-:splat.json"
+status = 200
