@@ -1,0 +1,2 @@
+/schedules/latest   /schedules-latest.json  200
+/schedules/*        /schedules-:splat.json  200
