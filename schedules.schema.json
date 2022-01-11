@@ -1,0 +1,53 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://raw.unisontech.org/schema/schedules",
+    "title": "Schedules",
+    "description": "The main schedules file",
+    "type": "object",
+    "patternProperties": {
+        "(.*)": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "The name of the schedule"
+                },
+                "shortName": {
+                    "type": "string",
+                    "description": "The short name of the schedule"
+                },
+                "icon": {
+                    "type": "string",
+                    "description": "The Material Design Icons name of the icon for the schedule"
+                },
+                "color": {
+                    "type": "string",
+                    "description": "The hex color code of the schedule's color"
+                },
+                "schedule": {
+                    "type": "object",
+                    "description": "The actual schedule",
+                    "patternProperties": {
+                        "(SUN|MON|TUE|WED|THU|FRI|SAT)": {
+                            "type": "object",
+                            "patternProperties": {
+                                "(.*)": {
+                                    "type": "array",
+                                    "description": "The times for the period",
+                                    "items": {
+                                        "type": "string"
+                                    },
+                                    "minItems": 2,
+                                    "maxItems": 2,
+                                    "uniqueItems": true
+                                }
+                            }
+                        }
+                    },
+                    "minProperties": 1
+                }
+            },
+            "required": ["name", "shortName", "icon", "color", "schedule"]
+        }
+    }
+}

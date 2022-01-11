@@ -1,2 +1,4 @@
-/schedules/latest   /schedules-latest.json  200
-/schedules/*        /schedules-:splat.json  200
+/schedules/latest           /schedules-latest.json          200
+/schedules/*                /schedules-:splat.json          200
+/schema/schedules           /schedules.schema.json          200
+/schema/schedules-offdays   /schedules-offdays.schema.json  200
