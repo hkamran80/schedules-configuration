@@ -40,12 +40,12 @@
                                             "type": "object",
                                             "description": "The schedule container",
                                             "properties": {
-                                                "periodTimes": {
+                                                "times": {
                                                     "#ref": "#/definitions/scheduleItem"
                                                 },
-                                                "restrictedName": {
+                                                "allowEditing": {
                                                     "type": "boolean",
-                                                    "description": "Whether the period name is restricted (can't be edited)"
+                                                    "description": "If the schedule name can be edited"
                                                 }
                                             },
                                             "required": [
