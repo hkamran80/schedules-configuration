@@ -34,14 +34,14 @@
                                 "(.*)": {
                                     "anyOf": [
                                         {
-                                            "#ref": "#/definitions/scheduleItem"
+                                            "$ref": "#/definitions/scheduleItem"
                                         },
                                         {
                                             "type": "object",
                                             "description": "The schedule container",
                                             "properties": {
                                                 "times": {
-                                                    "#ref": "#/definitions/scheduleItem"
+                                                    "$ref": "#/definitions/scheduleItem"
                                                 },
                                                 "allowEditing": {
                                                     "type": "boolean",
@@ -49,8 +49,8 @@
                                                 }
                                             },
                                             "required": [
-                                                "periodNames",
-                                                "restrictedName"
+                                                "times",
+                                                "allowEditing"
                                             ]
                                         }
                                     ]
