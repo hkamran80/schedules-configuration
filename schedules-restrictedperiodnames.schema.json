@@ -1,8 +1,8 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "https://raw.unisontech.org/schema/schedules-offdays",
+    "$id": "https://raw.unisontech.org/schema/schedules-restrictedperiodnames",
     "title": "Schedules",
-    "description": "The main schedules file (with off days support)",
+    "description": "The main schedules file (with off days and restricted period name support)",
     "type": "object",
     "patternProperties": {
         "(.*)": {
@@ -32,14 +32,28 @@
                             "type": "object",
                             "patternProperties": {
                                 "(.*)": {
-                                    "type": "array",
-                                    "description": "The times for the period",
-                                    "items": {
-                                        "type": "string"
-                                    },
-                                    "minItems": 2,
-                                    "maxItems": 2,
-                                    "uniqueItems": true
+                                    "anyOf": [
+                                        {
+                                            "#ref": "#/definitions/scheduleItem"
+                                        },
+                                        {
+                                            "type": "object",
+                                            "description": "The schedule container",
+                                            "properties": {
+                                                "periodTimes": {
+                                                    "#ref": "#/definitions/scheduleItem"
+                                                },
+                                                "restrictedName": {
+                                                    "type": "boolean",
+                                                    "description": "Whether the period name is restricted (can't be edited)"
+                                                }
+                                            },
+                                            "required": [
+                                                "periodNames",
+                                                "restrictedName"
+                                            ]
+                                        }
+                                    ]
                                 }
                             }
                         }
@@ -71,6 +85,18 @@
                 "schedule",
                 "offDays"
             ]
+        }
+    },
+    "definitions": {
+        "scheduleItem": {
+            "type": "array",
+            "description": "The times for the period",
+            "items": {
+                "type": "string"
+            },
+            "minItems": 2,
+            "maxItems": 2,
+            "uniqueItems": true
         }
     }
 }
