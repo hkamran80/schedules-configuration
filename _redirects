@@ -4,4 +4,3 @@
 /schema/schedules                         /schedules.schema.json                        200
 /schema/schedules-offdays                 /schedules-offdays.schema.json                200
 /schema/schedules-restrictedperiodnames   /schedules-restrictedperiodnames.schema.json  200
-/styling/markdown                         /markdown-styling.css                         200
