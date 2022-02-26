@@ -4,3 +4,4 @@
 /schema/schedules                         /schedules.schema.json                        200
 /schema/schedules-offdays                 /schedules-offdays.schema.json                200
 /schema/schedules-restrictedperiodnames   /schedules-restrictedperiodnames.schema.json  200
+/library/auth0/auth0-vue                  /auth0-auth0-vue-1.0.0-beta.1.tgz             200
