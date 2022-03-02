@@ -6,9 +6,9 @@
         "logo": "https://schedules.unisontech.org/img/favicons/favicon-144.png"
     },
     {
-        "name": "Notetap",
-        "description": "A simple web-based journal app. Write entries in Markdown and store them in the cloud.",
-        "url": "https://notetap.unisontech.org",
+        "name": "Stock Digest",
+        "description": "A daily email service with updates for your stocks",
+        "url": "https://stockdigest.unisontech.org",
         "logo": null
     },
     {
@@ -18,9 +18,9 @@
         "logo": null
     },
     {
-        "name": "Stock Digest",
-        "description": "A daily email service with updates for your stocks",
-        "url": "https://stockdigest.unisontech.org",
+        "name": "Notetap",
+        "description": "A simple web-based journal app. Write entries in Markdown and store them in the cloud.",
+        "url": "https://notetap.unisontech.org",
         "logo": null
     }
 ]
