@@ -12,6 +12,12 @@
         "logo": null
     },
     {
+        "name": "Acoustats",
+        "description": "The easiest way to view statistics regarding your music streaming habits",
+        "url": "https://acoustats.unisontech.org",
+        "logo": null
+    },
+    {
         "name": "Control Surface for Spotify",
         "description": "Control Surface for Spotify is a utility to allow users to control their Spotify playback without opening the web version of Spotify. It aims to be a simple, easy-to-use application to control playback and view currently playing information.",
         "url": "https://cs.unisontech.org",
