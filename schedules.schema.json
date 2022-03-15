@@ -2,7 +2,7 @@
     "$schema": "https://json-schema.org/draft/2020-12/schema",
     "$id": "https://raw.unisontech.org/schema/schedules",
     "title": "Schedules",
-    "description": "The main schedules file",
+    "description": "The main schedules file (with off days and restricted period name support)",
     "type": "object",
     "patternProperties": {
         "(.*)": {
@@ -32,22 +32,82 @@
                             "type": "object",
                             "patternProperties": {
                                 "(.*)": {
-                                    "type": "array",
-                                    "description": "The times for the period",
-                                    "items": {
-                                        "type": "string"
-                                    },
-                                    "minItems": 2,
-                                    "maxItems": 2,
-                                    "uniqueItems": true
+                                    "anyOf": [
+                                        {
+                                            "$ref": "#/definitions/scheduleItem"
+                                        },
+                                        {
+                                            "type": "object",
+                                            "description": "The schedule container",
+                                            "properties": {
+                                                "times": {
+                                                    "$ref": "#/definitions/scheduleItem"
+                                                },
+                                                "allowEditing": {
+                                                    "type": "boolean",
+                                                    "description": "If the schedule name can be edited"
+                                                }
+                                            },
+                                            "required": [
+                                                "times",
+                                                "allowEditing"
+                                            ]
+                                        }
+                                    ]
                                 }
                             }
                         }
                     },
                     "minProperties": 1
+                },
+                "offDays": {
+                    "type": "object",
+                    "description": "The days the schedule should not be active",
+                    "patternProperties": {
+                        "(.*)": {
+                            "type": "array",
+                            "description": "The dates for the inactive period",
+                            "items": {
+                                "type": "string"
+                            },
+                            "minItems": 1,
+                            "maxItems": 2,
+                            "uniqueItems": true
+                        }
+                    }
+                },
+                "overrides": {
+                    "type": "object",
+                    "description": "The days the schedule should switch to a different day",
+                    "patternProperties": {
+                        "(.*)": {
+                            "type": "string",
+                            "description": "The day to use"
+                        }
+                    }
                 }
             },
-            "required": ["name", "shortName", "icon", "color", "schedule"]
+            "required": [
+                "name",
+                "shortName",
+                "icon",
+                "color",
+                "schedule",
+                "offDays",
+                "overrides"
+            ]
+        }
+    },
+    "definitions": {
+        "scheduleItem": {
+            "type": "array",
+            "description": "The times for the period",
+            "items": {
+                "type": "string"
+            },
+            "minItems": 2,
+            "maxItems": 2,
+            "uniqueItems": true
         }
     }
 }
