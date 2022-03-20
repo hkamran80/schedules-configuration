@@ -1,6 +1,7 @@
-{
-    "2.2.0": {
-        "releaseDate": "2021-01-11",
+[
+    {
+        "version": "2.2.0",
+        "date": "2021-01-11",
         "changelog": [
             "Added a timetable view to the schedule view",
             "Added this modal for informing users what's new in Schedules",
@@ -21,15 +22,17 @@
             "Add security headers"
         ]
     },
-    "2.2.1": {
-        "releaseDate": "2021-03-24",
+    {
+        "version": "2.2.1",
+        "date": "2021-03-24",
         "changelog": [
             "Fix Umami analytics activation",
             "Fix duplicate divider issue with feature coming soon (currently in alpha)"
         ]
     },
-    "2.3.0": {
-        "releaseDate": "2021-04-21",
+    {
+        "version": "2.3.0",
+        "date": "2021-04-21",
         "changelog": [
             "Add Sentry.io error and performance monitoring",
             "Remove the AUHSD Distance Learning schedule",
@@ -56,24 +59,30 @@
             "Move notification settings to separate dialogs"
         ]
     },
-    "2.3.1": {
-        "releaseDate": "2021-08-04",
+    {
+        "version": "2.3.1",
+        "date": "2021-08-04",
         "changelog": [
             "Add the AUHSD First Week and the new AUHSD Standard schedules"
         ]
     },
-    "2.3.2": {
-        "releaseDate": "2021-08-16",
-        "changelog": ["Remove the AUHSD First Week schedule"]
+    {
+        "version": "2.3.2",
+        "date": "2021-08-16",
+        "changelog": [
+            "Remove the AUHSD First Week schedule"
+        ]
     },
-    "2.3.3": {
-        "releaseDate": "2021-08-18",
+    {
+        "version": "2.3.3",
+        "date": "2021-08-18",
         "changelog": [
             "Fix the AUHSD Standard schedule's Wednesday and Friday start times"
         ]
     },
-    "3.0.0": {
-        "releaseDate": "2021-09-03",
+    {
+        "version": "3.0.0",
+        "date": "2021-09-03",
         "changelog": [
             "Change Umami domain to unisontech.org",
             "Add source maps with Sentry for enhanced error logging",
@@ -129,20 +138,30 @@
             "Fix spelling mistakes"
         ]
     },
-    "3.0.1": {
-        "releaseDate": "2021-12-07",
-        "changelog": ["Add the AUHSD Finals schedule"]
+    {
+        "version": "3.0.1",
+        "date": "2021-12-07",
+        "changelog": [
+            "Add the AUHSD Finals schedule"
+        ]
     },
-    "3.0.2": {
-        "releaseDate": "2022-01-04",
-        "changelog": ["Remove the AUHSD Finals schedule"]
+    {
+        "version": "3.0.2",
+        "date": "2022-01-04",
+        "changelog": [
+            "Remove the AUHSD Finals schedule"
+        ]
     },
-    "3.0.3": {
-        "releaseDate": "2022-01-10",
-        "changelog": ["Add the College Park High School schedule"]
+    {
+        "version": "3.0.3",
+        "date": "2022-01-10",
+        "changelog": [
+            "Add the College Park High School schedule"
+        ]
     },
-    "3.1.0": {
-        "releaseDate": "2022-03-13",
+    {
+        "version": "3.1.0",
+        "date": "2022-03-13",
         "changelog": [
             "Add off days to all schedules",
             "Restrict period name editing (disallows editing passing periods, break/lunch periods, etc.)",
@@ -155,4 +174,4 @@
             "Add schedule overrides (not currently user-editable)"
         ]
     }
-}
+]
