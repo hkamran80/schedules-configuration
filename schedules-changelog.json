@@ -173,5 +173,12 @@
             "Update terms of service and privacy policy notice",
             "Add schedule overrides (not currently user-editable)"
         ]
+    },
+    {
+        "version": "3.1.1",
+        "date": "2022-05-20",
+        "changelog": [
+            "Add the AUHSD Finals schedule"
+        ]
     }
 ]
