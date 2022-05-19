@@ -332,7 +332,7 @@
         "color": "#343254",
         "schedule": {
             "MON": {
-                "Zero Period and Office Hours": [
+                "Zero Period": [
                     "08-00-00",
                     "10-00-00"
                 ],
