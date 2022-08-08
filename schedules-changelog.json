@@ -180,5 +180,14 @@
         "changelog": [
             "Add the AUHSD Finals schedule"
         ]
+    },
+    {
+        "version": "3.1.2",
+        "date": "2022-08-07",
+        "changelog": [
+            "Remove the AUHSD Finals schedule",
+            "Update the AUHSD Standard schedule with the new bell schedule",
+            "Add the AUHSD First Week schedule"
+        ]
     }
 ]
