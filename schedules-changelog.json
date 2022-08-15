@@ -189,5 +189,12 @@
             "Update the AUHSD Standard schedule with the new bell schedule",
             "Add the AUHSD First Week schedule"
         ]
+    },
+    {
+        "version": "3.1.3",
+        "date": "2022-08-15",
+        "changelog": [
+            "Remove the AUHSD First Week schedule"
+        ]
     }
 ]
