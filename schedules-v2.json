@@ -3737,5 +3737,239 @@
             ]
         },
         "overrides": {}
+    },
+    "ca-srvusd-dvhs": {
+        "name": "Dougherty Valley High School",
+        "shortName": "Dougherty Valley",
+        "color": "#0A1837",
+        "schedule": {
+            "MON": {
+                "First Period": [
+                    "08-30-00",
+                    "09-21-00"
+                ],
+                "Passing (First Period / Second Period)": [
+                    "09-21-01",
+                    "09-27-00"
+                ],
+                "Second Period": [
+                    "09-27-01",
+                    "10-18-00"
+                ],
+                "Break": {
+                    "times": [
+                        "10-18-01",
+                        "10-26-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Break / Third Period)": [
+                    "10-26-01",
+                    "10-32-00"
+                ],
+                "Third Period": [
+                    "10-32-01",
+                    "11-23-00"
+                ],
+                "Passing (Third Period / Fourth Period)": [
+                    "11-23-01",
+                    "11-29-00"
+                ],
+                "Fourth Period": [
+                    "11-29-01",
+                    "12-20-00"
+                ],
+                "Lunch": {
+                    "times": [
+                        "12-20-01",
+                        "12-50-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fifth Period)": [
+                    "12-50-01",
+                    "12-56-00"
+                ],
+                "Fifth Period": [
+                    "12-56-00",
+                    "13-47-00"
+                ],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13-47-01",
+                    "13-53-00"
+                ],
+                "Sixth Period": [
+                    "13-53-01",
+                    "14-44-00"
+                ],
+                "Break II": {
+                    "times": [
+                        "14-44-01",
+                        "14-48-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Break II / B)": [
+                    "14-48-01",
+                    "14-54-00"
+                ],
+                "B": [
+                    "14-54-01",
+                    "15-45-00"
+                ]
+            },
+            "TUE": {
+                "First Period": [
+                    "08-30-00",
+                    "09-21-00"
+                ],
+                "Passing (First Period / Second Period)": [
+                    "09-21-01",
+                    "09-27-00"
+                ],
+                "Second Period": [
+                    "09-27-01",
+                    "10-18-00"
+                ],
+                "Break": {
+                    "times": [
+                        "10-18-01",
+                        "10-26-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Break / Third Period)": [
+                    "10-26-01",
+                    "10-32-00"
+                ],
+                "Third Period": [
+                    "10-32-01",
+                    "11-23-00"
+                ],
+                "Passing (Third Period / Fourth Period)": [
+                    "11-23-01",
+                    "11-29-00"
+                ],
+                "Fourth Period": [
+                    "11-29-01",
+                    "12-20-00"
+                ],
+                "Lunch": {
+                    "times": [
+                        "12-20-01",
+                        "12-50-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fifth Period)": [
+                    "12-50-01",
+                    "12-56-00"
+                ],
+                "Fifth Period": [
+                    "12-56-00",
+                    "13-47-00"
+                ],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13-47-01",
+                    "13-53-00"
+                ],
+                "Sixth Period": [
+                    "13-53-01",
+                    "14-44-00"
+                ],
+                "Break II": {
+                    "times": [
+                        "14-44-01",
+                        "14-48-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Break II / B)": [
+                    "14-48-01",
+                    "14-54-00"
+                ],
+                "B": [
+                    "14-54-01",
+                    "15-45-00"
+                ]
+            },
+            "FRI": {
+                "First Period": [
+                    "08-30-00",
+                    "09-21-00"
+                ],
+                "Passing (First Period / Second Period)": [
+                    "09-21-01",
+                    "09-27-00"
+                ],
+                "Second Period": [
+                    "09-27-01",
+                    "10-18-00"
+                ],
+                "Break": {
+                    "times": [
+                        "10-18-01",
+                        "10-26-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Break / Third Period)": [
+                    "10-26-01",
+                    "10-32-00"
+                ],
+                "Third Period": [
+                    "10-32-01",
+                    "11-23-00"
+                ],
+                "Passing (Third Period / Fourth Period)": [
+                    "11-23-01",
+                    "11-29-00"
+                ],
+                "Fourth Period": [
+                    "11-29-01",
+                    "12-20-00"
+                ],
+                "Lunch": {
+                    "times": [
+                        "12-20-01",
+                        "12-50-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fifth Period)": [
+                    "12-50-01",
+                    "12-56-00"
+                ],
+                "Fifth Period": [
+                    "12-56-00",
+                    "13-47-00"
+                ],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13-47-01",
+                    "13-53-00"
+                ],
+                "Sixth Period": [
+                    "13-53-01",
+                    "14-44-00"
+                ],
+                "Break II": {
+                    "times": [
+                        "14-44-01",
+                        "14-48-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Break II / B)": [
+                    "14-48-01",
+                    "14-54-00"
+                ],
+                "B": [
+                    "14-54-01",
+                    "15-45-00"
+                ]
+            }
+        },
+        "offDays": {},
+        "overrides": {}
     }
 }
