@@ -91,7 +91,6 @@
             "required": [
                 "name",
                 "shortName",
-                "icon",
                 "color",
                 "schedule",
                 "offDays",

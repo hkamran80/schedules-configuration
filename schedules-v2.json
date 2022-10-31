@@ -2,7 +2,6 @@
     "ca-auhsd-hss": {
         "name": "AUHSD Standard Schedule",
         "shortName": "AUHSD Standard",
-        "icon": "mdiSchoolOutline",
         "color": "#343254",
         "schedule": {
             "MON": {
@@ -323,7 +322,6 @@
     "tx-conroeisd-twcp-a": {
         "name": "The Woodlands College Park High School (A-Lunch)",
         "shortName": "College Park (A)",
-        "icon": "mdiSchoolOutline",
         "color": "#002868",
         "schedule": {
             "MON": {
@@ -673,7 +671,6 @@
     "tx-conroeisd-twcp-b": {
         "name": "The Woodlands College Park High School (B-Lunch)",
         "shortName": "College Park (B)",
-        "icon": "mdiSchoolOutline",
         "color": "#002868",
         "schedule": {
             "MON": {
@@ -1043,7 +1040,6 @@
     "tx-conroeisd-twcp-c": {
         "name": "The Woodlands College Park High School (C-Lunch)",
         "shortName": "College Park (C)",
-        "icon": "mdiSchoolOutline",
         "color": "#002868",
         "schedule": {
             "MON": {
@@ -1413,7 +1409,6 @@
     "tx-conroeisd-twcp-d": {
         "name": "The Woodlands College Park High School (D-Lunch)",
         "shortName": "College Park (D)",
-        "icon": "mdiSchoolOutline",
         "color": "#002868",
         "schedule": {
             "MON": {
@@ -1763,7 +1758,6 @@
     "ca-charter-cvhs": {
         "name": "Clayton Valley Charter High School",
         "shortName": "Clayton Valley",
-        "icon": "mdiSchoolOutline",
         "color": "#D5272A",
         "schedule": {
             "MON": {
@@ -2090,7 +2084,6 @@
     "ca-lafsd-sms": {
         "name": "Stanley Middle School",
         "shortName": "Stanley Middle",
-        "icon": "mdiSchoolOutline",
         "color": "#006434",
         "schedule": {
             "MON": {
@@ -2409,7 +2402,6 @@
     "ca-guhsd-mvhs": {
         "name": "Monte Vista High School",
         "shortName": "Monte Vista",
-        "icon": "mdiSchoolOutline",
         "color": "#5B1515",
         "schedule": {
             "MON": {
@@ -2720,7 +2712,6 @@
         "name": "College Park High School",
         "shortName": "College Park",
         "color": "#341C40",
-        "icon": "mdiSchoolOutline",
         "schedule": {
             "MON": {
                 "Zero Period": [
