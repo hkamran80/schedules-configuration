@@ -3893,6 +3893,107 @@
                     "15-45-00"
                 ]
             },
+            "WED": {
+                "Second Period": [
+                    "09-15-00",
+                    "10-40-00"
+                ],
+                "Break": {
+                    "times": [
+                        "10-40-01",
+                        "10-48-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Break / Third Period)": [
+                    "10-48-01",
+                    "10-54-00"
+                ],
+                "Third Period": [
+                    "10-54-01",
+                    "12-19-00"
+                ],
+                "Access": {
+                    "times": [
+                        "12-19-01",
+                        "12-59-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Lunch": {
+                    "times": [
+                        "12-59-01",
+                        "13-29-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fourth Period)": [
+                    "13-29-01",
+                    "13-35-00"
+                ],
+                "Fourth Period": [
+                    "13-35-01",
+                    "15-00-00"
+                ]
+            },
+            "THU": {
+                "First Period": [
+                    "08-30-00",
+                    "09-55-00"
+                ],
+                "Break": {
+                    "times": [
+                        "09-55-01",
+                        "10-03-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Break / Fifth Period)": [
+                    "10-03-01",
+                    "10-09-00"
+                ],
+                "Fifth Period": [
+                    "10-09-01",
+                    "11-34-00"
+                ],
+                "Access": {
+                    "times": [
+                        "11-34-01",
+                        "12-09-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Lunch": {
+                    "times": [
+                        "12-09-01",
+                        "12-39-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Sixth Period)": [
+                    "12-39-01",
+                    "12-45-00"
+                ],
+                "Sixth Period": [
+                    "12-45-01",
+                    "14-10-00"
+                ],
+                "Break II": {
+                    "times": [
+                        "14-10-01",
+                        "14-14-00"
+                    ],
+                    "allowEditing": false
+                },
+                "Passing (Break II / B)": [
+                    "14-14-01",
+                    "14-20-00"
+                ],
+                "B": [
+                    "14-20-01",
+                    "15-45-00"
+                ]
+            },
             "FRI": {
                 "First Period": [
                     "08-30-00",
