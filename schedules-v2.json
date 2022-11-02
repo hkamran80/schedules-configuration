@@ -317,7 +317,9 @@
                 "2023-04-07"
             ]
         },
-        "overrides": {}
+        "overrides": {
+            "2022-11-07": "WED"
+        }
     },
     "tx-conroeisd-twcp-a": {
         "name": "The Woodlands College Park High School (A-Lunch)",
