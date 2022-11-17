@@ -1,0 +1,8 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": ["/schedules-v2.json"],
+            "url": "./schedules.schema.json"
+        }
+    ]
+}
