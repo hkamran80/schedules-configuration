@@ -96,6 +96,7 @@
                 "name",
                 "shortName",
                 "color",
+                "timezone",
                 "schedule",
                 "offDays",
                 "overrides"
