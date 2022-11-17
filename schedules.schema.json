@@ -25,6 +25,10 @@
                     "type": "string",
                     "description": "The hex color code of the schedule's color"
                 },
+                "timezone": {
+                    "type": "string",
+                    "description": "The tzdata name for a given timezone (e.g. America/Los_Angeles)"
+                },
                 "schedule": {
                     "type": "object",
                     "description": "The actual schedule",
