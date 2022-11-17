@@ -3,319 +3,153 @@
         "name": "AUHSD Standard Schedule",
         "shortName": "AUHSD Standard",
         "color": "#343254",
+        "timezone": "America/Los_Angeles",
         "schedule": {
             "MON": {
-                "Zero Period": [
-                    "07-10-00",
-                    "08-25-00"
-                ],
+                "Zero Period": ["07-10-00", "08-25-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-25-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "09-15-00"
-                ],
+                "First Period": ["08-30-01", "09-15-00"],
                 "Passing (First Period / Second Period)": [
                     "09-15-01",
                     "09-20-00"
                 ],
-                "Second Period": [
-                    "09-20-01",
-                    "10-05-00"
-                ],
+                "Second Period": ["09-20-01", "10-05-00"],
                 "Passing (Second Period / Third Period)": [
                     "10-05-01",
                     "10-10-00"
                 ],
-                "Third Period": [
-                    "10-10-01",
-                    "10-55-00"
-                ],
+                "Third Period": ["10-10-01", "10-55-00"],
                 "Brunch": {
-                    "times": [
-                        "10-55-01",
-                        "11-05-00"
-                    ],
+                    "times": ["10-55-01", "11-05-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Fourth Period)": [
-                    "11-05-01",
-                    "11-10-00"
-                ],
-                "Fourth Period": [
-                    "11-10-01",
-                    "11-55-00"
-                ],
+                "Passing (Brunch / Fourth Period)": ["11-05-01", "11-10-00"],
+                "Fourth Period": ["11-10-01", "11-55-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "11-55-01",
                     "12-00-00"
                 ],
-                "Fifth Period": [
-                    "12-00-01",
-                    "12-45-00"
-                ],
+                "Fifth Period": ["12-00-01", "12-45-00"],
                 "Lunch": {
-                    "times": [
-                        "12-45-01",
-                        "13-20-00"
-                    ],
+                    "times": ["12-45-01", "13-20-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "13-20-01",
-                    "13-25-00"
-                ],
-                "Sixth Period": [
-                    "13-25-01",
-                    "14-10-00"
-                ],
+                "Passing (Lunch / Sixth Period)": ["13-20-01", "13-25-00"],
+                "Sixth Period": ["13-25-01", "14-10-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "14-10-01",
                     "14-15-00"
                 ],
-                "Seventh Period": [
-                    "14-15-01",
-                    "15-00-00"
-                ]
+                "Seventh Period": ["14-15-01", "15-00-00"]
             },
             "TUE": {
-                "Zero Period": [
-                    "07-30-00",
-                    "08-20-00"
-                ],
+                "Zero Period": ["07-30-00", "08-20-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-20-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "10-00-00"
-                ],
+                "First Period": ["08-30-01", "10-00-00"],
                 "Passing (First Period / Second Period)": [
                     "10-00-01",
                     "10-10-00"
                 ],
-                "Second Period": [
-                    "10-10-01",
-                    "11-40-00"
-                ],
+                "Second Period": ["10-10-01", "11-40-00"],
                 "Brunch": {
-                    "times": [
-                        "11-40-01",
-                        "11-45-00"
-                    ],
+                    "times": ["11-40-01", "11-45-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Third Period)": [
-                    "11-45-01",
-                    "11-55-00"
-                ],
-                "Third Period": [
-                    "11-55-01",
-                    "13-25-00"
-                ],
+                "Passing (Brunch / Third Period)": ["11-45-01", "11-55-00"],
+                "Third Period": ["11-55-01", "13-25-00"],
                 "Lunch": {
-                    "times": [
-                        "13-25-01",
-                        "13-55-00"
-                    ],
+                    "times": ["13-25-01", "13-55-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Seventh Period)": [
-                    "13-55-01",
-                    "14-05-00"
-                ],
-                "Seventh Period": [
-                    "14-05-01",
-                    "15-35-00"
-                ]
+                "Passing (Lunch / Seventh Period)": ["13-55-01", "14-05-00"],
+                "Seventh Period": ["14-05-01", "15-35-00"]
             },
             "WED": {
-                "Fourth Period": [
-                    "08-30-00",
-                    "10-00-00"
-                ],
-                "Passing (Fourth Period / Academy)": [
-                    "10-00-01",
-                    "10-10-00"
-                ],
+                "Fourth Period": ["08-30-00", "10-00-00"],
+                "Passing (Fourth Period / Academy)": ["10-00-01", "10-10-00"],
                 "Academy": {
-                    "times": [
-                        "10-10-01",
-                        "11-05-00"
-                    ],
+                    "times": ["10-10-01", "11-05-00"],
                     "allowEditing": false
                 },
                 "Brunch": {
-                    "times": [
-                        "11-05-01",
-                        "11-10-00"
-                    ],
+                    "times": ["11-05-01", "11-10-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Fifth Period)": [
-                    "11-10-01",
-                    "11-20-00"
-                ],
-                "Fifth Period": [
-                    "11-20-01",
-                    "12-50-00"
-                ],
+                "Passing (Brunch / Fifth Period)": ["11-10-01", "11-20-00"],
+                "Fifth Period": ["11-20-01", "12-50-00"],
                 "Lunch": {
-                    "times": [
-                        "12-50-01",
-                        "13-20-00"
-                    ],
+                    "times": ["12-50-01", "13-20-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "13-20-01",
-                    "13-30-00"
-                ],
-                "Sixth Period": [
-                    "13-30-01",
-                    "15-00-00"
-                ]
+                "Passing (Lunch / Sixth Period)": ["13-20-01", "13-30-00"],
+                "Sixth Period": ["13-30-01", "15-00-00"]
             },
             "THU": {
-                "Zero Period": [
-                    "07-30-00",
-                    "08-20-00"
-                ],
+                "Zero Period": ["07-30-00", "08-20-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-20-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "10-00-00"
-                ],
+                "First Period": ["08-30-01", "10-00-00"],
                 "Passing (First Period / Second Period)": [
                     "10-00-01",
                     "10-10-00"
                 ],
-                "Second Period": [
-                    "10-10-01",
-                    "11-40-00"
-                ],
+                "Second Period": ["10-10-01", "11-40-00"],
                 "Brunch": {
-                    "times": [
-                        "11-40-01",
-                        "11-45-00"
-                    ],
+                    "times": ["11-40-01", "11-45-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Third Period)": [
-                    "11-45-01",
-                    "11-55-00"
-                ],
-                "Third Period": [
-                    "11-55-01",
-                    "13-25-00"
-                ],
+                "Passing (Brunch / Third Period)": ["11-45-01", "11-55-00"],
+                "Third Period": ["11-55-01", "13-25-00"],
                 "Lunch": {
-                    "times": [
-                        "13-25-01",
-                        "13-55-00"
-                    ],
+                    "times": ["13-25-01", "13-55-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Seventh Period)": [
-                    "13-55-01",
-                    "14-05-00"
-                ],
-                "Seventh Period": [
-                    "14-05-01",
-                    "15-35-00"
-                ]
+                "Passing (Lunch / Seventh Period)": ["13-55-01", "14-05-00"],
+                "Seventh Period": ["14-05-01", "15-35-00"]
             },
             "FRI": {
-                "Zero Period": [
-                    "07-30-00",
-                    "08-20-00"
-                ],
+                "Zero Period": ["07-30-00", "08-20-00"],
                 "Passing (Zero Period / Fourth Period)": [
                     "08-20-01",
                     "08-30-00"
                 ],
-                "Fourth Period": [
-                    "08-30-01",
-                    "10-00-00"
-                ],
-                "Passing (Fourth Period / Academy)": [
-                    "10-00-01",
-                    "10-10-00"
-                ],
+                "Fourth Period": ["08-30-01", "10-00-00"],
+                "Passing (Fourth Period / Academy)": ["10-00-01", "10-10-00"],
                 "Academy": {
-                    "times": [
-                        "10-10-01",
-                        "11-05-00"
-                    ],
+                    "times": ["10-10-01", "11-05-00"],
                     "allowEditing": false
                 },
                 "Brunch": {
-                    "times": [
-                        "11-05-01",
-                        "11-10-00"
-                    ],
+                    "times": ["11-05-01", "11-10-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Fifth Period)": [
-                    "11-10-01",
-                    "11-20-00"
-                ],
-                "Fifth Period": [
-                    "11-20-01",
-                    "12-50-00"
-                ],
+                "Passing (Brunch / Fifth Period)": ["11-10-01", "11-20-00"],
+                "Fifth Period": ["11-20-01", "12-50-00"],
                 "Lunch": {
-                    "times": [
-                        "12-50-01",
-                        "13-20-00"
-                    ],
+                    "times": ["12-50-01", "13-20-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "13-20-01",
-                    "13-30-00"
-                ],
-                "Sixth Period": [
-                    "13-30-01",
-                    "15-00-00"
-                ]
+                "Passing (Lunch / Sixth Period)": ["13-20-01", "13-30-00"],
+                "Sixth Period": ["13-30-01", "15-00-00"]
             }
         },
         "offDays": {
-            "Labor Day": [
-                "2022-09-05"
-            ],
-            "Veteran's Day": [
-                "2022-11-11"
-            ],
-            "Thanksgiving Break": [
-                "2022-11-21",
-                "2022-11-25"
-            ],
-            "Winter Break": [
-                "2022-12-19",
-                "2023-01-03"
-            ],
-            "Martin Luther King Jr. Day": [
-                "2023-01-16"
-            ],
-            "Presidents' Day Weekend": [
-                "2023-02-17",
-                "2023-02-20"
-            ],
-            "Staff Development Day": [
-                "2023-03-20"
-            ],
-            "Spring Break": [
-                "2023-04-03",
-                "2023-04-07"
-            ]
+            "Labor Day": ["2022-09-05"],
+            "Veteran's Day": ["2022-11-11"],
+            "Thanksgiving Break": ["2022-11-21", "2022-11-25"],
+            "Winter Break": ["2022-12-19", "2023-01-03"],
+            "Martin Luther King Jr. Day": ["2023-01-16"],
+            "Presidents' Day Weekend": ["2023-02-17", "2023-02-20"],
+            "Staff Development Day": ["2023-03-20"],
+            "Spring Break": ["2023-04-03", "2023-04-07"]
         },
         "overrides": {
             "2022-11-07": "WED"
@@ -325,346 +159,197 @@
         "name": "The Woodlands College Park High School (A-Lunch)",
         "shortName": "College Park (A)",
         "color": "#002868",
+        "timezone": "America/Chicago",
         "schedule": {
             "MON": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Lunch": {
-                    "times": [
-                        "10-46-01",
-                        "11-17-00"
-                    ],
+                    "times": ["10-46-01", "11-17-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Advisory)": [
-                    "11-17-01",
-                    "11-24-00"
-                ],
+                "Passing (Lunch / Advisory)": ["11-17-01", "11-24-00"],
                 "Advisory": {
-                    "times": [
-                        "11-24-01",
-                        "11-52-00"
-                    ],
+                    "times": ["11-24-01", "11-52-00"],
                     "allowEditing": false
                 },
-                "Fifth Period": [
-                    "11-52-01",
-                    "12-49-00"
-                ],
+                "Fifth Period": ["11-52-01", "12-49-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "12-49-01",
                     "12-56-00"
                 ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "TUE": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Lunch": {
-                    "times": [
-                        "10-46-01",
-                        "11-17-00"
-                    ],
+                    "times": ["10-46-01", "11-17-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Advisory)": [
-                    "11-17-01",
-                    "11-24-00"
-                ],
+                "Passing (Lunch / Advisory)": ["11-17-01", "11-24-00"],
                 "Advisory": {
-                    "times": [
-                        "11-24-01",
-                        "11-52-00"
-                    ],
+                    "times": ["11-24-01", "11-52-00"],
                     "allowEditing": false
                 },
-                "Fifth Period": [
-                    "11-52-01",
-                    "12-49-00"
-                ],
+                "Fifth Period": ["11-52-01", "12-49-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "12-49-01",
                     "12-56-00"
                 ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "WED": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Lunch": {
-                    "times": [
-                        "10-46-01",
-                        "11-17-00"
-                    ],
+                    "times": ["10-46-01", "11-17-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Advisory)": [
-                    "11-17-01",
-                    "11-24-00"
-                ],
+                "Passing (Lunch / Advisory)": ["11-17-01", "11-24-00"],
                 "Advisory": {
-                    "times": [
-                        "11-24-01",
-                        "11-52-00"
-                    ],
+                    "times": ["11-24-01", "11-52-00"],
                     "allowEditing": false
                 },
-                "Fifth Period": [
-                    "11-52-01",
-                    "12-49-00"
-                ],
+                "Fifth Period": ["11-52-01", "12-49-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "12-49-01",
                     "12-56-00"
                 ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "THU": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Lunch": {
-                    "times": [
-                        "10-46-01",
-                        "11-17-00"
-                    ],
+                    "times": ["10-46-01", "11-17-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Advisory)": [
-                    "11-17-01",
-                    "11-24-00"
-                ],
+                "Passing (Lunch / Advisory)": ["11-17-01", "11-24-00"],
                 "Advisory": {
-                    "times": [
-                        "11-24-01",
-                        "11-52-00"
-                    ],
+                    "times": ["11-24-01", "11-52-00"],
                     "allowEditing": false
                 },
-                "Fifth Period": [
-                    "11-52-01",
-                    "12-49-00"
-                ],
+                "Fifth Period": ["11-52-01", "12-49-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "12-49-01",
                     "12-56-00"
                 ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "FRI": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Lunch": {
-                    "times": [
-                        "10-46-01",
-                        "11-17-00"
-                    ],
+                    "times": ["10-46-01", "11-17-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Advisory)": [
-                    "11-17-01",
-                    "11-24-00"
-                ],
+                "Passing (Lunch / Advisory)": ["11-17-01", "11-24-00"],
                 "Advisory": {
-                    "times": [
-                        "11-24-01",
-                        "11-52-00"
-                    ],
+                    "times": ["11-24-01", "11-52-00"],
                     "allowEditing": false
                 },
-                "Fifth Period": [
-                    "11-52-01",
-                    "12-49-00"
-                ],
+                "Fifth Period": ["11-52-01", "12-49-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "12-49-01",
                     "12-56-00"
                 ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             }
         },
         "offDays": {},
@@ -674,366 +359,202 @@
         "name": "The Woodlands College Park High School (B-Lunch)",
         "shortName": "College Park (B)",
         "color": "#002868",
+        "timezone": "America/Chicago",
         "schedule": {
             "MON": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
-                "Passing (Fourth Period / Advisory)": [
-                    "10-46-01",
-                    "10-53-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
+                "Passing (Fourth Period / Advisory)": ["10-46-01", "10-53-00"],
                 "Advisory": {
-                    "times": [
-                        "10-53-01",
-                        "11-17-00"
-                    ],
+                    "times": ["10-53-01", "11-17-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "11-17-01",
-                        "11-47-00"
-                    ],
+                    "times": ["11-17-01", "11-47-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "11-47-01",
-                    "11-52-00"
-                ],
-                "Fifth Period": [
-                    "11-52-01",
-                    "12-49-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["11-47-01", "11-52-00"],
+                "Fifth Period": ["11-52-01", "12-49-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "12-49-01",
                     "12-56-00"
                 ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "TUE": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
-                "Passing (Fourth Period / Advisory)": [
-                    "10-46-01",
-                    "10-53-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
+                "Passing (Fourth Period / Advisory)": ["10-46-01", "10-53-00"],
                 "Advisory": {
-                    "times": [
-                        "10-53-01",
-                        "11-17-00"
-                    ],
+                    "times": ["10-53-01", "11-17-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "11-17-01",
-                        "11-47-00"
-                    ],
+                    "times": ["11-17-01", "11-47-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "11-47-01",
-                    "11-52-00"
-                ],
-                "Fifth Period": [
-                    "11-52-01",
-                    "12-49-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["11-47-01", "11-52-00"],
+                "Fifth Period": ["11-52-01", "12-49-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "12-49-01",
                     "12-56-00"
                 ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "WED": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
-                "Passing (Fourth Period / Advisory)": [
-                    "10-46-01",
-                    "10-53-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
+                "Passing (Fourth Period / Advisory)": ["10-46-01", "10-53-00"],
                 "Advisory": {
-                    "times": [
-                        "10-53-01",
-                        "11-17-00"
-                    ],
+                    "times": ["10-53-01", "11-17-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "11-17-01",
-                        "11-47-00"
-                    ],
+                    "times": ["11-17-01", "11-47-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "11-47-01",
-                    "11-52-00"
-                ],
-                "Fifth Period": [
-                    "11-52-01",
-                    "12-49-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["11-47-01", "11-52-00"],
+                "Fifth Period": ["11-52-01", "12-49-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "12-49-01",
                     "12-56-00"
                 ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "THU": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
-                "Passing (Fourth Period / Advisory)": [
-                    "10-46-01",
-                    "10-53-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
+                "Passing (Fourth Period / Advisory)": ["10-46-01", "10-53-00"],
                 "Advisory": {
-                    "times": [
-                        "10-53-01",
-                        "11-17-00"
-                    ],
+                    "times": ["10-53-01", "11-17-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "11-17-01",
-                        "11-47-00"
-                    ],
+                    "times": ["11-17-01", "11-47-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "11-47-01",
-                    "11-52-00"
-                ],
-                "Fifth Period": [
-                    "11-52-01",
-                    "12-49-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["11-47-01", "11-52-00"],
+                "Fifth Period": ["11-52-01", "12-49-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "12-49-01",
                     "12-56-00"
                 ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "FRI": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
-                "Passing (Fourth Period / Advisory)": [
-                    "10-46-01",
-                    "10-53-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
+                "Passing (Fourth Period / Advisory)": ["10-46-01", "10-53-00"],
                 "Advisory": {
-                    "times": [
-                        "10-53-01",
-                        "11-17-00"
-                    ],
+                    "times": ["10-53-01", "11-17-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "11-17-01",
-                        "11-47-00"
-                    ],
+                    "times": ["11-17-01", "11-47-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "11-47-01",
-                    "11-52-00"
-                ],
-                "Fifth Period": [
-                    "11-52-01",
-                    "12-49-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["11-47-01", "11-52-00"],
+                "Fifth Period": ["11-52-01", "12-49-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "12-49-01",
                     "12-56-00"
                 ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             }
         },
         "offDays": {},
@@ -1043,366 +564,202 @@
         "name": "The Woodlands College Park High School (C-Lunch)",
         "shortName": "College Park (C)",
         "color": "#002868",
+        "timezone": "America/Chicago",
         "schedule": {
             "MON": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "10-46-01",
                     "10-53-00"
                 ],
-                "Fifth Period": [
-                    "10-53-01",
-                    "11-48-00"
-                ],
+                "Fifth Period": ["10-53-01", "11-48-00"],
                 "Lunch": {
-                    "times": [
-                        "11-48-01",
-                        "12-18-00"
-                    ],
+                    "times": ["11-48-01", "12-18-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Advisory)": [
-                    "12-18-01",
-                    "12-23-00"
-                ],
+                "Passing (Lunch / Advisory)": ["12-18-01", "12-23-00"],
                 "Advisory": {
-                    "times": [
-                        "12-23-01",
-                        "12-49-00"
-                    ],
+                    "times": ["12-23-01", "12-49-00"],
                     "allowEditing": false
                 },
-                "Passing (Advisory / Sixth Period)": [
-                    "12-49-01",
-                    "12-56-00"
-                ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Passing (Advisory / Sixth Period)": ["12-49-01", "12-56-00"],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "TUE": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "10-46-01",
                     "10-53-00"
                 ],
-                "Fifth Period": [
-                    "10-53-01",
-                    "11-48-00"
-                ],
+                "Fifth Period": ["10-53-01", "11-48-00"],
                 "Lunch": {
-                    "times": [
-                        "11-48-01",
-                        "12-18-00"
-                    ],
+                    "times": ["11-48-01", "12-18-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Advisory)": [
-                    "12-18-01",
-                    "12-23-00"
-                ],
+                "Passing (Lunch / Advisory)": ["12-18-01", "12-23-00"],
                 "Advisory": {
-                    "times": [
-                        "12-23-01",
-                        "12-49-00"
-                    ],
+                    "times": ["12-23-01", "12-49-00"],
                     "allowEditing": false
                 },
-                "Passing (Advisory / Sixth Period)": [
-                    "12-49-01",
-                    "12-56-00"
-                ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Passing (Advisory / Sixth Period)": ["12-49-01", "12-56-00"],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "WED": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "10-46-01",
                     "10-53-00"
                 ],
-                "Fifth Period": [
-                    "10-53-01",
-                    "11-48-00"
-                ],
+                "Fifth Period": ["10-53-01", "11-48-00"],
                 "Lunch": {
-                    "times": [
-                        "11-48-01",
-                        "12-18-00"
-                    ],
+                    "times": ["11-48-01", "12-18-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Advisory)": [
-                    "12-18-01",
-                    "12-23-00"
-                ],
+                "Passing (Lunch / Advisory)": ["12-18-01", "12-23-00"],
                 "Advisory": {
-                    "times": [
-                        "12-23-01",
-                        "12-49-00"
-                    ],
+                    "times": ["12-23-01", "12-49-00"],
                     "allowEditing": false
                 },
-                "Passing (Advisory / Sixth Period)": [
-                    "12-49-01",
-                    "12-56-00"
-                ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Passing (Advisory / Sixth Period)": ["12-49-01", "12-56-00"],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "THU": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "10-46-01",
                     "10-53-00"
                 ],
-                "Fifth Period": [
-                    "10-53-01",
-                    "11-48-00"
-                ],
+                "Fifth Period": ["10-53-01", "11-48-00"],
                 "Lunch": {
-                    "times": [
-                        "11-48-01",
-                        "12-18-00"
-                    ],
+                    "times": ["11-48-01", "12-18-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Advisory)": [
-                    "12-18-01",
-                    "12-23-00"
-                ],
+                "Passing (Lunch / Advisory)": ["12-18-01", "12-23-00"],
                 "Advisory": {
-                    "times": [
-                        "12-23-01",
-                        "12-49-00"
-                    ],
+                    "times": ["12-23-01", "12-49-00"],
                     "allowEditing": false
                 },
-                "Passing (Advisory / Sixth Period)": [
-                    "12-49-01",
-                    "12-56-00"
-                ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Passing (Advisory / Sixth Period)": ["12-49-01", "12-56-00"],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "FRI": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "10-46-01",
                     "10-53-00"
                 ],
-                "Fifth Period": [
-                    "10-53-01",
-                    "11-48-00"
-                ],
+                "Fifth Period": ["10-53-01", "11-48-00"],
                 "Lunch": {
-                    "times": [
-                        "11-48-01",
-                        "12-18-00"
-                    ],
+                    "times": ["11-48-01", "12-18-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Advisory)": [
-                    "12-18-01",
-                    "12-23-00"
-                ],
+                "Passing (Lunch / Advisory)": ["12-18-01", "12-23-00"],
                 "Advisory": {
-                    "times": [
-                        "12-23-01",
-                        "12-49-00"
-                    ],
+                    "times": ["12-23-01", "12-49-00"],
                     "allowEditing": false
                 },
-                "Passing (Advisory / Sixth Period)": [
-                    "12-49-01",
-                    "12-56-00"
-                ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Passing (Advisory / Sixth Period)": ["12-49-01", "12-56-00"],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             }
         },
         "offDays": {},
@@ -1412,346 +769,197 @@
         "name": "The Woodlands College Park High School (D-Lunch)",
         "shortName": "College Park (D)",
         "color": "#002868",
+        "timezone": "America/Chicago",
         "schedule": {
             "MON": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "10-46-01",
                     "10-53-00"
                 ],
-                "Fifth Period": [
-                    "10-53-01",
-                    "11-51-00"
-                ],
+                "Fifth Period": ["10-53-01", "11-51-00"],
                 "Advisory": {
-                    "times": [
-                        "11-51-01",
-                        "12-19-00"
-                    ],
+                    "times": ["11-51-01", "12-19-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "12-19-01",
-                        "12-49-00"
-                    ],
+                    "times": ["12-19-01", "12-49-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "12-49-01",
-                    "12-56-00"
-                ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Passing (Lunch / Sixth Period)": ["12-49-01", "12-56-00"],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "TUE": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "10-46-01",
                     "10-53-00"
                 ],
-                "Fifth Period": [
-                    "10-53-01",
-                    "11-51-00"
-                ],
+                "Fifth Period": ["10-53-01", "11-51-00"],
                 "Advisory": {
-                    "times": [
-                        "11-51-01",
-                        "12-19-00"
-                    ],
+                    "times": ["11-51-01", "12-19-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "12-19-01",
-                        "12-49-00"
-                    ],
+                    "times": ["12-19-01", "12-49-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "12-49-01",
-                    "12-56-00"
-                ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Passing (Lunch / Sixth Period)": ["12-49-01", "12-56-00"],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "WED": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "10-46-01",
                     "10-53-00"
                 ],
-                "Fifth Period": [
-                    "10-53-01",
-                    "11-51-00"
-                ],
+                "Fifth Period": ["10-53-01", "11-51-00"],
                 "Advisory": {
-                    "times": [
-                        "11-51-01",
-                        "12-19-00"
-                    ],
+                    "times": ["11-51-01", "12-19-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "12-19-01",
-                        "12-49-00"
-                    ],
+                    "times": ["12-19-01", "12-49-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "12-49-01",
-                    "12-56-00"
-                ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Passing (Lunch / Sixth Period)": ["12-49-01", "12-56-00"],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "THU": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "10-46-01",
                     "10-53-00"
                 ],
-                "Fifth Period": [
-                    "10-53-01",
-                    "11-51-00"
-                ],
+                "Fifth Period": ["10-53-01", "11-51-00"],
                 "Advisory": {
-                    "times": [
-                        "11-51-01",
-                        "12-19-00"
-                    ],
+                    "times": ["11-51-01", "12-19-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "12-19-01",
-                        "12-49-00"
-                    ],
+                    "times": ["12-19-01", "12-49-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "12-49-01",
-                    "12-56-00"
-                ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Passing (Lunch / Sixth Period)": ["12-49-01", "12-56-00"],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             },
             "FRI": {
-                "First Period": [
-                    "07-20-00",
-                    "08-07-00"
-                ],
+                "First Period": ["07-20-00", "08-07-00"],
                 "Passing (First Period / Second Period)": [
                     "08-07-01",
                     "08-14-00"
                 ],
-                "Second Period": [
-                    "08-14-01",
-                    "09-00-00"
-                ],
+                "Second Period": ["08-14-01", "09-00-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-00-01",
                     "09-07-00"
                 ],
-                "Third Period": [
-                    "09-07-01",
-                    "09-53-00"
-                ],
+                "Third Period": ["09-07-01", "09-53-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "09-53-01",
                     "10-00-00"
                 ],
-                "Fourth Period": [
-                    "10-00-01",
-                    "10-46-00"
-                ],
+                "Fourth Period": ["10-00-01", "10-46-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "10-46-01",
                     "10-53-00"
                 ],
-                "Fifth Period": [
-                    "10-53-01",
-                    "11-51-00"
-                ],
+                "Fifth Period": ["10-53-01", "11-51-00"],
                 "Advisory": {
-                    "times": [
-                        "11-51-01",
-                        "12-19-00"
-                    ],
+                    "times": ["11-51-01", "12-19-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "12-19-01",
-                        "12-49-00"
-                    ],
+                    "times": ["12-19-01", "12-49-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "12-49-01",
-                    "12-56-00"
-                ],
-                "Sixth Period": [
-                    "12-56-01",
-                    "13-42-00"
-                ],
+                "Passing (Lunch / Sixth Period)": ["12-49-01", "12-56-00"],
+                "Sixth Period": ["12-56-01", "13-42-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-42-01",
                     "13-49-00"
                 ],
-                "Seventh Period": [
-                    "13-49-01",
-                    "14-35-00"
-                ]
+                "Seventh Period": ["13-49-01", "14-35-00"]
             }
         },
         "offDays": {},
@@ -1761,323 +969,171 @@
         "name": "Clayton Valley Charter High School",
         "shortName": "Clayton Valley",
         "color": "#D5272A",
+        "timezone": "America/Los_Angeles",
         "schedule": {
             "MON": {
-                "Zero Period": [
-                    "07-30-00",
-                    "08-25-00"
-                ],
+                "Zero Period": ["07-30-00", "08-25-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-25-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "09-27-00"
-                ],
+                "First Period": ["08-30-01", "09-27-00"],
                 "Passing (First Period / Second Period)": [
                     "09-27-01",
                     "09-32-00"
                 ],
-                "Second Period": [
-                    "09-32-01",
-                    "10-29-00"
-                ],
+                "Second Period": ["09-32-01", "10-29-00"],
                 "Brunch": {
-                    "times": [
-                        "10-29-01",
-                        "10-42-00"
-                    ],
+                    "times": ["10-29-01", "10-42-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Third Period)": [
-                    "10-42-01",
-                    "10-47-00"
-                ],
-                "Third Period": [
-                    "10-47-01",
-                    "11-44-00"
-                ],
+                "Passing (Brunch / Third Period)": ["10-42-01", "10-47-00"],
+                "Third Period": ["10-47-01", "11-44-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-44-01",
                     "11-49-00"
                 ],
-                "Fourth Period": [
-                    "11-49-01",
-                    "12-46-00"
-                ],
+                "Fourth Period": ["11-49-01", "12-46-00"],
                 "Lunch": {
-                    "times": [
-                        "12-46-01",
-                        "13-15-00"
-                    ],
+                    "times": ["12-46-01", "13-15-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "13-15-01",
-                    "13-21-00"
-                ],
-                "Fifth Period": [
-                    "13-21-01",
-                    "14-18-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["13-15-01", "13-21-00"],
+                "Fifth Period": ["13-21-01", "14-18-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "14-18-01",
                     "14-23-00"
                 ],
-                "Sixth Period": [
-                    "14-23-01",
-                    "15-20-00"
-                ]
+                "Sixth Period": ["14-23-01", "15-20-00"]
             },
             "TUE": {
-                "Zero Period": [
-                    "07-30-00",
-                    "08-25-00"
-                ],
+                "Zero Period": ["07-30-00", "08-25-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-25-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "09-27-00"
-                ],
+                "First Period": ["08-30-01", "09-27-00"],
                 "Passing (First Period / Second Period)": [
                     "09-27-01",
                     "09-32-00"
                 ],
-                "Second Period": [
-                    "09-32-01",
-                    "10-29-00"
-                ],
+                "Second Period": ["09-32-01", "10-29-00"],
                 "Brunch": {
-                    "times": [
-                        "10-29-01",
-                        "10-42-00"
-                    ],
+                    "times": ["10-29-01", "10-42-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Third Period)": [
-                    "10-42-01",
-                    "10-47-00"
-                ],
-                "Third Period": [
-                    "10-47-01",
-                    "11-44-00"
-                ],
+                "Passing (Brunch / Third Period)": ["10-42-01", "10-47-00"],
+                "Third Period": ["10-47-01", "11-44-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-44-01",
                     "11-49-00"
                 ],
-                "Fourth Period": [
-                    "11-49-01",
-                    "12-46-00"
-                ],
+                "Fourth Period": ["11-49-01", "12-46-00"],
                 "Lunch": {
-                    "times": [
-                        "12-46-01",
-                        "13-15-00"
-                    ],
+                    "times": ["12-46-01", "13-15-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "13-15-01",
-                    "13-21-00"
-                ],
-                "Fifth Period": [
-                    "13-21-01",
-                    "14-18-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["13-15-01", "13-21-00"],
+                "Fifth Period": ["13-21-01", "14-18-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "14-18-01",
                     "14-23-00"
                 ],
-                "Sixth Period": [
-                    "14-23-01",
-                    "15-20-00"
-                ]
+                "Sixth Period": ["14-23-01", "15-20-00"]
             },
             "WED": {
-                "Zero Period": [
-                    "07-00-00",
-                    "08-25-00"
-                ],
+                "Zero Period": ["07-00-00", "08-25-00"],
                 "Passing (Zero Period / Second Period)": [
                     "08-25-01",
                     "08-30-00"
                 ],
-                "Second Period": [
-                    "08-30-01",
-                    "10-10-00"
-                ],
+                "Second Period": ["08-30-01", "10-10-00"],
                 "Brunch": {
-                    "times": [
-                        "10-10-01",
-                        "10-25-00"
-                    ],
+                    "times": ["10-10-01", "10-25-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Office Hours)": [
-                    "10-25-01",
-                    "10-30-00"
-                ],
+                "Passing (Brunch / Office Hours)": ["10-25-01", "10-30-00"],
                 "Office Hours": {
-                    "times": [
-                        "10-30-01",
-                        "11-20-00"
-                    ],
+                    "times": ["10-30-01", "11-20-00"],
                     "allowEditing": false
                 },
                 "Passing (Office Hours / Fourth Period)": [
                     "11-20-01",
                     "11-25-00"
                 ],
-                "Fourth Period": [
-                    "11-25-01",
-                    "13-05-00"
-                ],
+                "Fourth Period": ["11-25-01", "13-05-00"],
                 "Lunch": {
-                    "times": [
-                        "13-05-01",
-                        "13-35-00"
-                    ],
+                    "times": ["13-05-01", "13-35-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "13-35-01",
-                    "13-40-00"
-                ],
-                "Sixth Period": [
-                    "13-40-01",
-                    "15-20-00"
-                ]
+                "Passing (Lunch / Sixth Period)": ["13-35-01", "13-40-00"],
+                "Sixth Period": ["13-40-01", "15-20-00"]
             },
             "THU": {
                 "Staff PD": {
-                    "times": [
-                        "07-30-00",
-                        "08-15-00"
-                    ],
+                    "times": ["07-30-00", "08-15-00"],
                     "allowEditing": false
                 },
                 "Passing (Zero Period / Second Period)": [
                     "08-15-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "10-10-00"
-                ],
+                "First Period": ["08-30-01", "10-10-00"],
                 "Brunch": {
-                    "times": [
-                        "10-10-01",
-                        "10-25-00"
-                    ],
+                    "times": ["10-10-01", "10-25-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Office Hours)": [
-                    "10-25-01",
-                    "10-30-00"
-                ],
+                "Passing (Brunch / Office Hours)": ["10-25-01", "10-30-00"],
                 "Office Hours": {
-                    "times": [
-                        "10-30-01",
-                        "11-20-00"
-                    ],
+                    "times": ["10-30-01", "11-20-00"],
                     "allowEditing": false
                 },
                 "Passing (Office Hours / Third Period)": [
                     "11-20-01",
                     "11-25-00"
                 ],
-                "Third Period": [
-                    "11-25-01",
-                    "13-05-00"
-                ],
+                "Third Period": ["11-25-01", "13-05-00"],
                 "Lunch": {
-                    "times": [
-                        "13-05-01",
-                        "13-35-00"
-                    ],
+                    "times": ["13-05-01", "13-35-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "13-35-01",
-                    "13-40-00"
-                ],
-                "Fifth Period": [
-                    "13-40-01",
-                    "15-20-00"
-                ]
+                "Passing (Lunch / Fifth Period)": ["13-35-01", "13-40-00"],
+                "Fifth Period": ["13-40-01", "15-20-00"]
             },
             "FRI": {
-                "Zero Period": [
-                    "07-30-00",
-                    "08-25-00"
-                ],
+                "Zero Period": ["07-30-00", "08-25-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-25-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "09-27-00"
-                ],
+                "First Period": ["08-30-01", "09-27-00"],
                 "Passing (First Period / Second Period)": [
                     "09-27-01",
                     "09-32-00"
                 ],
-                "Second Period": [
-                    "09-32-01",
-                    "10-29-00"
-                ],
+                "Second Period": ["09-32-01", "10-29-00"],
                 "Brunch": {
-                    "times": [
-                        "10-29-01",
-                        "10-42-00"
-                    ],
+                    "times": ["10-29-01", "10-42-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Third Period)": [
-                    "10-42-01",
-                    "10-47-00"
-                ],
-                "Third Period": [
-                    "10-47-01",
-                    "11-44-00"
-                ],
+                "Passing (Brunch / Third Period)": ["10-42-01", "10-47-00"],
+                "Third Period": ["10-47-01", "11-44-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-44-01",
                     "11-49-00"
                 ],
-                "Fourth Period": [
-                    "11-49-01",
-                    "12-46-00"
-                ],
+                "Fourth Period": ["11-49-01", "12-46-00"],
                 "Lunch": {
-                    "times": [
-                        "12-46-01",
-                        "13-15-00"
-                    ],
+                    "times": ["12-46-01", "13-15-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "13-15-01",
-                    "13-21-00"
-                ],
-                "Fifth Period": [
-                    "13-21-01",
-                    "14-18-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["13-15-01", "13-21-00"],
+                "Fifth Period": ["13-21-01", "14-18-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "14-18-01",
                     "14-23-00"
                 ],
-                "Sixth Period": [
-                    "14-23-01",
-                    "15-20-00"
-                ]
+                "Sixth Period": ["14-23-01", "15-20-00"]
             }
         },
         "offDays": {},
@@ -2087,317 +1143,161 @@
         "name": "Stanley Middle School",
         "shortName": "Stanley Middle",
         "color": "#006434",
+        "timezone": "America/Los_Angeles",
         "schedule": {
             "MON": {
-                "First Period": [
-                    "08-15-00",
-                    "09-02-00"
-                ],
+                "First Period": ["08-15-00", "09-02-00"],
                 "Passing (First Period / Second Period)": [
                     "09-02-01",
                     "09-06-00"
                 ],
-                "Second Period": [
-                    "09-06-01",
-                    "09-51-00"
-                ],
+                "Second Period": ["09-06-01", "09-51-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-51-01",
                     "09-55-00"
                 ],
-                "Third Period": [
-                    "09-55-01",
-                    "10-40-00"
-                ],
+                "Third Period": ["09-55-01", "10-40-00"],
                 "Break": {
-                    "times": [
-                        "10-40-01",
-                        "10-56-00"
-                    ],
+                    "times": ["10-40-01", "10-56-00"],
                     "allowEditing": false
                 },
-                "Fourth Period": [
-                    "10-56-01",
-                    "11-41-00"
-                ],
+                "Fourth Period": ["10-56-01", "11-41-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "11-41-01",
                     "11-45-00"
                 ],
-                "Fifth Period": [
-                    "11-45-01",
-                    "12-30-00"
-                ],
+                "Fifth Period": ["11-45-01", "12-30-00"],
                 "Lunch": {
-                    "times": [
-                        "12-30-01",
-                        "13-15-00"
-                    ],
+                    "times": ["12-30-01", "13-15-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "13-15-01",
-                    "13-19-00"
-                ],
-                "Sixth Period": [
-                    "13-19-01",
-                    "14-04-00"
-                ],
+                "Passing (Lunch / Sixth Period)": ["13-15-01", "13-19-00"],
+                "Sixth Period": ["13-19-01", "14-04-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "14-04-01",
                     "14-08-00"
                 ],
-                "Seventh Period": [
-                    "14-08-01",
-                    "14-53-00"
-                ]
+                "Seventh Period": ["14-08-01", "14-53-00"]
             },
             "TUE": {
-                "First Period": [
-                    "08-15-00",
-                    "09-15-00"
-                ],
+                "First Period": ["08-15-00", "09-15-00"],
                 "Passing (First Period / Third Period)": [
                     "09-15-01",
                     "09-19-00"
                 ],
-                "Third Period": [
-                    "09-19-01",
-                    "10-19-00"
-                ],
+                "Third Period": ["09-19-01", "10-19-00"],
                 "Break": {
-                    "times": [
-                        "10-19-01",
-                        "10-31-00"
-                    ],
+                    "times": ["10-19-01", "10-31-00"],
                     "allowEditing": false
                 },
-                "Fifth Period": [
-                    "10-31-01",
-                    "11-26-00"
-                ],
-                "Passing (Fifth Period / Academy)": [
-                    "11-26-01",
-                    "11-30-00"
-                ],
+                "Fifth Period": ["10-31-01", "11-26-00"],
+                "Passing (Fifth Period / Academy)": ["11-26-01", "11-30-00"],
                 "Academy": {
-                    "times": [
-                        "11-30-01",
-                        "12-05-00"
-                    ],
+                    "times": ["11-30-01", "12-05-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "12-05-01",
-                        "12-50-00"
-                    ],
+                    "times": ["12-05-01", "12-50-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "12-50-01",
-                    "12-54-00"
-                ],
-                "Sixth Period": [
-                    "12-54-01",
-                    "13-49-00"
-                ],
+                "Passing (Lunch / Sixth Period)": ["12-50-01", "12-54-00"],
+                "Sixth Period": ["12-54-01", "13-49-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "13-49-01",
                     "13-53-00"
                 ],
-                "Seventh Period": [
-                    "13-53-01",
-                    "14-53-00"
-                ]
+                "Seventh Period": ["13-53-01", "14-53-00"]
             },
             "WED": {
-                "Second Period": [
-                    "09-24-00",
-                    "10-31-00"
-                ],
+                "Second Period": ["09-24-00", "10-31-00"],
                 "Break": {
-                    "times": [
-                        "10-31-01",
-                        "10-45-00"
-                    ],
+                    "times": ["10-31-01", "10-45-00"],
                     "allowEditing": false
                 },
-                "Fourth Period": [
-                    "10-45-01",
-                    "11-50-00"
-                ],
+                "Fourth Period": ["10-45-01", "11-50-00"],
                 "Lunch": {
-                    "times": [
-                        "11-50-01",
-                        "12-35-00"
-                    ],
+                    "times": ["11-50-01", "12-35-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "12-35-01",
-                    "12-39-00"
-                ],
-                "Fifth Period": [
-                    "12-39-01",
-                    "13-44-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["12-35-01", "12-39-00"],
+                "Fifth Period": ["12-39-01", "13-44-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "13-44-01",
                     "13-48-00"
                 ],
-                "Sixth Period": [
-                    "13-48-01",
-                    "14-53-00"
-                ]
+                "Sixth Period": ["13-48-01", "14-53-00"]
             },
             "THU": {
-                "First Period": [
-                    "08-15-00",
-                    "09-15-00"
-                ],
+                "First Period": ["08-15-00", "09-15-00"],
                 "Passing (First Period / Second Period)": [
                     "09-15-01",
                     "09-19-00"
                 ],
-                "Second Period": [
-                    "09-19-01",
-                    "10-14-00"
-                ],
+                "Second Period": ["09-19-01", "10-14-00"],
                 "Break": {
-                    "times": [
-                        "10-14-01",
-                        "10-26-00"
-                    ],
+                    "times": ["10-14-01", "10-26-00"],
                     "allowEditing": false
                 },
-                "Third Period": [
-                    "10-26-01",
-                    "11-26-00"
-                ],
-                "Passing (Third Period / Academy)": [
-                    "11-26-01",
-                    "11-30-00"
-                ],
+                "Third Period": ["10-26-01", "11-26-00"],
+                "Passing (Third Period / Academy)": ["11-26-01", "11-30-00"],
                 "Academy": {
-                    "times": [
-                        "11-30-01",
-                        "12-05-00"
-                    ],
+                    "times": ["11-30-01", "12-05-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "12-05-01",
-                        "12-50-00"
-                    ],
+                    "times": ["12-05-01", "12-50-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fourth Period)": [
-                    "12-50-01",
-                    "12-54-00"
-                ],
-                "Fourth Period": [
-                    "12-54-01",
-                    "13-49-00"
-                ],
+                "Passing (Lunch / Fourth Period)": ["12-50-01", "12-54-00"],
+                "Fourth Period": ["12-54-01", "13-49-00"],
                 "Passing (Fourth Period / Seventh Period)": [
                     "13-49-01",
                     "13-53-00"
                 ],
-                "Seventh Period": [
-                    "13-53-01",
-                    "14-53-00"
-                ]
+                "Seventh Period": ["13-53-01", "14-53-00"]
             },
             "FRI": {
-                "First Period": [
-                    "08-15-00",
-                    "09-02-00"
-                ],
+                "First Period": ["08-15-00", "09-02-00"],
                 "Passing (First Period / Second Period)": [
                     "09-02-01",
                     "09-06-00"
                 ],
-                "Second Period": [
-                    "09-06-01",
-                    "09-51-00"
-                ],
+                "Second Period": ["09-06-01", "09-51-00"],
                 "Passing (Second Period / Third Period)": [
                     "09-51-01",
                     "09-55-00"
                 ],
-                "Third Period": [
-                    "09-55-01",
-                    "10-40-00"
-                ],
+                "Third Period": ["09-55-01", "10-40-00"],
                 "Break": {
-                    "times": [
-                        "10-40-01",
-                        "10-56-00"
-                    ],
+                    "times": ["10-40-01", "10-56-00"],
                     "allowEditing": false
                 },
-                "Fourth Period": [
-                    "10-56-01",
-                    "11-41-00"
-                ],
+                "Fourth Period": ["10-56-01", "11-41-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "11-41-01",
                     "11-45-00"
                 ],
-                "Fifth Period": [
-                    "11-45-01",
-                    "12-30-00"
-                ],
+                "Fifth Period": ["11-45-01", "12-30-00"],
                 "Lunch": {
-                    "times": [
-                        "12-30-01",
-                        "13-15-00"
-                    ],
+                    "times": ["12-30-01", "13-15-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "13-15-01",
-                    "13-19-00"
-                ],
-                "Sixth Period": [
-                    "13-19-01",
-                    "14-04-00"
-                ],
+                "Passing (Lunch / Sixth Period)": ["13-15-01", "13-19-00"],
+                "Sixth Period": ["13-19-01", "14-04-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "14-04-01",
                     "14-08-00"
                 ],
-                "Seventh Period": [
-                    "14-08-01",
-                    "14-53-00"
-                ]
+                "Seventh Period": ["14-08-01", "14-53-00"]
             }
         },
         "offDays": {
-            "Veteran's Day": [
-                "2022-11-11"
-            ],
-            "Thanksgiving Break": [
-                "2022-11-21",
-                "2022-11-25"
-            ],
-            "Winter Break": [
-                "2022-12-19",
-                "2023-01-02"
-            ],
-            "Presidents' Day Weekend": [
-                "2023-02-17",
-                "2023-02-20"
-            ],
-            "Staff Development Day": [
-                "2023-03-20"
-            ],
-            "Spring Break": [
-                "2023-04-03",
-                "2023-04-07"
-            ]
+            "Veteran's Day": ["2022-11-11"],
+            "Thanksgiving Break": ["2022-11-21", "2022-11-25"],
+            "Winter Break": ["2022-12-19", "2023-01-02"],
+            "Presidents' Day Weekend": ["2023-02-17", "2023-02-20"],
+            "Staff Development Day": ["2023-03-20"],
+            "Spring Break": ["2023-04-03", "2023-04-07"]
         },
         "overrides": {}
     },
@@ -2405,306 +1305,172 @@
         "name": "Monte Vista High School",
         "shortName": "Monte Vista",
         "color": "#5B1515",
+        "timezone": "America/Los_Angeles",
         "schedule": {
             "MON": {
-                "First Period": [
-                    "08-30-00",
-                    "09-20-00"
-                ],
+                "First Period": ["08-30-00", "09-20-00"],
                 "Passing (First Period / Second Period)": [
                     "09-20-01",
                     "09-25-00"
                 ],
-                "Second Period": [
-                    "09-25-01",
-                    "10-15-00"
-                ],
+                "Second Period": ["09-25-01", "10-15-00"],
                 "Break": {
-                    "times": [
-                        "10-15-01",
-                        "10-28-00"
-                    ],
+                    "times": ["10-15-01", "10-28-00"],
                     "allowEditing": false
                 },
-                "Third Period": [
-                    "10-28-01",
-                    "11-18-00"
-                ],
+                "Third Period": ["10-28-01", "11-18-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-18-01",
                     "11-23-00"
                 ],
-                "Fourth Period": [
-                    "11-23-01",
-                    "12-15-00"
-                ],
+                "Fourth Period": ["11-23-01", "12-15-00"],
                 "Lunch": {
-                    "times": [
-                        "12-15-01",
-                        "12-50-00"
-                    ],
+                    "times": ["12-15-01", "12-50-00"],
                     "allowEditing": false
                 },
-                "Fifth Period": [
-                    "12-50-01",
-                    "13-40-00"
-                ],
+                "Fifth Period": ["12-50-01", "13-40-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "13-40-01",
                     "13-45-00"
                 ],
-                "Sixth Period": [
-                    "13-45-01",
-                    "14-35-00"
-                ],
+                "Sixth Period": ["13-45-01", "14-35-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "14-35-01",
                     "14-40-00"
                 ],
-                "Seventh Period": [
-                    "14-40-01",
-                    "15-30-00"
-                ]
+                "Seventh Period": ["14-40-01", "15-30-00"]
             },
             "TUE": {
-                "First Period": [
-                    "08-30-00",
-                    "09-20-00"
-                ],
+                "First Period": ["08-30-00", "09-20-00"],
                 "Passing (First Period / Second Period)": [
                     "09-20-01",
                     "09-25-00"
                 ],
-                "Second Period": [
-                    "09-25-01",
-                    "10-15-00"
-                ],
+                "Second Period": ["09-25-01", "10-15-00"],
                 "Break": {
-                    "times": [
-                        "10-15-01",
-                        "10-28-00"
-                    ],
+                    "times": ["10-15-01", "10-28-00"],
                     "allowEditing": false
                 },
-                "Third Period": [
-                    "10-28-01",
-                    "11-18-00"
-                ],
+                "Third Period": ["10-28-01", "11-18-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-18-01",
                     "11-23-00"
                 ],
-                "Fourth Period": [
-                    "11-23-01",
-                    "12-15-00"
-                ],
+                "Fourth Period": ["11-23-01", "12-15-00"],
                 "Lunch": {
-                    "times": [
-                        "12-15-01",
-                        "12-50-00"
-                    ],
+                    "times": ["12-15-01", "12-50-00"],
                     "allowEditing": false
                 },
-                "Fifth Period": [
-                    "12-50-01",
-                    "13-40-00"
-                ],
+                "Fifth Period": ["12-50-01", "13-40-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "13-40-01",
                     "13-45-00"
                 ],
-                "Sixth Period": [
-                    "13-45-01",
-                    "14-35-00"
-                ],
+                "Sixth Period": ["13-45-01", "14-35-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "14-35-01",
                     "14-40-00"
                 ],
-                "Seventh Period": [
-                    "14-40-01",
-                    "15-30-00"
-                ]
+                "Seventh Period": ["14-40-01", "15-30-00"]
             },
             "WED": {
-                "First Period": [
-                    "09-10-00",
-                    "09-50-00"
-                ],
+                "First Period": ["09-10-00", "09-50-00"],
                 "Passing (First Period / Second Period)": [
                     "09-50-01",
                     "09-55-00"
                 ],
-                "Second Period": [
-                    "09-55-01",
-                    "10-35-00"
-                ],
+                "Second Period": ["09-55-01", "10-35-00"],
                 "Break": {
-                    "times": [
-                        "10-35-01",
-                        "10-48-00"
-                    ],
+                    "times": ["10-35-01", "10-48-00"],
                     "allowEditing": false
                 },
-                "Third Period": [
-                    "10-48-01",
-                    "11-28-00"
-                ],
+                "Third Period": ["10-48-01", "11-28-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-28-01",
                     "11-33-00"
                 ],
-                "Fourth Period": [
-                    "11-33-01",
-                    "12-15-00"
-                ],
+                "Fourth Period": ["11-33-01", "12-15-00"],
                 "Lunch": {
-                    "times": [
-                        "12-15-01",
-                        "12-50-00"
-                    ],
+                    "times": ["12-15-01", "12-50-00"],
                     "allowEditing": false
                 },
-                "Fifth Period": [
-                    "12-50-01",
-                    "13-30-00"
-                ],
+                "Fifth Period": ["12-50-01", "13-30-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "13-30-01",
                     "13-35-00"
                 ],
-                "Sixth Period": [
-                    "13-35-01",
-                    "14-15-00"
-                ],
+                "Sixth Period": ["13-35-01", "14-15-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "14-15-01",
                     "14-20-00"
                 ],
-                "Seventh Period": [
-                    "14-20-01",
-                    "15-00-00"
-                ]
+                "Seventh Period": ["14-20-01", "15-00-00"]
             },
             "THU": {
-                "First Period": [
-                    "08-30-00",
-                    "09-20-00"
-                ],
+                "First Period": ["08-30-00", "09-20-00"],
                 "Passing (First Period / Second Period)": [
                     "09-20-01",
                     "09-25-00"
                 ],
-                "Second Period": [
-                    "09-25-01",
-                    "10-15-00"
-                ],
+                "Second Period": ["09-25-01", "10-15-00"],
                 "Break": {
-                    "times": [
-                        "10-15-01",
-                        "10-28-00"
-                    ],
+                    "times": ["10-15-01", "10-28-00"],
                     "allowEditing": false
                 },
-                "Third Period": [
-                    "10-28-01",
-                    "11-18-00"
-                ],
+                "Third Period": ["10-28-01", "11-18-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-18-01",
                     "11-23-00"
                 ],
-                "Fourth Period": [
-                    "11-23-01",
-                    "12-15-00"
-                ],
+                "Fourth Period": ["11-23-01", "12-15-00"],
                 "Lunch": {
-                    "times": [
-                        "12-15-01",
-                        "12-50-00"
-                    ],
+                    "times": ["12-15-01", "12-50-00"],
                     "allowEditing": false
                 },
-                "Fifth Period": [
-                    "12-50-01",
-                    "13-40-00"
-                ],
+                "Fifth Period": ["12-50-01", "13-40-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "13-40-01",
                     "13-45-00"
                 ],
-                "Sixth Period": [
-                    "13-45-01",
-                    "14-35-00"
-                ],
+                "Sixth Period": ["13-45-01", "14-35-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "14-35-01",
                     "14-40-00"
                 ],
-                "Seventh Period": [
-                    "14-40-01",
-                    "15-30-00"
-                ]
+                "Seventh Period": ["14-40-01", "15-30-00"]
             },
             "FRI": {
-                "First Period": [
-                    "08-30-00",
-                    "09-20-00"
-                ],
+                "First Period": ["08-30-00", "09-20-00"],
                 "Passing (First Period / Second Period)": [
                     "09-20-01",
                     "09-25-00"
                 ],
-                "Second Period": [
-                    "09-25-01",
-                    "10-15-00"
-                ],
+                "Second Period": ["09-25-01", "10-15-00"],
                 "Break": {
-                    "times": [
-                        "10-15-01",
-                        "10-28-00"
-                    ],
+                    "times": ["10-15-01", "10-28-00"],
                     "allowEditing": false
                 },
-                "Third Period": [
-                    "10-28-01",
-                    "11-18-00"
-                ],
+                "Third Period": ["10-28-01", "11-18-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-18-01",
                     "11-23-00"
                 ],
-                "Fourth Period": [
-                    "11-23-01",
-                    "12-15-00"
-                ],
+                "Fourth Period": ["11-23-01", "12-15-00"],
                 "Lunch": {
-                    "times": [
-                        "12-15-01",
-                        "12-50-00"
-                    ],
+                    "times": ["12-15-01", "12-50-00"],
                     "allowEditing": false
                 },
-                "Fifth Period": [
-                    "12-50-01",
-                    "13-40-00"
-                ],
+                "Fifth Period": ["12-50-01", "13-40-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "13-40-01",
                     "13-45-00"
                 ],
-                "Sixth Period": [
-                    "13-45-01",
-                    "14-35-00"
-                ],
+                "Sixth Period": ["13-45-01", "14-35-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "14-35-01",
                     "14-40-00"
                 ],
-                "Seventh Period": [
-                    "14-40-01",
-                    "15-30-00"
-                ]
+                "Seventh Period": ["14-40-01", "15-30-00"]
             }
         },
         "offDays": {},
@@ -2714,351 +1480,173 @@
         "name": "College Park High School",
         "shortName": "College Park",
         "color": "#341C40",
+        "timezone": "America/Los_Angeles",
         "schedule": {
             "MON": {
-                "Zero Period": [
-                    "07-40-00",
-                    "08-25-00"
-                ],
+                "Zero Period": ["07-40-00", "08-25-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-25-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "09-25-00"
-                ],
+                "First Period": ["08-30-01", "09-25-00"],
                 "Passing (First Period / Second Period)": [
                     "09-25-01",
                     "09-33-00"
                 ],
-                "Second Period": [
-                    "09-33-01",
-                    "10-28-00"
-                ],
+                "Second Period": ["09-33-01", "10-28-00"],
                 "Brunch": {
-                    "times": [
-                        "10-28-01",
-                        "10-38-00"
-                    ],
+                    "times": ["10-28-01", "10-38-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Third Period)": [
-                    "10-38-01",
-                    "10-46-00"
-                ],
-                "Third Period": [
-                    "10-46-01",
-                    "11-41-00"
-                ],
+                "Passing (Brunch / Third Period)": ["10-38-01", "10-46-00"],
+                "Third Period": ["10-46-01", "11-41-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-41-01",
                     "11-49-00"
                 ],
-                "Fourth Period": [
-                    "11-49-01",
-                    "12-44-00"
-                ],
+                "Fourth Period": ["11-49-01", "12-44-00"],
                 "Lunch": {
-                    "times": [
-                        "12-44-01",
-                        "13-14-00"
-                    ],
+                    "times": ["12-44-01", "13-14-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "13-14-01",
-                    "13-22-00"
-                ],
-                "Fifth Period": [
-                    "13-22-01",
-                    "14-17-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["13-14-01", "13-22-00"],
+                "Fifth Period": ["13-22-01", "14-17-00"],
                 "Passing (Fifth Period / Sixth Period": [
                     "14-17-01",
                     "14-25-00"
                 ],
-                "Sixth Period": [
-                    "14-25-01",
-                    "15-20-00"
-                ]
+                "Sixth Period": ["14-25-01", "15-20-00"]
             },
             "TUE": {
-                "Zero Period": [
-                    "07-40-00",
-                    "08-25-00"
-                ],
+                "Zero Period": ["07-40-00", "08-25-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-25-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "09-25-00"
-                ],
+                "First Period": ["08-30-01", "09-25-00"],
                 "Passing (First Period / Second Period)": [
                     "09-25-01",
                     "09-33-00"
                 ],
-                "Second Period": [
-                    "09-33-01",
-                    "10-28-00"
-                ],
+                "Second Period": ["09-33-01", "10-28-00"],
                 "Brunch": {
-                    "times": [
-                        "10-28-01",
-                        "10-38-00"
-                    ],
+                    "times": ["10-28-01", "10-38-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Third Period)": [
-                    "10-38-01",
-                    "10-46-00"
-                ],
-                "Third Period": [
-                    "10-46-01",
-                    "11-41-00"
-                ],
+                "Passing (Brunch / Third Period)": ["10-38-01", "10-46-00"],
+                "Third Period": ["10-46-01", "11-41-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-41-01",
                     "11-49-00"
                 ],
-                "Fourth Period": [
-                    "11-49-01",
-                    "12-44-00"
-                ],
+                "Fourth Period": ["11-49-01", "12-44-00"],
                 "Lunch": {
-                    "times": [
-                        "12-44-01",
-                        "13-14-00"
-                    ],
+                    "times": ["12-44-01", "13-14-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "13-14-01",
-                    "13-22-00"
-                ],
-                "Fifth Period": [
-                    "13-22-01",
-                    "14-17-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["13-14-01", "13-22-00"],
+                "Fifth Period": ["13-22-01", "14-17-00"],
                 "Passing (Fifth Period / Sixth Period": [
                     "14-17-01",
                     "14-25-00"
                 ],
-                "Sixth Period": [
-                    "14-25-01",
-                    "15-20-00"
-                ]
+                "Sixth Period": ["14-25-01", "15-20-00"]
             },
             "WED": {
-                "Zero Period": [
-                    "07-40-00",
-                    "08-25-00"
-                ],
+                "Zero Period": ["07-40-00", "08-25-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-25-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "10-05-00"
-                ],
+                "First Period": ["08-30-01", "10-05-00"],
                 "Brunch": {
-                    "times": [
-                        "10-05-01",
-                        "10-15-00"
-                    ],
+                    "times": ["10-05-01", "10-15-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Second Period)": [
-                    "10-15-01",
-                    "10-23-00"
-                ],
-                "Second Period": [
-                    "10-23-01",
-                    "11-58-00"
-                ],
-                "Passing (Second Period / RTI)": [
-                    "11-58-01",
-                    "12-06-00"
-                ],
+                "Passing (Brunch / Second Period)": ["10-15-01", "10-23-00"],
+                "Second Period": ["10-23-01", "11-58-00"],
+                "Passing (Second Period / RTI)": ["11-58-01", "12-06-00"],
                 "RTI": {
-                    "times": [
-                        "12-06-01",
-                        "13-03-00"
-                    ],
+                    "times": ["12-06-01", "13-03-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "13-03-01",
-                        "13-33-00"
-                    ],
+                    "times": ["13-03-01", "13-33-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "13-33-01",
-                    "13-41-00"
-                ],
-                "Fifth Period": [
-                    "13-41-01",
-                    "15-16-00"
-                ]
+                "Passing (Lunch / Fifth Period)": ["13-33-01", "13-41-00"],
+                "Fifth Period": ["13-41-01", "15-16-00"]
             },
             "THU": {
-                "Zero Period": [
-                    "07-40-00",
-                    "08-25-00"
-                ],
+                "Zero Period": ["07-40-00", "08-25-00"],
                 "Passing (Zero Period / Third Period)": [
                     "08-25-01",
                     "08-30-00"
                 ],
-                "Third Period": [
-                    "08-30-01",
-                    "10-05-00"
-                ],
+                "Third Period": ["08-30-01", "10-05-00"],
                 "Brunch": {
-                    "times": [
-                        "10-05-01",
-                        "10-15-00"
-                    ],
+                    "times": ["10-05-01", "10-15-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Fourth Period)": [
-                    "10-15-01",
-                    "10-23-00"
-                ],
-                "Fourth Period": [
-                    "10-23-01",
-                    "11-58-00"
-                ],
-                "Passing (Fourth Period / RTI)": [
-                    "11-58-01",
-                    "12-06-00"
-                ],
+                "Passing (Brunch / Fourth Period)": ["10-15-01", "10-23-00"],
+                "Fourth Period": ["10-23-01", "11-58-00"],
+                "Passing (Fourth Period / RTI)": ["11-58-01", "12-06-00"],
                 "RTI": {
-                    "times": [
-                        "12-06-01",
-                        "13-03-00"
-                    ],
+                    "times": ["12-06-01", "13-03-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "13-03-01",
-                        "13-33-00"
-                    ],
+                    "times": ["13-03-01", "13-33-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "13-33-01",
-                    "13-41-00"
-                ],
-                "Sixth Period": [
-                    "13-41-01",
-                    "15-16-00"
-                ]
+                "Passing (Lunch / Sixth Period)": ["13-33-01", "13-41-00"],
+                "Sixth Period": ["13-41-01", "15-16-00"]
             },
             "FRI": {
-                "Zero Period": [
-                    "07-40-00",
-                    "08-25-00"
-                ],
+                "Zero Period": ["07-40-00", "08-25-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-25-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "09-25-00"
-                ],
+                "First Period": ["08-30-01", "09-25-00"],
                 "Passing (First Period / Second Period)": [
                     "09-25-01",
                     "09-33-00"
                 ],
-                "Second Period": [
-                    "09-33-01",
-                    "10-28-00"
-                ],
+                "Second Period": ["09-33-01", "10-28-00"],
                 "Brunch": {
-                    "times": [
-                        "10-28-01",
-                        "10-38-00"
-                    ],
+                    "times": ["10-28-01", "10-38-00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Third Period)": [
-                    "10-38-01",
-                    "10-46-00"
-                ],
-                "Third Period": [
-                    "10-46-01",
-                    "11-41-00"
-                ],
+                "Passing (Brunch / Third Period)": ["10-38-01", "10-46-00"],
+                "Third Period": ["10-46-01", "11-41-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-41-01",
                     "11-49-00"
                 ],
-                "Fourth Period": [
-                    "11-49-01",
-                    "12-44-00"
-                ],
+                "Fourth Period": ["11-49-01", "12-44-00"],
                 "Lunch": {
-                    "times": [
-                        "12-44-01",
-                        "13-14-00"
-                    ],
+                    "times": ["12-44-01", "13-14-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "13-14-01",
-                    "13-22-00"
-                ],
-                "Fifth Period": [
-                    "13-22-01",
-                    "14-17-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["13-14-01", "13-22-00"],
+                "Fifth Period": ["13-22-01", "14-17-00"],
                 "Passing (Fifth Period / Sixth Period": [
                     "14-17-01",
                     "14-25-00"
                 ],
-                "Sixth Period": [
-                    "14-25-01",
-                    "15-20-00"
-                ]
+                "Sixth Period": ["14-25-01", "15-20-00"]
             }
         },
         "offDays": {
-            "Veteran's Day": [
-                "2022-11-11"
-            ],
-            "Thanksgiving Break": [
-                "2022-11-21",
-                "2022-11-25"
-            ],
-            "Winter Break": [
-                "2022-12-22",
-                "2023-01-06"
-            ],
-            "Martin Luther King Jr.'s Day": [
-                "2023-01-16"
-            ],
-            "Presidents' Day Weekend": [
-                "2023-02-17",
-                "2023-02-20"
-            ],
-            "Staff Development Day": [
-                "2023-03-13"
-            ],
-            "Spring Break": [
-                "2023-04-03",
-                "2023-04-07"
-            ],
-            "Memorial Day": [
-                "2023-05-29"
-            ]
+            "Veteran's Day": ["2022-11-11"],
+            "Thanksgiving Break": ["2022-11-21", "2022-11-25"],
+            "Winter Break": ["2022-12-22", "2023-01-06"],
+            "Martin Luther King Jr.'s Day": ["2023-01-16"],
+            "Presidents' Day Weekend": ["2023-02-17", "2023-02-20"],
+            "Staff Development Day": ["2023-03-13"],
+            "Spring Break": ["2023-04-03", "2023-04-07"],
+            "Memorial Day": ["2023-05-29"]
         },
         "overrides": {}
     },
@@ -3066,291 +1654,133 @@
         "name": "Albany High School",
         "shortName": "Albany High",
         "color": "#D7282E",
+        "timezone": "America/Los_Angeles",
         "schedule": {
             "MON": {
-                "First Period": [
-                    "08-30-00",
-                    "09-20-00"
-                ],
+                "First Period": ["08-30-00", "09-20-00"],
                 "Passing (First Period / Second Period)": [
                     "09-20-01",
                     "09-25-00"
                 ],
-                "Second Period": [
-                    "09-25-01",
-                    "10-15-00"
-                ],
+                "Second Period": ["09-25-01", "10-15-00"],
                 "Break": {
-                    "times": [
-                        "10-15-01",
-                        "10-25-00"
-                    ],
+                    "times": ["10-15-01", "10-25-00"],
                     "allowEditing": false
                 },
-                "Passing (Break / Third Period)": [
-                    "10-25-01",
-                    "10-30-00"
-                ],
-                "Third Period": [
-                    "10-30-01",
-                    "11-20-00"
-                ],
+                "Passing (Break / Third Period)": ["10-25-01", "10-30-00"],
+                "Third Period": ["10-30-01", "11-20-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-20-01",
                     "11-25-00"
                 ],
-                "Fourth Period": [
-                    "11-25-01",
-                    "12-15-00"
-                ],
+                "Fourth Period": ["11-25-01", "12-15-00"],
                 "Lunch": {
-                    "times": [
-                        "12-15-01",
-                        "13-00-00"
-                    ],
+                    "times": ["12-15-01", "13-00-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "13-00-01",
-                    "13-05-00"
-                ],
-                "Fifth Period": [
-                    "13-05-01",
-                    "13-55-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["13-00-01", "13-05-00"],
+                "Fifth Period": ["13-05-01", "13-55-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "13-55-01",
                     "14-00-00"
                 ],
-                "Sixth Period": [
-                    "14-00-01",
-                    "14-50-00"
-                ],
+                "Sixth Period": ["14-00-01", "14-50-00"],
                 "Break II": {
-                    "times": [
-                        "14-50-01",
-                        "14-55-00"
-                    ],
+                    "times": ["14-50-01", "14-55-00"],
                     "allowEditing": false
                 },
-                "Passing (Break II / Seventh Period)": [
-                    "14-55-01",
-                    "15-00-00"
-                ],
-                "Seventh Period": [
-                    "15-00-01",
-                    "15-50-00"
-                ]
+                "Passing (Break II / Seventh Period)": ["14-55-01", "15-00-00"],
+                "Seventh Period": ["15-00-01", "15-50-00"]
             },
             "TUE": {
-                "First Period": [
-                    "08-30-00",
-                    "10-05-00"
-                ],
+                "First Period": ["08-30-00", "10-05-00"],
                 "Break": {
-                    "times": [
-                        "10-05-01",
-                        "10-15-00"
-                    ],
+                    "times": ["10-05-01", "10-15-00"],
                     "allowEditing": false
                 },
-                "Passing (Break / Third Period)": [
-                    "10-15-01",
-                    "10-20-00"
-                ],
-                "Third Period": [
-                    "10-20-01",
-                    "11-55-00"
-                ],
+                "Passing (Break / Third Period)": ["10-15-01", "10-20-00"],
+                "Third Period": ["10-20-01", "11-55-00"],
                 "Lunch": {
-                    "times": [
-                        "11-55-01",
-                        "12-40-00"
-                    ],
+                    "times": ["11-55-01", "12-40-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "12-40-01",
-                    "12-45-00"
-                ],
-                "Fifth Period": [
-                    "12-45-01",
-                    "14-20-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["12-40-01", "12-45-00"],
+                "Fifth Period": ["12-45-01", "14-20-00"],
                 "Passing (Fifth Period / Seventh Period)": [
                     "14-20-01",
                     "14-25-00"
                 ],
-                "Seventh Period": [
-                    "14-25-01",
-                    "16-00-00"
-                ]
+                "Seventh Period": ["14-25-01", "16-00-00"]
             },
             "WED": {
-                "Second Period": [
-                    "08-30-00",
-                    "10-05-00"
-                ],
-                "Passing (Second Period / Advisory)": [
-                    "10-05-01",
-                    "10-10-00"
-                ],
+                "Second Period": ["08-30-00", "10-05-00"],
+                "Passing (Second Period / Advisory)": ["10-05-01", "10-10-00"],
                 "Advisory": {
-                    "times": [
-                        "10-10-01",
-                        "10-50-00"
-                    ],
+                    "times": ["10-10-01", "10-50-00"],
                     "allowEditing": false
                 },
                 "Break": {
-                    "times": [
-                        "10-50-01",
-                        "11-00-00"
-                    ],
+                    "times": ["10-50-01", "11-00-00"],
                     "allowEditing": false
                 },
-                "Passing (Break / Fourth Period)": [
-                    "11-00-01",
-                    "11-05-00"
-                ],
-                "Fourth Period": [
-                    "11-05-01",
-                    "12-40-00"
-                ],
+                "Passing (Break / Fourth Period)": ["11-00-01", "11-05-00"],
+                "Fourth Period": ["11-05-01", "12-40-00"],
                 "Lunch": {
-                    "times": [
-                        "12-40-01",
-                        "13-25-00"
-                    ],
+                    "times": ["12-40-01", "13-25-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "13-25-01",
-                    "13-30-00"
-                ],
-                "Sixth Period": [
-                    "13-30-01",
-                    "15-05-00"
-                ]
+                "Passing (Lunch / Sixth Period)": ["13-25-01", "13-30-00"],
+                "Sixth Period": ["13-30-01", "15-05-00"]
             },
             "THU": {
-                "First Period": [
-                    "08-30-00",
-                    "10-05-00"
-                ],
+                "First Period": ["08-30-00", "10-05-00"],
                 "Break": {
-                    "times": [
-                        "10-05-01",
-                        "10-15-00"
-                    ],
+                    "times": ["10-05-01", "10-15-00"],
                     "allowEditing": false
                 },
-                "Passing (Break / Third Period)": [
-                    "10-15-01",
-                    "10-20-00"
-                ],
-                "Third Period": [
-                    "10-20-01",
-                    "11-55-00"
-                ],
+                "Passing (Break / Third Period)": ["10-15-01", "10-20-00"],
+                "Third Period": ["10-20-01", "11-55-00"],
                 "Lunch": {
-                    "times": [
-                        "11-55-01",
-                        "12-40-00"
-                    ],
+                    "times": ["11-55-01", "12-40-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "12-40-01",
-                    "12-45-00"
-                ],
-                "Fifth Period": [
-                    "12-45-01",
-                    "14-20-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["12-40-01", "12-45-00"],
+                "Fifth Period": ["12-45-01", "14-20-00"],
                 "Passing (Fifth Period / Seventh Period)": [
                     "14-20-01",
                     "14-25-00"
                 ],
-                "Seventh Period": [
-                    "14-25-01",
-                    "16-00-00"
-                ]
+                "Seventh Period": ["14-25-01", "16-00-00"]
             },
             "FRI": {
-                "Second Period": [
-                    "08-30-00",
-                    "10-05-00"
-                ],
-                "Passing (Second Period / Advisory)": [
-                    "10-05-01",
-                    "10-10-00"
-                ],
+                "Second Period": ["08-30-00", "10-05-00"],
+                "Passing (Second Period / Advisory)": ["10-05-01", "10-10-00"],
                 "Advisory": {
-                    "times": [
-                        "10-10-01",
-                        "10-50-00"
-                    ],
+                    "times": ["10-10-01", "10-50-00"],
                     "allowEditing": false
                 },
                 "Break": {
-                    "times": [
-                        "10-50-01",
-                        "11-00-00"
-                    ],
+                    "times": ["10-50-01", "11-00-00"],
                     "allowEditing": false
                 },
-                "Passing (Break / Fourth Period)": [
-                    "11-00-01",
-                    "11-05-00"
-                ],
-                "Fourth Period": [
-                    "11-05-01",
-                    "12-40-00"
-                ],
+                "Passing (Break / Fourth Period)": ["11-00-01", "11-05-00"],
+                "Fourth Period": ["11-05-01", "12-40-00"],
                 "Lunch": {
-                    "times": [
-                        "12-40-01",
-                        "13-25-00"
-                    ],
+                    "times": ["12-40-01", "13-25-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "13-25-01",
-                    "13-30-00"
-                ],
-                "Sixth Period": [
-                    "13-30-01",
-                    "15-05-00"
-                ]
+                "Passing (Lunch / Sixth Period)": ["13-25-01", "13-30-00"],
+                "Sixth Period": ["13-30-01", "15-05-00"]
             }
         },
         "offDays": {
-            "Veteran's Day": [
-                "2022-11-11"
-            ],
-            "Thanksgiving Break": [
-                "2022-11-21",
-                "2022-11-25"
-            ],
-            "Winter Break": [
-                "2022-12-19",
-                "2023-01-02"
-            ],
-            "Martin Luther King Jr.'s Day": [
-                "2023-01-16"
-            ],
-            "February Break": [
-                "2023-02-20",
-                "2023-02-24"
-            ],
-            "Spring Break": [
-                "2023-04-03",
-                "2023-04-07"
-            ],
-            "Memorial Day": [
-                "2023-05-29"
-            ]
+            "Veteran's Day": ["2022-11-11"],
+            "Thanksgiving Break": ["2022-11-21", "2022-11-25"],
+            "Winter Break": ["2022-12-19", "2023-01-02"],
+            "Martin Luther King Jr.'s Day": ["2023-01-16"],
+            "February Break": ["2023-02-20", "2023-02-24"],
+            "Spring Break": ["2023-04-03", "2023-04-07"],
+            "Memorial Day": ["2023-05-29"]
         },
         "overrides": {}
     },
@@ -3358,385 +1788,216 @@
         "name": "Berkeley High School",
         "shortName": "Berkeley High",
         "color": "#FEBB0A",
+        "timezone": "America/Los_Angeles",
         "schedule": {
             "MON": {
                 "Staff Meeting": {
-                    "times": [
-                        "08-03-00",
-                        "09-33-00"
-                    ],
+                    "times": ["08-03-00", "09-33-00"],
                     "allowEditing": false
                 },
                 "Passing (Staff Meeting / First Period)": [
                     "09-33-01",
                     "10-00-00"
                 ],
-                "First Period": [
-                    "10-00-01",
-                    "10-43-00"
-                ],
+                "First Period": ["10-00-01", "10-43-00"],
                 "Passing (First Period / Second Period)": [
                     "10-43-01",
                     "10-49-00"
                 ],
-                "Second Period": [
-                    "10-49-01",
-                    "11-37-00"
-                ],
+                "Second Period": ["10-49-01", "11-37-00"],
                 "Passing (Second Period / Third Period)": [
                     "11-37-01",
                     "11-43-00"
                 ],
-                "Third Period": [
-                    "11-43-01",
-                    "12-26-00"
-                ],
+                "Third Period": ["11-43-01", "12-26-00"],
                 "Lunch": {
-                    "times": [
-                        "12-26-01",
-                        "13-06-00"
-                    ],
+                    "times": ["12-26-01", "13-06-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fourth Period)": [
-                    "13-06-01",
-                    "13-12-00"
-                ],
-                "Fourth Period": [
-                    "13-12-01",
-                    "13-55-00"
-                ],
+                "Passing (Lunch / Fourth Period)": ["13-06-01", "13-12-00"],
+                "Fourth Period": ["13-12-01", "13-55-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "13-55-01",
                     "14-01-00"
                 ],
-                "Fifth Period": [
-                    "14-01-01",
-                    "14-44-00"
-                ],
+                "Fifth Period": ["14-01-01", "14-44-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "14-44-01",
                     "14-50-00"
                 ],
-                "Sixth Period": [
-                    "14-50-01",
-                    "15-33-00"
-                ],
+                "Sixth Period": ["14-50-01", "15-33-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "15-33-01",
                     "15-39-00"
                 ],
-                "Seventh Period": [
-                    "15-39-01",
-                    "16-22-00"
-                ]
+                "Seventh Period": ["15-39-01", "16-22-00"]
             },
             "TUE": {
-                "Zero Period": [
-                    "07-26-00",
-                    "08-24-00"
-                ],
+                "Zero Period": ["07-26-00", "08-24-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-24-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "09-28-00"
-                ],
+                "First Period": ["08-30-01", "09-28-00"],
                 "Passing (First Period / Second Period)": [
                     "09-28-01",
                     "09-34-00"
                 ],
-                "Second Period": [
-                    "09-34-01",
-                    "10-37-00"
-                ],
+                "Second Period": ["09-34-01", "10-37-00"],
                 "Passing (Second Period / Third Period)": [
                     "10-37-01",
                     "10-43-00"
                 ],
-                "Third Period": [
-                    "10-43-01",
-                    "11-41-00"
-                ],
+                "Third Period": ["10-43-01", "11-41-00"],
                 "Lunch": {
-                    "times": [
-                        "11-41-01",
-                        "12-21-00"
-                    ],
+                    "times": ["11-41-01", "12-21-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fourth Period)": [
-                    "12-21-01",
-                    "12-27-00"
-                ],
-                "Fourth Period": [
-                    "12-27-01",
-                    "13-25-00"
-                ],
+                "Passing (Lunch / Fourth Period)": ["12-21-01", "12-27-00"],
+                "Fourth Period": ["12-27-01", "13-25-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "13-25-01",
                     "13-31-00"
                 ],
-                "Fifth Period": [
-                    "13-31-01",
-                    "14-29-00"
-                ],
+                "Fifth Period": ["13-31-01", "14-29-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "14-29-01",
                     "14-35-00"
                 ],
-                "Sixth Period": [
-                    "14-35-01",
-                    "15-33-00"
-                ],
+                "Sixth Period": ["14-35-01", "15-33-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "15-33-01",
                     "15-39-00"
                 ],
-                "Seventh Period": [
-                    "15-39-01",
-                    "16-37-00"
-                ]
+                "Seventh Period": ["15-39-01", "16-37-00"]
             },
             "WED": {
-                "Zero Period": [
-                    "07-26-00",
-                    "08-24-00"
-                ],
+                "Zero Period": ["07-26-00", "08-24-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-24-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "09-28-00"
-                ],
+                "First Period": ["08-30-01", "09-28-00"],
                 "Passing (First Period / Second Period)": [
                     "09-28-01",
                     "09-34-00"
                 ],
-                "Second Period": [
-                    "09-34-01",
-                    "10-37-00"
-                ],
+                "Second Period": ["09-34-01", "10-37-00"],
                 "Passing (Second Period / Third Period)": [
                     "10-37-01",
                     "10-43-00"
                 ],
-                "Third Period": [
-                    "10-43-01",
-                    "11-41-00"
-                ],
+                "Third Period": ["10-43-01", "11-41-00"],
                 "Lunch": {
-                    "times": [
-                        "11-41-01",
-                        "12-21-00"
-                    ],
+                    "times": ["11-41-01", "12-21-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fourth Period)": [
-                    "12-21-01",
-                    "12-27-00"
-                ],
-                "Fourth Period": [
-                    "12-27-01",
-                    "13-25-00"
-                ],
+                "Passing (Lunch / Fourth Period)": ["12-21-01", "12-27-00"],
+                "Fourth Period": ["12-27-01", "13-25-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "13-25-01",
                     "13-31-00"
                 ],
-                "Fifth Period": [
-                    "13-31-01",
-                    "14-29-00"
-                ],
+                "Fifth Period": ["13-31-01", "14-29-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "14-29-01",
                     "14-35-00"
                 ],
-                "Sixth Period": [
-                    "14-35-01",
-                    "15-33-00"
-                ],
+                "Sixth Period": ["14-35-01", "15-33-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "15-33-01",
                     "15-39-00"
                 ],
-                "Seventh Period": [
-                    "15-39-01",
-                    "16-37-00"
-                ]
+                "Seventh Period": ["15-39-01", "16-37-00"]
             },
             "THU": {
-                "Zero Period": [
-                    "07-26-00",
-                    "08-24-00"
-                ],
+                "Zero Period": ["07-26-00", "08-24-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-24-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "09-28-00"
-                ],
+                "First Period": ["08-30-01", "09-28-00"],
                 "Passing (First Period / Second Period)": [
                     "09-28-01",
                     "09-34-00"
                 ],
-                "Second Period": [
-                    "09-34-01",
-                    "10-37-00"
-                ],
+                "Second Period": ["09-34-01", "10-37-00"],
                 "Passing (Second Period / Third Period)": [
                     "10-37-01",
                     "10-43-00"
                 ],
-                "Third Period": [
-                    "10-43-01",
-                    "11-41-00"
-                ],
+                "Third Period": ["10-43-01", "11-41-00"],
                 "Lunch": {
-                    "times": [
-                        "11-41-01",
-                        "12-21-00"
-                    ],
+                    "times": ["11-41-01", "12-21-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fourth Period)": [
-                    "12-21-01",
-                    "12-27-00"
-                ],
-                "Fourth Period": [
-                    "12-27-01",
-                    "13-25-00"
-                ],
+                "Passing (Lunch / Fourth Period)": ["12-21-01", "12-27-00"],
+                "Fourth Period": ["12-27-01", "13-25-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "13-25-01",
                     "13-31-00"
                 ],
-                "Fifth Period": [
-                    "13-31-01",
-                    "14-29-00"
-                ],
+                "Fifth Period": ["13-31-01", "14-29-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "14-29-01",
                     "14-35-00"
                 ],
-                "Sixth Period": [
-                    "14-35-01",
-                    "15-33-00"
-                ],
+                "Sixth Period": ["14-35-01", "15-33-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "15-33-01",
                     "15-39-00"
                 ],
-                "Seventh Period": [
-                    "15-39-01",
-                    "16-37-00"
-                ]
+                "Seventh Period": ["15-39-01", "16-37-00"]
             },
             "FRI": {
-                "Zero Period": [
-                    "07-26-00",
-                    "08-24-00"
-                ],
+                "Zero Period": ["07-26-00", "08-24-00"],
                 "Passing (Zero Period / First Period)": [
                     "08-24-01",
                     "08-30-00"
                 ],
-                "First Period": [
-                    "08-30-01",
-                    "09-28-00"
-                ],
+                "First Period": ["08-30-01", "09-28-00"],
                 "Passing (First Period / Second Period)": [
                     "09-28-01",
                     "09-34-00"
                 ],
-                "Second Period": [
-                    "09-34-01",
-                    "10-37-00"
-                ],
+                "Second Period": ["09-34-01", "10-37-00"],
                 "Passing (Second Period / Third Period)": [
                     "10-37-01",
                     "10-43-00"
                 ],
-                "Third Period": [
-                    "10-43-01",
-                    "11-41-00"
-                ],
+                "Third Period": ["10-43-01", "11-41-00"],
                 "Lunch": {
-                    "times": [
-                        "11-41-01",
-                        "12-21-00"
-                    ],
+                    "times": ["11-41-01", "12-21-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fourth Period)": [
-                    "12-21-01",
-                    "12-27-00"
-                ],
-                "Fourth Period": [
-                    "12-27-01",
-                    "13-25-00"
-                ],
+                "Passing (Lunch / Fourth Period)": ["12-21-01", "12-27-00"],
+                "Fourth Period": ["12-27-01", "13-25-00"],
                 "Passing (Fourth Period / Fifth Period)": [
                     "13-25-01",
                     "13-31-00"
                 ],
-                "Fifth Period": [
-                    "13-31-01",
-                    "14-29-00"
-                ],
+                "Fifth Period": ["13-31-01", "14-29-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "14-29-01",
                     "14-35-00"
                 ],
-                "Sixth Period": [
-                    "14-35-01",
-                    "15-33-00"
-                ],
+                "Sixth Period": ["14-35-01", "15-33-00"],
                 "Passing (Sixth Period / Seventh Period)": [
                     "15-33-01",
                     "15-39-00"
                 ],
-                "Seventh Period": [
-                    "15-39-01",
-                    "16-37-00"
-                ]
+                "Seventh Period": ["15-39-01", "16-37-00"]
             }
         },
         "offDays": {
-            "Veteran's Day": [
-                "2022-11-11"
-            ],
-            "Fall Break": [
-                "2022-11-21",
-                "2022-11-25"
-            ],
-            "Winter Recess": [
-                "2022-12-19",
-                "2023-01-02"
-            ],
-            "Martin Luther King Jr.'s Day": [
-                "2023-01-16"
-            ],
-            "Presidents' Day Weekend": [
-                "2023-02-17",
-                "2023-02-20"
-            ],
-            "Spring Recess": [
-                "2023-04-03",
-                "2023-04-07"
-            ],
-            "Malcolm X's Birthday": [
-                "2023-05-15"
-            ],
-            "Memorial Day": [
-                "2023-05-29"
-            ]
+            "Veteran's Day": ["2022-11-11"],
+            "Fall Break": ["2022-11-21", "2022-11-25"],
+            "Winter Recess": ["2022-12-19", "2023-01-02"],
+            "Martin Luther King Jr.'s Day": ["2023-01-16"],
+            "Presidents' Day Weekend": ["2023-02-17", "2023-02-20"],
+            "Spring Recess": ["2023-04-03", "2023-04-07"],
+            "Malcolm X's Birthday": ["2023-05-15"],
+            "Memorial Day": ["2023-05-29"]
         },
         "overrides": {}
     },
@@ -3744,332 +2005,159 @@
         "name": "Dougherty Valley High School",
         "shortName": "Dougherty Valley",
         "color": "#0A1837",
+        "timezone": "America/Los_Angeles",
         "schedule": {
             "MON": {
-                "First Period": [
-                    "08-30-00",
-                    "09-21-00"
-                ],
+                "First Period": ["08-30-00", "09-21-00"],
                 "Passing (First Period / Second Period)": [
                     "09-21-01",
                     "09-27-00"
                 ],
-                "Second Period": [
-                    "09-27-01",
-                    "10-18-00"
-                ],
+                "Second Period": ["09-27-01", "10-18-00"],
                 "Break": {
-                    "times": [
-                        "10-18-01",
-                        "10-26-00"
-                    ],
+                    "times": ["10-18-01", "10-26-00"],
                     "allowEditing": false
                 },
-                "Passing (Break / Third Period)": [
-                    "10-26-01",
-                    "10-32-00"
-                ],
-                "Third Period": [
-                    "10-32-01",
-                    "11-23-00"
-                ],
+                "Passing (Break / Third Period)": ["10-26-01", "10-32-00"],
+                "Third Period": ["10-32-01", "11-23-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-23-01",
                     "11-29-00"
                 ],
-                "Fourth Period": [
-                    "11-29-01",
-                    "12-20-00"
-                ],
+                "Fourth Period": ["11-29-01", "12-20-00"],
                 "Lunch": {
-                    "times": [
-                        "12-20-01",
-                        "12-50-00"
-                    ],
+                    "times": ["12-20-01", "12-50-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "12-50-01",
-                    "12-56-00"
-                ],
-                "Fifth Period": [
-                    "12-56-00",
-                    "13-47-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["12-50-01", "12-56-00"],
+                "Fifth Period": ["12-56-00", "13-47-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "13-47-01",
                     "13-53-00"
                 ],
-                "Sixth Period": [
-                    "13-53-01",
-                    "14-44-00"
-                ],
+                "Sixth Period": ["13-53-01", "14-44-00"],
                 "Break II": {
-                    "times": [
-                        "14-44-01",
-                        "14-48-00"
-                    ],
+                    "times": ["14-44-01", "14-48-00"],
                     "allowEditing": false
                 },
-                "Passing (Break II / B)": [
-                    "14-48-01",
-                    "14-54-00"
-                ],
-                "B": [
-                    "14-54-01",
-                    "15-45-00"
-                ]
+                "Passing (Break II / B)": ["14-48-01", "14-54-00"],
+                "B": ["14-54-01", "15-45-00"]
             },
             "TUE": {
-                "First Period": [
-                    "08-30-00",
-                    "09-21-00"
-                ],
+                "First Period": ["08-30-00", "09-21-00"],
                 "Passing (First Period / Second Period)": [
                     "09-21-01",
                     "09-27-00"
                 ],
-                "Second Period": [
-                    "09-27-01",
-                    "10-18-00"
-                ],
+                "Second Period": ["09-27-01", "10-18-00"],
                 "Break": {
-                    "times": [
-                        "10-18-01",
-                        "10-26-00"
-                    ],
+                    "times": ["10-18-01", "10-26-00"],
                     "allowEditing": false
                 },
-                "Passing (Break / Third Period)": [
-                    "10-26-01",
-                    "10-32-00"
-                ],
-                "Third Period": [
-                    "10-32-01",
-                    "11-23-00"
-                ],
+                "Passing (Break / Third Period)": ["10-26-01", "10-32-00"],
+                "Third Period": ["10-32-01", "11-23-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-23-01",
                     "11-29-00"
                 ],
-                "Fourth Period": [
-                    "11-29-01",
-                    "12-20-00"
-                ],
+                "Fourth Period": ["11-29-01", "12-20-00"],
                 "Lunch": {
-                    "times": [
-                        "12-20-01",
-                        "12-50-00"
-                    ],
+                    "times": ["12-20-01", "12-50-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "12-50-01",
-                    "12-56-00"
-                ],
-                "Fifth Period": [
-                    "12-56-00",
-                    "13-47-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["12-50-01", "12-56-00"],
+                "Fifth Period": ["12-56-00", "13-47-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "13-47-01",
                     "13-53-00"
                 ],
-                "Sixth Period": [
-                    "13-53-01",
-                    "14-44-00"
-                ],
+                "Sixth Period": ["13-53-01", "14-44-00"],
                 "Break II": {
-                    "times": [
-                        "14-44-01",
-                        "14-48-00"
-                    ],
+                    "times": ["14-44-01", "14-48-00"],
                     "allowEditing": false
                 },
-                "Passing (Break II / B)": [
-                    "14-48-01",
-                    "14-54-00"
-                ],
-                "B": [
-                    "14-54-01",
-                    "15-45-00"
-                ]
+                "Passing (Break II / B)": ["14-48-01", "14-54-00"],
+                "B": ["14-54-01", "15-45-00"]
             },
             "WED": {
-                "Second Period": [
-                    "09-15-00",
-                    "10-40-00"
-                ],
+                "Second Period": ["09-15-00", "10-40-00"],
                 "Break": {
-                    "times": [
-                        "10-40-01",
-                        "10-48-00"
-                    ],
+                    "times": ["10-40-01", "10-48-00"],
                     "allowEditing": false
                 },
-                "Passing (Break / Third Period)": [
-                    "10-48-01",
-                    "10-54-00"
-                ],
-                "Third Period": [
-                    "10-54-01",
-                    "12-19-00"
-                ],
+                "Passing (Break / Third Period)": ["10-48-01", "10-54-00"],
+                "Third Period": ["10-54-01", "12-19-00"],
                 "Access": {
-                    "times": [
-                        "12-19-01",
-                        "12-59-00"
-                    ],
+                    "times": ["12-19-01", "12-59-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "12-59-01",
-                        "13-29-00"
-                    ],
+                    "times": ["12-59-01", "13-29-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fourth Period)": [
-                    "13-29-01",
-                    "13-35-00"
-                ],
-                "Fourth Period": [
-                    "13-35-01",
-                    "15-00-00"
-                ]
+                "Passing (Lunch / Fourth Period)": ["13-29-01", "13-35-00"],
+                "Fourth Period": ["13-35-01", "15-00-00"]
             },
             "THU": {
-                "First Period": [
-                    "08-30-00",
-                    "09-55-00"
-                ],
+                "First Period": ["08-30-00", "09-55-00"],
                 "Break": {
-                    "times": [
-                        "09-55-01",
-                        "10-03-00"
-                    ],
+                    "times": ["09-55-01", "10-03-00"],
                     "allowEditing": false
                 },
-                "Passing (Break / Fifth Period)": [
-                    "10-03-01",
-                    "10-09-00"
-                ],
-                "Fifth Period": [
-                    "10-09-01",
-                    "11-34-00"
-                ],
+                "Passing (Break / Fifth Period)": ["10-03-01", "10-09-00"],
+                "Fifth Period": ["10-09-01", "11-34-00"],
                 "Access": {
-                    "times": [
-                        "11-34-01",
-                        "12-09-00"
-                    ],
+                    "times": ["11-34-01", "12-09-00"],
                     "allowEditing": false
                 },
                 "Lunch": {
-                    "times": [
-                        "12-09-01",
-                        "12-39-00"
-                    ],
+                    "times": ["12-09-01", "12-39-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Sixth Period)": [
-                    "12-39-01",
-                    "12-45-00"
-                ],
-                "Sixth Period": [
-                    "12-45-01",
-                    "14-10-00"
-                ],
+                "Passing (Lunch / Sixth Period)": ["12-39-01", "12-45-00"],
+                "Sixth Period": ["12-45-01", "14-10-00"],
                 "Break II": {
-                    "times": [
-                        "14-10-01",
-                        "14-14-00"
-                    ],
+                    "times": ["14-10-01", "14-14-00"],
                     "allowEditing": false
                 },
-                "Passing (Break II / B)": [
-                    "14-14-01",
-                    "14-20-00"
-                ],
-                "B": [
-                    "14-20-01",
-                    "15-45-00"
-                ]
+                "Passing (Break II / B)": ["14-14-01", "14-20-00"],
+                "B": ["14-20-01", "15-45-00"]
             },
             "FRI": {
-                "First Period": [
-                    "08-30-00",
-                    "09-21-00"
-                ],
+                "First Period": ["08-30-00", "09-21-00"],
                 "Passing (First Period / Second Period)": [
                     "09-21-01",
                     "09-27-00"
                 ],
-                "Second Period": [
-                    "09-27-01",
-                    "10-18-00"
-                ],
+                "Second Period": ["09-27-01", "10-18-00"],
                 "Break": {
-                    "times": [
-                        "10-18-01",
-                        "10-26-00"
-                    ],
+                    "times": ["10-18-01", "10-26-00"],
                     "allowEditing": false
                 },
-                "Passing (Break / Third Period)": [
-                    "10-26-01",
-                    "10-32-00"
-                ],
-                "Third Period": [
-                    "10-32-01",
-                    "11-23-00"
-                ],
+                "Passing (Break / Third Period)": ["10-26-01", "10-32-00"],
+                "Third Period": ["10-32-01", "11-23-00"],
                 "Passing (Third Period / Fourth Period)": [
                     "11-23-01",
                     "11-29-00"
                 ],
-                "Fourth Period": [
-                    "11-29-01",
-                    "12-20-00"
-                ],
+                "Fourth Period": ["11-29-01", "12-20-00"],
                 "Lunch": {
-                    "times": [
-                        "12-20-01",
-                        "12-50-00"
-                    ],
+                    "times": ["12-20-01", "12-50-00"],
                     "allowEditing": false
                 },
-                "Passing (Lunch / Fifth Period)": [
-                    "12-50-01",
-                    "12-56-00"
-                ],
-                "Fifth Period": [
-                    "12-56-00",
-                    "13-47-00"
-                ],
+                "Passing (Lunch / Fifth Period)": ["12-50-01", "12-56-00"],
+                "Fifth Period": ["12-56-00", "13-47-00"],
                 "Passing (Fifth Period / Sixth Period)": [
                     "13-47-01",
                     "13-53-00"
                 ],
-                "Sixth Period": [
-                    "13-53-01",
-                    "14-44-00"
-                ],
+                "Sixth Period": ["13-53-01", "14-44-00"],
                 "Break II": {
-                    "times": [
-                        "14-44-01",
-                        "14-48-00"
-                    ],
+                    "times": ["14-44-01", "14-48-00"],
                     "allowEditing": false
                 },
-                "Passing (Break II / B)": [
-                    "14-48-01",
-                    "14-54-00"
-                ],
-                "B": [
-                    "14-54-01",
-                    "15-45-00"
-                ]
+                "Passing (Break II / B)": ["14-48-01", "14-54-00"],
+                "B": ["14-54-01", "15-45-00"]
             }
         },
         "offDays": {},
