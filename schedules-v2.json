@@ -2746,7 +2746,7 @@
     "ca-mdusd-nghs": {
         "name": "Northgate High School",
         "shortName": "Northgate High",
-        "color": "##660000",
+        "color": "#660000",
         "timezone": "America/Los_Angeles",
         "schedule": {
             "MON": {
