@@ -2162,5 +2162,579 @@
         },
         "offDays": {},
         "overrides": {}
+    },
+    "nj-ebnet-ebhs-aa": {
+        "name": "East Brunswick High School (A Day, A-Lunch)",
+        "shortName": "EBHS (A, A-Lunch)",
+        "color": "#1C4508",
+        "timezone": "America/New_York",
+        "schedule": {
+            "MON": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Lunch)": ["11-09-01", "11-14-00"],
+                "Lunch": {
+                    "times": ["11-14-01", "11-50-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Third Period)": ["11-50-01", "11-56-00"],
+                "Third Period": ["11-56-01", "13-18-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            },
+            "TUE": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Lunch)": ["11-09-01", "11-14-00"],
+                "Lunch": {
+                    "times": ["11-14-01", "11-50-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Third Period)": ["11-50-01", "11-56-00"],
+                "Third Period": ["11-56-01", "13-18-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            },
+            "WED": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Lunch)": ["11-09-01", "11-14-00"],
+                "Lunch": {
+                    "times": ["11-14-01", "11-50-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Third Period)": ["11-50-01", "11-56-00"],
+                "Third Period": ["11-56-01", "13-18-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            },
+            "THU": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Lunch)": ["11-09-01", "11-14-00"],
+                "Lunch": {
+                    "times": ["11-14-01", "11-50-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Third Period)": ["11-50-01", "11-56-00"],
+                "Third Period": ["11-56-01", "13-18-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            },
+            "FRI": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Lunch)": ["11-09-01", "11-14-00"],
+                "Lunch": {
+                    "times": ["11-14-01", "11-50-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Third Period)": ["11-50-01", "11-56-00"],
+                "Third Period": ["11-56-01", "13-18-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            }
+        },
+        "offDays": {},
+        "overrides": {}
+    },
+    "nj-ebnet-ebhs-ab": {
+        "name": "East Brunswick High School (A Day, B-Lunch)",
+        "shortName": "EBHS (A, B-Lunch)",
+        "color": "#1C4508",
+        "timezone": "America/New_York",
+        "schedule": {
+            "MON": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Third Period (I))": [
+                    "11-09-01",
+                    "11-14-00"
+                ],
+                "Third Period (I)": ["11-14-01", "11-55-00"],
+                "Passing (Third Period (I) / Lunch)": ["11-55-01", "11-59-00"],
+                "Lunch": {
+                    "times": ["11-59-01", "12-33-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Third Period (II))": ["12-33-01", "12-37-00"],
+                "Third Period (II)": ["12-37-01", "13-18-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            },
+            "TUE": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Third Period (I))": [
+                    "11-09-01",
+                    "11-14-00"
+                ],
+                "Third Period (I)": ["11-14-01", "11-55-00"],
+                "Passing (Third Period (I) / Lunch)": ["11-55-01", "11-59-00"],
+                "Lunch": {
+                    "times": ["11-59-01", "12-33-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Third Period (II))": ["12-33-01", "12-37-00"],
+                "Third Period (II)": ["12-37-01", "13-18-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            },
+            "WED": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Third Period (I))": [
+                    "11-09-01",
+                    "11-14-00"
+                ],
+                "Third Period (I)": ["11-14-01", "11-55-00"],
+                "Passing (Third Period (I) / Lunch)": ["11-55-01", "11-59-00"],
+                "Lunch": {
+                    "times": ["11-59-01", "12-33-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Third Period (II))": ["12-33-01", "12-37-00"],
+                "Third Period (II)": ["12-37-01", "13-18-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            },
+            "THU": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Third Period (I))": [
+                    "11-09-01",
+                    "11-14-00"
+                ],
+                "Third Period (I)": ["11-14-01", "11-55-00"],
+                "Passing (Third Period (I) / Lunch)": ["11-55-01", "11-59-00"],
+                "Lunch": {
+                    "times": ["11-59-01", "12-33-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Third Period (II))": ["12-33-01", "12-37-00"],
+                "Third Period (II)": ["12-37-01", "13-18-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            },
+            "FRI": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Third Period (I))": [
+                    "11-09-01",
+                    "11-14-00"
+                ],
+                "Third Period (I)": ["11-14-01", "11-55-00"],
+                "Passing (Third Period (I) / Lunch)": ["11-55-01", "11-59-00"],
+                "Lunch": {
+                    "times": ["11-59-01", "12-33-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Third Period (II))": ["12-33-01", "12-37-00"],
+                "Third Period (II)": ["12-37-01", "13-18-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            }
+        },
+        "offDays": {},
+        "overrides": {}
+    },
+    "nj-ebnet-ebhs-ac": {
+        "name": "East Brunswick High School (A Day, C-Lunch)",
+        "shortName": "EBHS (A, C-Lunch)",
+        "color": "#1C4508",
+        "timezone": "America/New_York",
+        "schedule": {
+            "MON": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Third Period)": [
+                    "11-09-01",
+                    "11-14-00"
+                ],
+                "Third Period": ["11-14-01", "12-36-00"],
+                "Passing (Third Period / Lunch)": ["12-36-01", "12-42-00"],
+                "Lunch": {
+                    "times": ["12-42-01", "13-18-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fourth Period)": ["13-18-01", "13-23-00"],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            },
+            "TUE": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Third Period)": [
+                    "11-09-01",
+                    "11-14-00"
+                ],
+                "Third Period": ["11-14-01", "12-36-00"],
+                "Passing (Third Period / Lunch)": ["12-36-01", "12-42-00"],
+                "Lunch": {
+                    "times": ["12-42-01", "13-18-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fourth Period)": ["13-18-01", "13-23-00"],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            },
+            "WED": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Third Period)": [
+                    "11-09-01",
+                    "11-14-00"
+                ],
+                "Third Period": ["11-14-01", "12-36-00"],
+                "Passing (Third Period / Lunch)": ["12-36-01", "12-42-00"],
+                "Lunch": {
+                    "times": ["12-42-01", "13-18-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fourth Period)": ["13-18-01", "13-23-00"],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            },
+            "THU": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Third Period)": [
+                    "11-09-01",
+                    "11-14-00"
+                ],
+                "Third Period": ["11-14-01", "12-36-00"],
+                "Passing (Third Period / Lunch)": ["12-36-01", "12-42-00"],
+                "Lunch": {
+                    "times": ["12-42-01", "13-18-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fourth Period)": ["13-18-01", "13-23-00"],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            },
+            "FRI": {
+                "First Period": ["08-00-00", "09-22-00"],
+                "Passing (First Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Second Period)": ["09-42-01", "09-47-00"],
+                "Second Period": ["09-47-01", "11-09-00"],
+                "Passing (Second Period / Third Period)": [
+                    "11-09-01",
+                    "11-14-00"
+                ],
+                "Third Period": ["11-14-01", "12-36-00"],
+                "Passing (Third Period / Lunch)": ["12-36-01", "12-42-00"],
+                "Lunch": {
+                    "times": ["12-42-01", "13-18-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fourth Period)": ["13-18-01", "13-23-00"],
+                "Fourth Period": ["13-23-01", "14-45-00"]
+            }
+        },
+        "offDays": {},
+        "overrides": {}
+    },
+    "nj-ebnet-ebhs-ba": {
+        "name": "East Brunswick High School (A Day, A-Lunch)",
+        "shortName": "EBHS (A, A-Lunch)",
+        "color": "#1C4508",
+        "timezone": "America/New_York",
+        "schedule": {
+            "MON": {
+                "Fifth Period": ["08-00-00", "09-22-00"],
+                "Passing (Fifth Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Sixth Period)": ["09-42-01", "09-47-00"],
+                "Sixth Period": ["09-47-01", "11-09-00"],
+                "Passing (Sixth Period / Lunch)": ["11-09-01", "11-14-00"],
+                "Lunch": {
+                    "times": ["11-14-01", "11-50-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Seventh Period)": ["11-50-01", "11-56-00"],
+                "Seventh Period": ["11-56-01", "13-18-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Eighth Period": ["13-23-01", "14-45-00"]
+            },
+            "TUE": {
+                "Fifth Period": ["08-00-00", "09-22-00"],
+                "Passing (Fifth Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Sixth Period)": ["09-42-01", "09-47-00"],
+                "Sixth Period": ["09-47-01", "11-09-00"],
+                "Passing (Sixth Period / Lunch)": ["11-09-01", "11-14-00"],
+                "Lunch": {
+                    "times": ["11-14-01", "11-50-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Seventh Period)": ["11-50-01", "11-56-00"],
+                "Seventh Period": ["11-56-01", "13-18-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Eighth Period": ["13-23-01", "14-45-00"]
+            },
+            "WED": {
+                "Fifth Period": ["08-00-00", "09-22-00"],
+                "Passing (Fifth Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Sixth Period)": ["09-42-01", "09-47-00"],
+                "Sixth Period": ["09-47-01", "11-09-00"],
+                "Passing (Sixth Period / Lunch)": ["11-09-01", "11-14-00"],
+                "Lunch": {
+                    "times": ["11-14-01", "11-50-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Seventh Period)": ["11-50-01", "11-56-00"],
+                "Seventh Period": ["11-56-01", "13-18-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Eighth Period": ["13-23-01", "14-45-00"]
+            },
+            "THU": {
+                "Fifth Period": ["08-00-00", "09-22-00"],
+                "Passing (Fifth Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Sixth Period)": ["09-42-01", "09-47-00"],
+                "Sixth Period": ["09-47-01", "11-09-00"],
+                "Passing (Sixth Period / Lunch)": ["11-09-01", "11-14-00"],
+                "Lunch": {
+                    "times": ["11-14-01", "11-50-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Seventh Period)": ["11-50-01", "11-56-00"],
+                "Seventh Period": ["11-56-01", "13-18-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Eighth Period": ["13-23-01", "14-45-00"]
+            },
+            "FRI": {
+                "Fifth Period": ["08-00-00", "09-22-00"],
+                "Passing (Fifth Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Sixth Period)": ["09-42-01", "09-47-00"],
+                "Sixth Period": ["09-47-01", "11-09-00"],
+                "Passing (Sixth Period / Lunch)": ["11-09-01", "11-14-00"],
+                "Lunch": {
+                    "times": ["11-14-01", "11-50-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Seventh Period)": ["11-50-01", "11-56-00"],
+                "Seventh Period": ["11-56-01", "13-18-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Eighth Period": ["13-23-01", "14-45-00"]
+            }
+        },
+        "offDays": {},
+        "overrides": {}
+    },
+    "nj-ebnet-ebhs-bb": {
+        "name": "East Brunswick High School (A Day, B-Lunch)",
+        "shortName": "EBHS (A, B-Lunch)",
+        "color": "#1C4508",
+        "timezone": "America/New_York",
+        "schedule": {
+            "MON": {
+                "Fifth Period": ["08-00-00", "09-22-00"],
+                "Passing (Fifth Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Sixth Period)": ["09-42-01", "09-47-00"],
+                "Sixth Period": ["09-47-01", "11-09-00"],
+                "Passing (Sixth Period / Seventh Period (I))": [
+                    "11-09-01",
+                    "11-14-00"
+                ],
+                "Seventh Period (I)": ["11-14-01", "11-55-00"],
+                "Passing (Seventh Period (I) / Lunch)": ["11-55-01", "11-59-00"],
+                "Lunch": {
+                    "times": ["11-59-01", "12-33-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Seventh Period (II))": ["12-33-01", "12-37-00"],
+                "Seventh Period (II)": ["12-37-01", "13-18-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "13-18-01",
+                    "13-23-00"
+                ],
+                "Eighth Period": ["13-23-01", "14-45-00"]
+            }
+        },
+        "offDays": {},
+        "overrides": {}
+    },
+    "nj-ebnet-ebhs-bc": {
+        "name": "East Brunswick High School (A Day, C-Lunch)",
+        "shortName": "EBHS (A, C-Lunch)",
+        "color": "#1C4508",
+        "timezone": "America/New_York",
+        "schedule": {
+            "MON": {
+                "Fifth Period": ["08-00-00", "09-22-00"],
+                "Passing (Fifth Period / Homeroom)": ["09-22-01", "09-27-00"],
+                "Homeroom": {
+                    "times": ["09-27-01", "09-42-00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Sixth Period)": ["09-42-01", "09-47-00"],
+                "Sixth Period": ["09-47-01", "11-09-00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "11-09-01",
+                    "11-14-00"
+                ],
+                "Seventh Period": ["11-14-01", "12-36-00"],
+                "Passing (Seventh Period / Lunch)": ["12-36-01", "12-42-00"],
+                "Lunch": {
+                    "times": ["12-42-01", "13-18-00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Eighth Period)": ["13-18-01", "13-23-00"],
+                "Eighth Period": ["13-23-01", "14-45-00"]
+            }
+        },
+        "offDays": {},
+        "overrides": {}
     }
 }
