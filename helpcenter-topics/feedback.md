@@ -13,5 +13,3 @@ Schedules has a feedback form which is used to give feedback and submit bug repo
 5. Enter your feedback
 6. Select whether you are enjoying Schedules or not
 7. Submit
-
-If you submit a feature request or bug report, you should receive an email within five minutes with details on how to track and other things. This email is sent from `noreply@unisontech.org` and may be filtered as spam.
