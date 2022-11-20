@@ -29,6 +29,10 @@
                     "type": "string",
                     "description": "The tzdata name for a given timezone (e.g. America/Los_Angeles)"
                 },
+                "location": {
+                    "type": "string",
+                    "description": "A user-facing string to show where the schedule is located"
+                },
                 "schedule": {
                     "type": "object",
                     "description": "The actual schedule",
@@ -97,6 +101,7 @@
                 "shortName",
                 "color",
                 "timezone",
+                "location",
                 "schedule",
                 "offDays",
                 "overrides"

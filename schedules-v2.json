@@ -4,6 +4,7 @@
         "shortName": "AUHSD Standard",
         "color": "#343254",
         "timezone": "America/Los_Angeles",
+        "location": "Lafayette, CA",
         "schedule": {
             "MON": {
                 "Zero Period": ["07-10-00", "08-25-00"],
@@ -160,6 +161,7 @@
         "shortName": "College Park (A)",
         "color": "#002868",
         "timezone": "America/Chicago",
+        "location": "The Woodlands, TX",
         "schedule": {
             "MON": {
                 "First Period": ["07-20-00", "08-07-00"],
@@ -360,6 +362,7 @@
         "shortName": "College Park (B)",
         "color": "#002868",
         "timezone": "America/Chicago",
+        "location": "The Woodlands, TX",
         "schedule": {
             "MON": {
                 "First Period": ["07-20-00", "08-07-00"],
@@ -565,6 +568,7 @@
         "shortName": "College Park (C)",
         "color": "#002868",
         "timezone": "America/Chicago",
+        "location": "The Woodlands, TX",
         "schedule": {
             "MON": {
                 "First Period": ["07-20-00", "08-07-00"],
@@ -770,6 +774,7 @@
         "shortName": "College Park (D)",
         "color": "#002868",
         "timezone": "America/Chicago",
+        "location": "The Woodlands, TX",
         "schedule": {
             "MON": {
                 "First Period": ["07-20-00", "08-07-00"],
@@ -970,6 +975,7 @@
         "shortName": "Clayton Valley",
         "color": "#D5272A",
         "timezone": "America/Los_Angeles",
+        "location": "Concord, CA",
         "schedule": {
             "MON": {
                 "Zero Period": ["07-30-00", "08-25-00"],
@@ -1144,6 +1150,7 @@
         "shortName": "Stanley Middle",
         "color": "#006434",
         "timezone": "America/Los_Angeles",
+        "location": "Lafayette, CA",
         "schedule": {
             "MON": {
                 "First Period": ["08-15-00", "09-02-00"],
@@ -1306,6 +1313,7 @@
         "shortName": "Monte Vista",
         "color": "#5B1515",
         "timezone": "America/Los_Angeles",
+        "location": "Danville, CA",
         "schedule": {
             "MON": {
                 "First Period": ["08-30-00", "09-20-00"],
@@ -1481,6 +1489,7 @@
         "shortName": "College Park",
         "color": "#341C40",
         "timezone": "America/Los_Angeles",
+        "location": "Pleasant Hill, CA",
         "schedule": {
             "MON": {
                 "Zero Period": ["07-40-00", "08-25-00"],
@@ -1655,6 +1664,7 @@
         "shortName": "Albany High",
         "color": "#D7282E",
         "timezone": "America/Los_Angeles",
+        "location": "Albany, CA",
         "schedule": {
             "MON": {
                 "First Period": ["08-30-00", "09-20-00"],
@@ -1789,6 +1799,7 @@
         "shortName": "Berkeley High",
         "color": "#FEBB0A",
         "timezone": "America/Los_Angeles",
+        "location": "Berkeley, CA",
         "schedule": {
             "MON": {
                 "Staff Meeting": {
@@ -2006,6 +2017,7 @@
         "shortName": "Dougherty Valley",
         "color": "#0A1837",
         "timezone": "America/Los_Angeles",
+        "location": "San Ramon, CA",
         "schedule": {
             "MON": {
                 "First Period": ["08-30-00", "09-21-00"],
@@ -2168,6 +2180,7 @@
         "shortName": "EBHS (A, A-Lunch)",
         "color": "#1C4508",
         "timezone": "America/New_York",
+        "location": "East Brunswick, NJ",
         "schedule": {
             "MON": {
                 "First Period": ["08-00-00", "09-22-00"],
@@ -2288,6 +2301,7 @@
         "shortName": "EBHS (A, B-Lunch)",
         "color": "#1C4508",
         "timezone": "America/New_York",
+        "location": "East Brunswick, NJ",
         "schedule": {
             "MON": {
                 "First Period": ["08-00-00", "09-22-00"],
@@ -2433,6 +2447,7 @@
         "shortName": "EBHS (A, C-Lunch)",
         "color": "#1C4508",
         "timezone": "America/New_York",
+        "location": "East Brunswick, NJ",
         "schedule": {
             "MON": {
                 "First Period": ["08-00-00", "09-22-00"],
@@ -2553,6 +2568,7 @@
         "shortName": "EBHS (A, A-Lunch)",
         "color": "#1C4508",
         "timezone": "America/New_York",
+        "location": "East Brunswick, NJ",
         "schedule": {
             "MON": {
                 "Fifth Period": ["08-00-00", "09-22-00"],
@@ -2673,6 +2689,7 @@
         "shortName": "EBHS (A, B-Lunch)",
         "color": "#1C4508",
         "timezone": "America/New_York",
+        "location": "East Brunswick, NJ",
         "schedule": {
             "MON": {
                 "Fifth Period": ["08-00-00", "09-22-00"],
@@ -2716,6 +2733,7 @@
         "shortName": "EBHS (A, C-Lunch)",
         "color": "#1C4508",
         "timezone": "America/New_York",
+        "location": "East Brunswick, NJ",
         "schedule": {
             "MON": {
                 "Fifth Period": ["08-00-00", "09-22-00"],
@@ -2748,6 +2766,7 @@
         "shortName": "Northgate High",
         "color": "#660000",
         "timezone": "America/Los_Angeles",
+        "location": "Walnut Creek, CA",
         "schedule": {
             "MON": {
                 "A": ["07-33-00", "08-23-00"],
@@ -2925,6 +2944,7 @@
         "shortName": "De La Salle",
         "color": "#0b381e",
         "timezone": "America/Los_Angeles",
+        "location": "Concord, CA",
         "schedule": {
             "MON": {
                 "Zero Period": ["07-15-00", "08-05-00"],
