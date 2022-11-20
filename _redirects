@@ -3,4 +3,4 @@
 /schedules/latest                         /schedules-v2.json                            200
 /schedules/edge                           /schedules-v2.json                            200
 /schedules/schema-*                       /schedules-v:splat.json                       200
-/schema/schedules                         /schedules.schema.json                        200
+/schedules/schema                         /schedules.schema.json                        200
