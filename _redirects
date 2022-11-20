@@ -4,3 +4,4 @@
 /schedules/edge                           /schedules-v2.json                            200
 /schedules/schema-*                       /schedules-v:splat.json                       200
 /schedules/schema                         /schedules.schema.json                        200
+/help/topics                              /helpcenter-topics.json                       200
