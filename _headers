@@ -1,3 +1,9 @@
+/help/topic/*
+    Content-Type: text/markdown
+    X-Frame-Options: DENY
+    X-XSS-Protection: 1; mode=block
+    Access-Control-Allow-Origin: *
+
 /*
     Content-Type: application/json
     X-Frame-Options: DENY
