@@ -3065,5 +3065,259 @@
             "Spring Break": ["2023-04-05", "2023-04-15"]
         },
         "overrides": {}
+    },
+    "ny-wbschools-wbshs": {
+        "name": "West Babylon Senior High School",
+        "shortName": "WB Senior High",
+        "color": "#042c6f",
+        "timezone": "America/New_York",
+        "location": "West Babylon, NY",
+        "schedule": {
+            "MON": {
+                "First Period": ["07-21-00", "08-01-00"],
+                "Passing (First Period / Second Period)": [
+                    "08-01-01",
+                    "08-05-00"
+                ],
+                "Second Period": ["08-05-01", "08-45-00"],
+                "Passing (Second Period / Announcements)": [
+                    "08-45-01",
+                    "08-49-00"
+                ],
+                "Announcements": {
+                    "times": ["08-49-01", "08-51-00"],
+                    "allowEditing": false
+                },
+                "Third Period": ["08-51-01", "09-31-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "09-31-01",
+                    "09-35-00"
+                ],
+                "Fourth Period": ["09-35-01", "10-15-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "10-15-01",
+                    "10-19-00"
+                ],
+                "Fifth Period": ["10-19-01", "10-59-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "10-59-01",
+                    "11-03-00"
+                ],
+                "Sixth Period": ["11-03-01", "11-43-00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "11-43-01",
+                    "11-47-00"
+                ],
+                "Seventh Period": ["11-47-01", "12-27-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "12-27-01",
+                    "12-31-00"
+                ],
+                "Eighth Period": ["12-31-01", "13-11-00"],
+                "Passing (Eighth Period / Ninth Period)": [
+                    "13-11-01",
+                    "13-15-00"
+                ],
+                "Ninth Period": ["13-15-01", "13-55-00"]
+            },
+            "TUE": {
+                "First Period": ["07-21-00", "08-01-00"],
+                "Passing (First Period / Second Period)": [
+                    "08-01-01",
+                    "08-05-00"
+                ],
+                "Second Period": ["08-05-01", "08-45-00"],
+                "Passing (Second Period / Announcements)": [
+                    "08-45-01",
+                    "08-49-00"
+                ],
+                "Announcements": {
+                    "times": ["08-49-01", "08-51-00"],
+                    "allowEditing": false
+                },
+                "Third Period": ["08-51-01", "09-31-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "09-31-01",
+                    "09-35-00"
+                ],
+                "Fourth Period": ["09-35-01", "10-15-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "10-15-01",
+                    "10-19-00"
+                ],
+                "Fifth Period": ["10-19-01", "10-59-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "10-59-01",
+                    "11-03-00"
+                ],
+                "Sixth Period": ["11-03-01", "11-43-00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "11-43-01",
+                    "11-47-00"
+                ],
+                "Seventh Period": ["11-47-01", "12-27-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "12-27-01",
+                    "12-31-00"
+                ],
+                "Eighth Period": ["12-31-01", "13-11-00"],
+                "Passing (Eighth Period / Ninth Period)": [
+                    "13-11-01",
+                    "13-15-00"
+                ],
+                "Ninth Period": ["13-15-01", "13-55-00"]
+            },
+            "WED": {
+                "First Period": ["07-21-00", "08-01-00"],
+                "Passing (First Period / Second Period)": [
+                    "08-01-01",
+                    "08-05-00"
+                ],
+                "Second Period": ["08-05-01", "08-45-00"],
+                "Passing (Second Period / Announcements)": [
+                    "08-45-01",
+                    "08-49-00"
+                ],
+                "Announcements": {
+                    "times": ["08-49-01", "08-51-00"],
+                    "allowEditing": false
+                },
+                "Third Period": ["08-51-01", "09-31-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "09-31-01",
+                    "09-35-00"
+                ],
+                "Fourth Period": ["09-35-01", "10-15-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "10-15-01",
+                    "10-19-00"
+                ],
+                "Fifth Period": ["10-19-01", "10-59-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "10-59-01",
+                    "11-03-00"
+                ],
+                "Sixth Period": ["11-03-01", "11-43-00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "11-43-01",
+                    "11-47-00"
+                ],
+                "Seventh Period": ["11-47-01", "12-27-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "12-27-01",
+                    "12-31-00"
+                ],
+                "Eighth Period": ["12-31-01", "13-11-00"],
+                "Passing (Eighth Period / Ninth Period)": [
+                    "13-11-01",
+                    "13-15-00"
+                ],
+                "Ninth Period": ["13-15-01", "13-55-00"]
+            },
+            "THU": {
+                "First Period": ["07-21-00", "08-01-00"],
+                "Passing (First Period / Second Period)": [
+                    "08-01-01",
+                    "08-05-00"
+                ],
+                "Second Period": ["08-05-01", "08-45-00"],
+                "Passing (Second Period / Announcements)": [
+                    "08-45-01",
+                    "08-49-00"
+                ],
+                "Announcements": {
+                    "times": ["08-49-01", "08-51-00"],
+                    "allowEditing": false
+                },
+                "Third Period": ["08-51-01", "09-31-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "09-31-01",
+                    "09-35-00"
+                ],
+                "Fourth Period": ["09-35-01", "10-15-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "10-15-01",
+                    "10-19-00"
+                ],
+                "Fifth Period": ["10-19-01", "10-59-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "10-59-01",
+                    "11-03-00"
+                ],
+                "Sixth Period": ["11-03-01", "11-43-00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "11-43-01",
+                    "11-47-00"
+                ],
+                "Seventh Period": ["11-47-01", "12-27-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "12-27-01",
+                    "12-31-00"
+                ],
+                "Eighth Period": ["12-31-01", "13-11-00"],
+                "Passing (Eighth Period / Ninth Period)": [
+                    "13-11-01",
+                    "13-15-00"
+                ],
+                "Ninth Period": ["13-15-01", "13-55-00"]
+            },
+            "FRI": {
+                "First Period": ["07-21-00", "08-01-00"],
+                "Passing (First Period / Second Period)": [
+                    "08-01-01",
+                    "08-05-00"
+                ],
+                "Second Period": ["08-05-01", "08-45-00"],
+                "Passing (Second Period / Announcements)": [
+                    "08-45-01",
+                    "08-49-00"
+                ],
+                "Announcements": {
+                    "times": ["08-49-01", "08-51-00"],
+                    "allowEditing": false
+                },
+                "Third Period": ["08-51-01", "09-31-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "09-31-01",
+                    "09-35-00"
+                ],
+                "Fourth Period": ["09-35-01", "10-15-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "10-15-01",
+                    "10-19-00"
+                ],
+                "Fifth Period": ["10-19-01", "10-59-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "10-59-01",
+                    "11-03-00"
+                ],
+                "Sixth Period": ["11-03-01", "11-43-00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "11-43-01",
+                    "11-47-00"
+                ],
+                "Seventh Period": ["11-47-01", "12-27-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "12-27-01",
+                    "12-31-00"
+                ],
+                "Eighth Period": ["12-31-01", "13-11-00"],
+                "Passing (Eighth Period / Ninth Period)": [
+                    "13-11-01",
+                    "13-15-00"
+                ],
+                "Ninth Period": ["13-15-01", "13-55-00"]
+            }
+        },
+        "offDays": {
+            "Thanksgiving Break": ["2022-11-24", "2022-11-25"],
+            "Winter Recess": ["2022-12-26", "2023-01-02"],
+            "Martin Luther King Jr. Day": ["2023-01-16"],
+            "Mid-Winter Recess": ["2023-02-20", "2023-02-24"],
+            "Spring Recess": ["2023-04-03", "2023-04-07"],
+            "Memorial Day": ["2023-05-29"],
+            "Juneteenth": ["2023-06-19"]
+        },
+        "overrides": {}
     }
 }
