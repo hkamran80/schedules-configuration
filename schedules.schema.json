@@ -16,11 +16,6 @@
                     "type": "string",
                     "description": "The short name of the schedule"
                 },
-                "icon": {
-                    "type": "string",
-                    "description": "The Material Design Icons name of the icon for the schedule",
-                    "deprecated": true
-                },
                 "color": {
                     "type": "string",
                     "description": "The hex color code of the schedule's color"
@@ -37,7 +32,7 @@
                     "type": "object",
                     "description": "The actual schedule",
                     "patternProperties": {
-                        "(SUN|MON|TUE|WED|THU|FRI|SAT)": {
+                        "(.*)": {
                             "type": "object",
                             "patternProperties": {
                                 "(.*)": {
