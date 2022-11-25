@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "https://raw.unisontech.org/schema/schedules",
+    "$id": "https://cfg-schedules.unisontech.org/schedules/schema",
     "title": "Schedules",
     "description": "The main schedules file",
     "type": "object",
