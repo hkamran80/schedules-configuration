@@ -3489,5 +3489,345 @@
             "Memorial Day": ["2023-05-29"]
         },
         "overrides": {}
+    },
+    "gen-mdsoa-sch": {
+        "name": "Matthew Disney School of Arts",
+        "shortName": "M.D. School of Arts",
+        "color": "#000080",
+        "timezone": "America/Los_Angeles",
+        "location": "Unknown",
+        "schedule": {
+            "SUN": {
+                "Homeroom": {
+                    "times": ["14-30-00", "15-00-00"],
+                    "allowEditing": false
+                },
+                "First Period": ["15-00-01", "15-21-00"],
+                "Passing (First Period / Second Period)": [
+                    "15-21-01",
+                    "15-25-00"
+                ],
+                "Second Period": ["15-25-01", "16-05-00"],
+                "Passing (Second Period / Third Period)": [
+                    "16-05-01",
+                    "16-07-00"
+                ],
+                "Third Period": ["16-07-01", "16-47-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "16-47-01",
+                    "16-49-00"
+                ],
+                "Fourth Period": ["16-49-01", "17-29-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "17-29-01",
+                    "17-32-00"
+                ],
+                "Fifth Period": ["17-32-01", "18-12-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "18-12-01",
+                    "18-15-00"
+                ],
+                "Sixth Period": ["18-15-01", "18-55-00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "18-55-01",
+                    "18-58-00"
+                ],
+                "Seventh Period": ["18-58-01", "19-37-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "19-37-01",
+                    "19-39-00"
+                ],
+                "Eighth Period": ["19-39-01", "20-19-00"],
+                "Passing (Eighth Period / Ninth Period)": [
+                    "20-19-01",
+                    "20-23-00"
+                ],
+                "Ninth Period": ["20-23-01", "21-03-00"]
+            },
+            "MON": {
+                "Homeroom": {
+                    "times": ["14-30-00", "15-00-00"],
+                    "allowEditing": false
+                },
+                "First Period": ["15-00-01", "15-21-00"],
+                "Passing (First Period / Second Period)": [
+                    "15-21-01",
+                    "15-25-00"
+                ],
+                "Second Period": ["15-25-01", "16-05-00"],
+                "Passing (Second Period / Third Period)": [
+                    "16-05-01",
+                    "16-07-00"
+                ],
+                "Third Period": ["16-07-01", "16-47-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "16-47-01",
+                    "16-49-00"
+                ],
+                "Fourth Period": ["16-49-01", "17-29-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "17-29-01",
+                    "17-32-00"
+                ],
+                "Fifth Period": ["17-32-01", "18-12-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "18-12-01",
+                    "18-15-00"
+                ],
+                "Sixth Period": ["18-15-01", "18-55-00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "18-55-01",
+                    "18-58-00"
+                ],
+                "Seventh Period": ["18-58-01", "19-37-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "19-37-01",
+                    "19-39-00"
+                ],
+                "Eighth Period": ["19-39-01", "20-19-00"],
+                "Passing (Eighth Period / Ninth Period)": [
+                    "20-19-01",
+                    "20-23-00"
+                ],
+                "Ninth Period": ["20-23-01", "21-03-00"]
+            },
+            "TUE": {
+                "Homeroom": {
+                    "times": ["14-30-00", "15-00-00"],
+                    "allowEditing": false
+                },
+                "First Period": ["15-00-01", "15-21-00"],
+                "Passing (First Period / Second Period)": [
+                    "15-21-01",
+                    "15-25-00"
+                ],
+                "Second Period": ["15-25-01", "16-05-00"],
+                "Passing (Second Period / Third Period)": [
+                    "16-05-01",
+                    "16-07-00"
+                ],
+                "Third Period": ["16-07-01", "16-47-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "16-47-01",
+                    "16-49-00"
+                ],
+                "Fourth Period": ["16-49-01", "17-29-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "17-29-01",
+                    "17-32-00"
+                ],
+                "Fifth Period": ["17-32-01", "18-12-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "18-12-01",
+                    "18-15-00"
+                ],
+                "Sixth Period": ["18-15-01", "18-55-00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "18-55-01",
+                    "18-58-00"
+                ],
+                "Seventh Period": ["18-58-01", "19-37-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "19-37-01",
+                    "19-39-00"
+                ],
+                "Eighth Period": ["19-39-01", "20-19-00"],
+                "Passing (Eighth Period / Ninth Period)": [
+                    "20-19-01",
+                    "20-23-00"
+                ],
+                "Ninth Period": ["20-23-01", "21-03-00"]
+            },
+            "WED": {
+                "Homeroom": {
+                    "times": ["14-30-00", "15-00-00"],
+                    "allowEditing": false
+                },
+                "First Period": ["15-00-01", "15-21-00"],
+                "Passing (First Period / Second Period)": [
+                    "15-21-01",
+                    "15-25-00"
+                ],
+                "Second Period": ["15-25-01", "16-05-00"],
+                "Passing (Second Period / Third Period)": [
+                    "16-05-01",
+                    "16-07-00"
+                ],
+                "Third Period": ["16-07-01", "16-47-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "16-47-01",
+                    "16-49-00"
+                ],
+                "Fourth Period": ["16-49-01", "17-29-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "17-29-01",
+                    "17-32-00"
+                ],
+                "Fifth Period": ["17-32-01", "18-12-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "18-12-01",
+                    "18-15-00"
+                ],
+                "Sixth Period": ["18-15-01", "18-55-00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "18-55-01",
+                    "18-58-00"
+                ],
+                "Seventh Period": ["18-58-01", "19-37-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "19-37-01",
+                    "19-39-00"
+                ],
+                "Eighth Period": ["19-39-01", "20-19-00"],
+                "Passing (Eighth Period / Ninth Period)": [
+                    "20-19-01",
+                    "20-23-00"
+                ],
+                "Ninth Period": ["20-23-01", "21-03-00"]
+            },
+            "THU": {
+                "Homeroom": {
+                    "times": ["14-30-00", "15-00-00"],
+                    "allowEditing": false
+                },
+                "First Period": ["15-00-01", "15-21-00"],
+                "Passing (First Period / Second Period)": [
+                    "15-21-01",
+                    "15-25-00"
+                ],
+                "Second Period": ["15-25-01", "16-05-00"],
+                "Passing (Second Period / Third Period)": [
+                    "16-05-01",
+                    "16-07-00"
+                ],
+                "Third Period": ["16-07-01", "16-47-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "16-47-01",
+                    "16-49-00"
+                ],
+                "Fourth Period": ["16-49-01", "17-29-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "17-29-01",
+                    "17-32-00"
+                ],
+                "Fifth Period": ["17-32-01", "18-12-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "18-12-01",
+                    "18-15-00"
+                ],
+                "Sixth Period": ["18-15-01", "18-55-00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "18-55-01",
+                    "18-58-00"
+                ],
+                "Seventh Period": ["18-58-01", "19-37-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "19-37-01",
+                    "19-39-00"
+                ],
+                "Eighth Period": ["19-39-01", "20-19-00"],
+                "Passing (Eighth Period / Ninth Period)": [
+                    "20-19-01",
+                    "20-23-00"
+                ],
+                "Ninth Period": ["20-23-01", "21-03-00"]
+            },
+            "FRI": {
+                "Homeroom": {
+                    "times": ["14-30-00", "15-00-00"],
+                    "allowEditing": false
+                },
+                "First Period": ["15-00-01", "15-21-00"],
+                "Passing (First Period / Second Period)": [
+                    "15-21-01",
+                    "15-25-00"
+                ],
+                "Second Period": ["15-25-01", "16-05-00"],
+                "Passing (Second Period / Third Period)": [
+                    "16-05-01",
+                    "16-07-00"
+                ],
+                "Third Period": ["16-07-01", "16-47-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "16-47-01",
+                    "16-49-00"
+                ],
+                "Fourth Period": ["16-49-01", "17-29-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "17-29-01",
+                    "17-32-00"
+                ],
+                "Fifth Period": ["17-32-01", "18-12-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "18-12-01",
+                    "18-15-00"
+                ],
+                "Sixth Period": ["18-15-01", "18-55-00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "18-55-01",
+                    "18-58-00"
+                ],
+                "Seventh Period": ["18-58-01", "19-37-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "19-37-01",
+                    "19-39-00"
+                ],
+                "Eighth Period": ["19-39-01", "20-19-00"],
+                "Passing (Eighth Period / Ninth Period)": [
+                    "20-19-01",
+                    "20-23-00"
+                ],
+                "Ninth Period": ["20-23-01", "21-03-00"]
+            },
+            "SAT": {
+                "Homeroom": {
+                    "times": ["14-30-00", "15-00-00"],
+                    "allowEditing": false
+                },
+                "First Period": ["15-00-01", "15-21-00"],
+                "Passing (First Period / Second Period)": [
+                    "15-21-01",
+                    "15-25-00"
+                ],
+                "Second Period": ["15-25-01", "16-05-00"],
+                "Passing (Second Period / Third Period)": [
+                    "16-05-01",
+                    "16-07-00"
+                ],
+                "Third Period": ["16-07-01", "16-47-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "16-47-01",
+                    "16-49-00"
+                ],
+                "Fourth Period": ["16-49-01", "17-29-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "17-29-01",
+                    "17-32-00"
+                ],
+                "Fifth Period": ["17-32-01", "18-12-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "18-12-01",
+                    "18-15-00"
+                ],
+                "Sixth Period": ["18-15-01", "18-55-00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "18-55-01",
+                    "18-58-00"
+                ],
+                "Seventh Period": ["18-58-01", "19-37-00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "19-37-01",
+                    "19-39-00"
+                ],
+                "Eighth Period": ["19-39-01", "20-19-00"],
+                "Passing (Eighth Period / Ninth Period)": [
+                    "20-19-01",
+                    "20-23-00"
+                ],
+                "Ninth Period": ["20-23-01", "21-03-00"]
+            }
+        },
+        "offDays": {},
+        "overrides": {}
     }
 }
