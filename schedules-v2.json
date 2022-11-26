@@ -3477,7 +3477,17 @@
                 "Sixth Period": ["13-34-01", "14-59-00"]
             }
         },
-        "offDays": {},
+        "offDays": {
+            "Holiday Recess": ["2022-12-23", "2023-01-05"],
+            "Teacher Service Day I": ["2023-01-06"],
+            "Teacher Service Day II": ["2023-01-09"],
+            "Martin Luther King Jr. Day": ["2023-01-16"],
+            "Presidents Day' Weekend": ["2023-02-20", "2023-02-21"],
+            "Winter Break": ["2023-02-22", "2023-02-25"],
+            "Recess Day": ["2023-03-20"],
+            "Spring Recess": ["2023-04-10", "2023-04-14"],
+            "Memorial Day": ["2023-05-29"]
+        },
         "overrides": {}
     }
 }
