@@ -3963,5 +3963,395 @@
             "Memorial Day": ["2023-05-29"]
         },
         "overrides": {}
+    },
+    "ny-nyc-ps54q-kg1": {
+        "name": "P.S. 54Q (Kindergarten & First Grade)",
+        "shortName": "P.S. 54Q (KG & First)",
+        "color": "#313d6d",
+        "timezone": "America/New_York",
+        "location": "Richmond Hill, NY",
+        "schedule": {
+            "MON": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Lunch)": ["10-15-01", "10-20-00"],
+                "Lunch": {
+                    "times": ["10-20-01", "11-10-00"],
+                    "allowEditing": false
+                },
+                "Fourth Period": ["11-10-01", "11-55-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "11-55-01",
+                    "12-00-00"
+                ],
+                "Fifth Period": ["12-00-01", "12-45-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "12-45-01",
+                    "12-50-00"
+                ],
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            },
+            "TUE": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Lunch)": ["10-15-01", "10-20-00"],
+                "Lunch": {
+                    "times": ["10-20-01", "11-10-00"],
+                    "allowEditing": false
+                },
+                "Fourth Period": ["11-10-01", "11-55-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "11-55-01",
+                    "12-00-00"
+                ],
+                "Fifth Period": ["12-00-01", "12-45-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "12-45-01",
+                    "12-50-00"
+                ],
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            },
+            "WED": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Lunch)": ["10-15-01", "10-20-00"],
+                "Lunch": {
+                    "times": ["10-20-01", "11-10-00"],
+                    "allowEditing": false
+                },
+                "Fourth Period": ["11-10-01", "11-55-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "11-55-01",
+                    "12-00-00"
+                ],
+                "Fifth Period": ["12-00-01", "12-45-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "12-45-01",
+                    "12-50-00"
+                ],
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            },
+            "THU": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Lunch)": ["10-15-01", "10-20-00"],
+                "Lunch": {
+                    "times": ["10-20-01", "11-10-00"],
+                    "allowEditing": false
+                },
+                "Fourth Period": ["11-10-01", "11-55-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "11-55-01",
+                    "12-00-00"
+                ],
+                "Fifth Period": ["12-00-01", "12-45-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "12-45-01",
+                    "12-50-00"
+                ],
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            },
+            "FRI": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Lunch)": ["10-15-01", "10-20-00"],
+                "Lunch": {
+                    "times": ["10-20-01", "11-10-00"],
+                    "allowEditing": false
+                },
+                "Fourth Period": ["11-10-01", "11-55-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "11-55-01",
+                    "12-00-00"
+                ],
+                "Fifth Period": ["12-00-01", "12-45-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "12-45-01",
+                    "12-50-00"
+                ],
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            }
+        },
+        "offDays": {
+            "Winter Recess": ["2022-12-26", "2023-01-02"],
+            "Martin Luther King Jr. Day": ["2023-01-16"],
+            "Midwinter Recess": ["2023-02-20", "2023-02-24"],
+            "Passover / Good Friday": ["2023-04-06", "2023-04-07"],
+            "Spring Recess": ["2023-04-10", "2023-04-14"],
+            "Eid al-Fitr": ["2023-04-21"],
+            "Memorial Day": ["2023-05-29"],
+            "Juneteenth": ["2023-06-19"]
+        },
+        "overrides": {}
+    },
+    "ny-nyc-ps54q-23": {
+        "name": "P.S. 54Q (Second & Third Grades)",
+        "shortName": "P.S. 54Q (Second & Third)",
+        "color": "#313d6d",
+        "timezone": "America/New_York",
+        "location": "Richmond Hill, NY",
+        "schedule": {
+            "MON": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10-15-01",
+                    "10-20-00"
+                ],
+                "Fourth Period": ["10-20-01", "11-05-00"],
+                "Passing (Fourth Period / Lunch)": ["11-05-01", "11-10-00"],
+                "Lunch": {
+                    "times": ["11-10-01", "12-00-00"],
+                    "allowEditing": false
+                },
+                "Fifth Period": ["12-00-01", "12-45-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "12-45-01",
+                    "12-50-00"
+                ],
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            },
+            "TUE": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10-15-01",
+                    "10-20-00"
+                ],
+                "Fourth Period": ["10-20-01", "11-05-00"],
+                "Passing (Fourth Period / Lunch)": ["11-05-01", "11-10-00"],
+                "Lunch": {
+                    "times": ["11-10-01", "12-00-00"],
+                    "allowEditing": false
+                },
+                "Fifth Period": ["12-00-01", "12-45-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "12-45-01",
+                    "12-50-00"
+                ],
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            },
+            "WED": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10-15-01",
+                    "10-20-00"
+                ],
+                "Fourth Period": ["10-20-01", "11-05-00"],
+                "Passing (Fourth Period / Lunch)": ["11-05-01", "11-10-00"],
+                "Lunch": {
+                    "times": ["11-10-01", "12-00-00"],
+                    "allowEditing": false
+                },
+                "Fifth Period": ["12-00-01", "12-45-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "12-45-01",
+                    "12-50-00"
+                ],
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            },
+            "THU": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10-15-01",
+                    "10-20-00"
+                ],
+                "Fourth Period": ["10-20-01", "11-05-00"],
+                "Passing (Fourth Period / Lunch)": ["11-05-01", "11-10-00"],
+                "Lunch": {
+                    "times": ["11-10-01", "12-00-00"],
+                    "allowEditing": false
+                },
+                "Fifth Period": ["12-00-01", "12-45-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "12-45-01",
+                    "12-50-00"
+                ],
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            },
+            "FRI": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10-15-01",
+                    "10-20-00"
+                ],
+                "Fourth Period": ["10-20-01", "11-05-00"],
+                "Passing (Fourth Period / Lunch)": ["11-05-01", "11-10-00"],
+                "Lunch": {
+                    "times": ["11-10-01", "12-00-00"],
+                    "allowEditing": false
+                },
+                "Fifth Period": ["12-00-01", "12-45-00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "12-45-01",
+                    "12-50-00"
+                ],
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            }
+        },
+        "offDays": {
+            "Winter Recess": ["2022-12-26", "2023-01-02"],
+            "Martin Luther King Jr. Day": ["2023-01-16"],
+            "Midwinter Recess": ["2023-02-20", "2023-02-24"],
+            "Passover / Good Friday": ["2023-04-06", "2023-04-07"],
+            "Spring Recess": ["2023-04-10", "2023-04-14"],
+            "Eid al-Fitr": ["2023-04-21"],
+            "Memorial Day": ["2023-05-29"],
+            "Juneteenth": ["2023-06-19"]
+        },
+        "overrides": {}
+    },
+    "ny-nyc-ps54q-45": {
+        "name": "P.S. 54Q (Fourth & Fifth Grades)",
+        "shortName": "P.S. 54Q (Fourth & Fifth)",
+        "color": "#313d6d",
+        "timezone": "America/New_York",
+        "location": "Richmond Hill, NY",
+        "schedule": {
+            "MON": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10-15-01",
+                    "10-20-00"
+                ],
+                "Fourth Period": ["10-20-01", "11-05-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "11-05-01",
+                    "11-10-00"
+                ],
+                "Fifth Period": ["11-10-01", "11-55-00"],
+                "Passing (Fifth Period / Lunch)": ["11-55-01", "12-00-00"],
+                "Lunch": {
+                    "times": ["12-00-01", "12-50-00"],
+                    "allowEditing": false
+                },
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            },
+            "TUE": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10-15-01",
+                    "10-20-00"
+                ],
+                "Fourth Period": ["10-20-01", "11-05-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "11-05-01",
+                    "11-10-00"
+                ],
+                "Fifth Period": ["11-10-01", "11-55-00"],
+                "Passing (Fifth Period / Lunch)": ["11-55-01", "12-00-00"],
+                "Lunch": {
+                    "times": ["12-00-01", "12-50-00"],
+                    "allowEditing": false
+                },
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            },
+            "WED": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10-15-01",
+                    "10-20-00"
+                ],
+                "Fourth Period": ["10-20-01", "11-05-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "11-05-01",
+                    "11-10-00"
+                ],
+                "Fifth Period": ["11-10-01", "11-55-00"],
+                "Passing (Fifth Period / Lunch)": ["11-55-01", "12-00-00"],
+                "Lunch": {
+                    "times": ["12-00-01", "12-50-00"],
+                    "allowEditing": false
+                },
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            },
+            "THU": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10-15-01",
+                    "10-20-00"
+                ],
+                "Fourth Period": ["10-20-01", "11-05-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "11-05-01",
+                    "11-10-00"
+                ],
+                "Fifth Period": ["11-10-01", "11-55-00"],
+                "Passing (Fifth Period / Lunch)": ["11-55-01", "12-00-00"],
+                "Lunch": {
+                    "times": ["12-00-01", "12-50-00"],
+                    "allowEditing": false
+                },
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            },
+            "FRI": {
+                "First Period": ["08-00-00", "08-45-00"],
+                "Second Period": ["08-45-01", "09-30-00"],
+                "Third Period": ["09-30-01", "10-15-00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10-15-01",
+                    "10-20-00"
+                ],
+                "Fourth Period": ["10-20-01", "11-05-00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "11-05-01",
+                    "11-10-00"
+                ],
+                "Fifth Period": ["11-10-01", "11-55-00"],
+                "Passing (Fifth Period / Lunch)": ["11-55-01", "12-00-00"],
+                "Lunch": {
+                    "times": ["12-00-01", "12-50-00"],
+                    "allowEditing": false
+                },
+                "Sixth Period": ["12-50-01", "13-35-00"],
+                "Seventh Period": ["13-35-01", "14-20-00"]
+            }
+        },
+        "offDays": {
+            "Winter Recess": ["2022-12-26", "2023-01-02"],
+            "Martin Luther King Jr. Day": ["2023-01-16"],
+            "Midwinter Recess": ["2023-02-20", "2023-02-24"],
+            "Passover / Good Friday": ["2023-04-06", "2023-04-07"],
+            "Spring Recess": ["2023-04-10", "2023-04-14"],
+            "Eid al-Fitr": ["2023-04-21"],
+            "Memorial Day": ["2023-05-29"],
+            "Juneteenth": ["2023-06-19"]
+        },
+        "overrides": {}
     }
 }
