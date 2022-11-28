@@ -3965,8 +3965,8 @@
         "overrides": {}
     },
     "ny-nyc-ps54q-kg1": {
-        "name": "P.S. 54Q (Kindergarten / First Grade)",
-        "shortName": "P.S. 54Q (KG / First)",
+        "name": "P.S. 54Q (Kindergarten & First Grade)",
+        "shortName": "P.S. 54Q (KG & First)",
         "color": "#313d6d",
         "timezone": "America/New_York",
         "location": "Richmond Hill, NY",
