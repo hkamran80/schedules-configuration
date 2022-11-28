@@ -4095,8 +4095,8 @@
         "overrides": {}
     },
     "ny-nyc-ps54q-23": {
-        "name": "P.S. 54Q (First & Second Grades)",
-        "shortName": "P.S. 54Q (First & Second)",
+        "name": "P.S. 54Q (Second & Third Grades)",
+        "shortName": "P.S. 54Q (Second & Third)",
         "color": "#313d6d",
         "timezone": "America/New_York",
         "location": "Richmond Hill, NY",
