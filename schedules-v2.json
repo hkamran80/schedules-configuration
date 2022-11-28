@@ -2600,8 +2600,8 @@
         "overrides": {}
     },
     "nj-ebnet-ebhs-ba": {
-        "name": "East Brunswick High School (A Day, A-Lunch)",
-        "shortName": "EBHS (A, A-Lunch)",
+        "name": "East Brunswick High School (B Day, A-Lunch)",
+        "shortName": "EBHS (B, A-Lunch)",
         "color": "#1C4508",
         "timezone": "America/New_York",
         "location": "East Brunswick, NJ",
@@ -2721,8 +2721,8 @@
         "overrides": {}
     },
     "nj-ebnet-ebhs-bb": {
-        "name": "East Brunswick High School (A Day, B-Lunch)",
-        "shortName": "EBHS (A, B-Lunch)",
+        "name": "East Brunswick High School (B Day, B-Lunch)",
+        "shortName": "EBHS (B, B-Lunch)",
         "color": "#1C4508",
         "timezone": "America/New_York",
         "location": "East Brunswick, NJ",
@@ -2765,8 +2765,8 @@
         "overrides": {}
     },
     "nj-ebnet-ebhs-bc": {
-        "name": "East Brunswick High School (A Day, C-Lunch)",
-        "shortName": "EBHS (A, C-Lunch)",
+        "name": "East Brunswick High School (B Day, C-Lunch)",
+        "shortName": "EBHS (B, C-Lunch)",
         "color": "#1C4508",
         "timezone": "America/New_York",
         "location": "East Brunswick, NJ",
