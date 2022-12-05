@@ -1,1 +1,114 @@
-{"$schema":"https://json-schema.org/draft/2020-12/schema","$id":"https://cfg-schedules.unisontech.org/schedules/schema","title":"Schedules","description":"The main schedules file","type":"object","patternProperties":{"(.*)":{"type":"object","properties":{"name":{"type":"string","description":"The name of the schedule"},"shortName":{"type":"string","description":"The short name of the schedule"},"color":{"type":"string","description":"The hex color code of the schedule's color"},"timezone":{"type":"string","description":"The tzdata name for a given timezone (e.g. America/Los_Angeles)"},"location":{"type":"string","description":"A user-facing string to show where the schedule is located"},"schedule":{"type":"object","description":"The actual schedule","patternProperties":{"(.*)":{"type":"object","patternProperties":{"(.*)":{"anyOf":[{"$ref":"#/definitions/scheduleItem"},{"type":"object","description":"The schedule container","properties":{"times":{"$ref":"#/definitions/scheduleItem"},"allowEditing":{"type":"boolean","description":"If the schedule name can be edited"}},"required":["times","allowEditing"]}]}}}},"minProperties":1},"offDays":{"type":"object","description":"The days the schedule should not be active","patternProperties":{"(.*)":{"type":"array","description":"The dates for the inactive period","items":{"type":"string"},"minItems":1,"maxItems":2,"uniqueItems":true}}},"overrides":{"type":"object","description":"The days the schedule should switch to a different day","patternProperties":{"(.*)":{"type":"string","description":"The day to use"}}}},"required":["name","shortName","color","timezone","location","schedule","offDays","overrides"]}},"definitions":{"scheduleItem":{"type":"array","description":"The times for the period","items":{"type":"string"},"minItems":2,"maxItems":2,"uniqueItems":true}}}
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://cfg-schedules.unisontech.org/schedules/schema",
+    "title": "Schedules",
+    "description": "The main schedules file",
+    "type": "object",
+    "patternProperties": {
+        "(.*)": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "The name of the schedule"
+                },
+                "shortName": {
+                    "type": "string",
+                    "description": "The short name of the schedule"
+                },
+                "color": {
+                    "type": "string",
+                    "description": "The hex color code of the schedule's color"
+                },
+                "timezone": {
+                    "type": "string",
+                    "description": "The tzdata name for a given timezone (e.g. America/Los_Angeles)"
+                },
+                "location": {
+                    "type": "string",
+                    "description": "A user-facing string to show where the schedule is located"
+                },
+                "schedule": {
+                    "type": "object",
+                    "description": "The actual schedule",
+                    "patternProperties": {
+                        "(.*)": {
+                            "type": "object",
+                            "patternProperties": {
+                                "(.*)": {
+                                    "anyOf": [
+                                        {
+                                            "$ref": "#/definitions/scheduleItem"
+                                        },
+                                        {
+                                            "type": "object",
+                                            "description": "The schedule container",
+                                            "properties": {
+                                                "times": {
+                                                    "$ref": "#/definitions/scheduleItem"
+                                                },
+                                                "allowEditing": {
+                                                    "type": "boolean",
+                                                    "description": "If the schedule name can be edited"
+                                                }
+                                            },
+                                            "required": [
+                                                "times",
+                                                "allowEditing"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "minProperties": 1
+                },
+                "offDays": {
+                    "type": "object",
+                    "description": "The days the schedule should not be active",
+                    "patternProperties": {
+                        "(.*)": {
+                            "type": "array",
+                            "description": "The dates for the inactive period",
+                            "items": { "type": "string" },
+                            "minItems": 1,
+                            "maxItems": 2,
+                            "uniqueItems": true
+                        }
+                    }
+                },
+                "overrides": {
+                    "type": "object",
+                    "description": "The days the schedule should switch to a different day",
+                    "patternProperties": {
+                        "(.*)": {
+                            "type": "string",
+                            "description": "The day to use"
+                        }
+                    }
+                }
+            },
+            "required": [
+                "name",
+                "shortName",
+                "color",
+                "timezone",
+                "location",
+                "schedule",
+                "offDays",
+                "overrides"
+            ]
+        }
+    },
+    "definitions": {
+        "scheduleItem": {
+            "type": "array",
+            "description": "The times for the period",
+            "items": { "type": "string" },
+            "minItems": 2,
+            "maxItems": 2,
+            "uniqueItems": true
+        }
+    }
+}
