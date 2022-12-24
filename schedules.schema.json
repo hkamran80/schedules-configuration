@@ -28,6 +28,19 @@
                     "type": "string",
                     "description": "A user-facing string to show where the schedule is located"
                 },
+                "type": {
+                    "type": "string",
+                    "description": "The type of school being added",
+                    "enum": [
+                        "elementary",
+                        "middle",
+                        "high",
+                        "college",
+                        "primary",
+                        "secondary",
+                        "unknown"
+                    ]
+                },
                 "schedule": {
                     "type": "object",
                     "description": "The actual schedule",
@@ -95,6 +108,7 @@
                 "color",
                 "timezone",
                 "location",
+                "type",
                 "schedule",
                 "offDays",
                 "overrides"
