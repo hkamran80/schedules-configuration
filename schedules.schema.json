@@ -51,14 +51,14 @@
                                 "(.*)": {
                                     "anyOf": [
                                         {
-                                            "$ref": "#/definitions/scheduleItem"
+                                            "$ref": "#/$defs/scheduleItem"
                                         },
                                         {
                                             "type": "object",
                                             "description": "The schedule container",
                                             "properties": {
                                                 "times": {
-                                                    "$ref": "#/definitions/scheduleItem"
+                                                    "$ref": "#/$defs/scheduleItem"
                                                 },
                                                 "allowEditing": {
                                                     "type": "boolean",
@@ -115,7 +115,7 @@
             ]
         }
     },
-    "definitions": {
+    "$defs": {
         "scheduleItem": {
             "type": "array",
             "description": "The times for the period",
