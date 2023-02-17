@@ -2,11 +2,5 @@
     "name": "schedules-configuration",
     "version": "0.0.0",
     "type": "module",
-    "private": true,
-    "scripts": {
-        "prepare": "husky install"
-    },
-    "devDependencies": {
-        "husky": "^8.0.0"
-    }
+    "private": true
 }
