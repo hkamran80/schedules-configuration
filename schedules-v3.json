@@ -5389,5 +5389,143 @@
         },
         "offDays": {},
         "overrides": {}
+    },
+    "nj-runnemede-volz": {
+        "name": "Mary E. Volz Middle School",
+        "shortName": "Volz Middle",
+        "color": "#1236A2",
+        "timezone": "America/New_York",
+        "location": "Runnemede, NJ",
+        "type": "middle",
+        "schedule": {
+            "MON": {
+                "Homeroom": {
+                    "times": ["07:45:00", "07:53:00"],
+                    "allowEditing": false
+                },
+                "Advisory": {
+                    "times": ["07:53:01", "08:15:00"],
+                    "allowEditing": false
+                },
+                "First Period": ["08:15:01", "09:00:00"],
+                "Second Period": ["09:00:01", "09:45:00"],
+                "Third Period": ["09:45:01", "10:30:00"],
+                "Fourth Period": ["10:30:01", "11:15:00"],
+                "Fifth Period": ["11:15:01", "12:00:00"],
+                "Sixth Period": ["12:00:01", "12:45:00"],
+                "Seventh Period": ["12:45:01", "13:30:00"],
+                "Eighth Period": ["13:30:01", "14:15:00"]
+            },
+            "TUE": {
+                "Homeroom": {
+                    "times": ["07:45:00", "07:53:00"],
+                    "allowEditing": false
+                },
+                "Advisory": {
+                    "times": ["07:53:01", "08:15:00"],
+                    "allowEditing": false
+                },
+                "First Period": ["08:15:01", "09:00:00"],
+                "Second Period": ["09:00:01", "09:45:00"],
+                "Third Period": ["09:45:01", "10:30:00"],
+                "Fourth Period": ["10:30:01", "11:15:00"],
+                "Fifth Period": ["11:15:01", "12:00:00"],
+                "Sixth Period": ["12:00:01", "12:45:00"],
+                "Seventh Period": ["12:45:01", "13:30:00"],
+                "Eighth Period": ["13:30:01", "14:15:00"]
+            },
+            "WED": {
+                "Homeroom": {
+                    "times": ["07:45:00", "07:53:00"],
+                    "allowEditing": false
+                },
+                "Advisory": {
+                    "times": ["07:53:01", "08:15:00"],
+                    "allowEditing": false
+                },
+                "First Period": ["08:15:01", "09:00:00"],
+                "Second Period": ["09:00:01", "09:45:00"],
+                "Third Period": ["09:45:01", "10:30:00"],
+                "Fourth Period": ["10:30:01", "11:15:00"],
+                "Fifth Period": ["11:15:01", "12:00:00"],
+                "Sixth Period": ["12:00:01", "12:45:00"],
+                "Seventh Period": ["12:45:01", "13:30:00"],
+                "Eighth Period": ["13:30:01", "14:15:00"]
+            },
+            "THU": {
+                "Homeroom": {
+                    "times": ["07:45:00", "07:53:00"],
+                    "allowEditing": false
+                },
+                "Advisory": {
+                    "times": ["07:53:01", "08:15:00"],
+                    "allowEditing": false
+                },
+                "First Period": ["08:15:01", "09:00:00"],
+                "Second Period": ["09:00:01", "09:45:00"],
+                "Third Period": ["09:45:01", "10:30:00"],
+                "Fourth Period": ["10:30:01", "11:15:00"],
+                "Fifth Period": ["11:15:01", "12:00:00"],
+                "Sixth Period": ["12:00:01", "12:45:00"],
+                "Seventh Period": ["12:45:01", "13:30:00"],
+                "Eighth Period": ["13:30:01", "14:15:00"]
+            },
+            "FRI": {
+                "Homeroom": {
+                    "times": ["07:45:00", "07:53:00"],
+                    "allowEditing": false
+                },
+                "Advisory": {
+                    "times": ["07:53:01", "08:15:00"],
+                    "allowEditing": false
+                },
+                "First Period": ["08:15:01", "09:00:00"],
+                "Second Period": ["09:00:01", "09:45:00"],
+                "Third Period": ["09:45:01", "10:30:00"],
+                "Fourth Period": ["10:30:01", "11:15:00"],
+                "Fifth Period": ["11:15:01", "12:00:00"],
+                "Sixth Period": ["12:00:01", "12:45:00"],
+                "Seventh Period": ["12:45:01", "13:30:00"],
+                "Eighth Period": ["13:30:01", "14:15:00"]
+            },
+            "90M": {
+                "Homeroom": {
+                    "times": ["09:15:00", "09:27:00"],
+                    "allowEditing": false
+                },
+                "First Period": ["09:27:01", "10:03:00"],
+                "Second Period": ["10:03:01", "10:39:00"],
+                "Third Period": ["10:39:01", "11:15:00"],
+                "Fourth Period": ["11:15:01", "11:51:00"],
+                "Fifth Period": ["11:51:01", "12:27:00"],
+                "Sixth Period": ["12:27:01", "13:03:00"],
+                "Seventh Period": ["13:03:01", "13:39:00"],
+                "Eighth Period": ["13:39:01", "14:15:00"]
+            },
+            "EARDIS": {
+                "Homeroom": {
+                    "times": ["07:45:00", "07:53:00"],
+                    "allowEditing": false
+                },
+                "First Period": ["07:53:01", "08:24:00"],
+                "Second Period": ["08:24:01", "08:55:00"],
+                "Third Period": ["08:55:01", "09:26:00"],
+                "Fourth Period": ["09:26:01", "09:56:00"],
+                "Fifth Period": ["09:56:01", "10:27:00"],
+                "Sixth Period": ["10:27:01", "10:58:00"],
+                "Seventh Period": ["10:58:01", "11:29:00"],
+                "Eighth Period": ["11:29:01", "12:00:00"]
+            }
+        },
+        "offDays": {
+            "Staff In-Service (4)": ["2023-02-17"],
+            "Presidents' Day": ["2023-02-20"],
+            "Staff In-Service (5)": ["2023-03-24"],
+            "Spring Break": ["2023-04-07", "2023-04-14"],
+            "Memorial Day": ["2023-05-29"],
+            "Juneteenth": ["2023-06-16"],
+            "Staff In-Service (6)": ["2023-06-19"]
+        },
+        "overrides": { "2023-06-14": "EARDIS", "2023-06-15": "EARDIS" }
     }
 }
