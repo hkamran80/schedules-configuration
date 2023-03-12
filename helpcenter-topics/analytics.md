@@ -1,6 +1,9 @@
-Schedules collects anonymous analytics though the open-source analytics platform [Umami](https://umami.is/). No personally-identifiable information is ever stored on our servers.
+Schedules collects anonymous analytics though the open-source analytics platform
+[Umami](https://umami.is/). No personally-identifiable information is ever stored
+on our servers.
 
-Umami's goal is to provide privacy-focused analytics, and therefore does not collect any personally identifiable information (PII), and anonymizes all data collected.
+Umami's goal is to provide privacy-focused analytics, and therefore does not collect
+any personally identifiable information (PII), and anonymizes all data collected.
 
 Data collected by Umami includes:
 

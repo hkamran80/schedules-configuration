@@ -9,9 +9,11 @@ Schedules can be [installed through the App Store](https://apps.apple.com/app/ap
 ### macOS & Windows
 
 1. Open Google Chrome
-    - On macOS and Windows, Schedules can only be installed through Google Chrome and Microsoft Edge
+    - On macOS and Windows, Schedules can only be installed through Google Chrome
+      and Microsoft Edge
 2. Open Schedules
-3. Click the install button (either a plus button or a computer icon) next to the bookmark button in the omnibox (address bar)
+3. Click the install button (either a plus button or a computer icon) next to the
+   bookmark button in the omnibox (address bar)
     - Or you can click the three vertical dots
 4. Click "Install"
 5. Open the app
