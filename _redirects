@@ -6,3 +6,5 @@
 /schedules/schema                         /schedules.schema.json                        200
 /help/topics                              /helpcenter-topics.json                       200
 /help/topic/*                             /helpcenter-topics/:splat.md                  200
+/                                         https://schedules.unisontech.org              301
+/*                                        https://schedules.unisontech.org              302
