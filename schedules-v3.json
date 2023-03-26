@@ -5527,5 +5527,201 @@
             "Staff In-Service (6)": ["2023-06-19"]
         },
         "overrides": { "2023-06-14": "EARDIS", "2023-06-15": "EARDIS" }
+    },
+    "id-shelley-shs": {
+        "name": "Shelley High School",
+        "shortName": "Shelley High",
+        "color": "#AE0005",
+        "timezone": "America/Boise",
+        "location": "Shelley, ID",
+        "type": "high",
+        "schedule": {
+            "MON": {
+                "First Period": ["07:58:00", "08:54:00"],
+                "Passing (First Period / Second Period)": [
+                    "08:54:01",
+                    "08:58:00"
+                ],
+                "Second Period": ["08:58:01", "10:03:00"],
+                "Passing (Second Period / Homeroom)": ["10:03:01", "10:07:00"],
+                "Homeroom": {
+                    "times": ["10:07:01", "10:27:00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Third Period)": ["10:27:01", "10:31:00"],
+                "Third Period": ["10:31:01", "11:27:00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "11:27:01",
+                    "11:31:00"
+                ],
+                "Fourth Period": ["11:31:01", "12:27:00"],
+                "Lunch": {
+                    "times": ["12:27:01", "12:58:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fifth Period)": ["12:58:01", "13:02:00"],
+                "Fifth Period": ["13:02:01", "13:59:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:59:01",
+                    "14:03:00"
+                ],
+                "Sixth Period": ["14:03:01", "15:00:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "15:00:01",
+                    "15:04:00"
+                ],
+                "Seventh Period": ["15:04:01", "16:01:00"]
+            },
+            "TUE": {
+                "First Period": ["07:58:00", "08:54:00"],
+                "Passing (First Period / Second Period)": [
+                    "08:54:01",
+                    "08:58:00"
+                ],
+                "Second Period": ["08:58:01", "10:03:00"],
+                "Passing (Second Period / Homeroom)": ["10:03:01", "10:07:00"],
+                "Homeroom": {
+                    "times": ["10:07:01", "10:27:00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Third Period)": ["10:27:01", "10:31:00"],
+                "Third Period": ["10:31:01", "11:27:00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "11:27:01",
+                    "11:31:00"
+                ],
+                "Fourth Period": ["11:31:01", "12:27:00"],
+                "Lunch": {
+                    "times": ["12:27:01", "12:58:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fifth Period)": ["12:58:01", "13:02:00"],
+                "Fifth Period": ["13:02:01", "13:59:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:59:01",
+                    "14:03:00"
+                ],
+                "Sixth Period": ["14:03:01", "15:00:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "15:00:01",
+                    "15:04:00"
+                ],
+                "Seventh Period": ["15:04:01", "16:01:00"]
+            },
+            "WED": {
+                "First Period": ["07:58:00", "08:54:00"],
+                "Passing (First Period / Second Period)": [
+                    "08:54:01",
+                    "08:58:00"
+                ],
+                "Second Period": ["08:58:01", "10:03:00"],
+                "Passing (Second Period / Homeroom)": ["10:03:01", "10:07:00"],
+                "Homeroom": {
+                    "times": ["10:07:01", "10:27:00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Third Period)": ["10:27:01", "10:31:00"],
+                "Third Period": ["10:31:01", "11:27:00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "11:27:01",
+                    "11:31:00"
+                ],
+                "Fourth Period": ["11:31:01", "12:27:00"],
+                "Lunch": {
+                    "times": ["12:27:01", "12:58:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fifth Period)": ["12:58:01", "13:02:00"],
+                "Fifth Period": ["13:02:01", "13:59:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:59:01",
+                    "14:03:00"
+                ],
+                "Sixth Period": ["14:03:01", "15:00:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "15:00:01",
+                    "15:04:00"
+                ],
+                "Seventh Period": ["15:04:01", "16:01:00"]
+            },
+            "THU": {
+                "First Period": ["07:58:00", "08:54:00"],
+                "Passing (First Period / Second Period)": [
+                    "08:54:01",
+                    "08:58:00"
+                ],
+                "Second Period": ["08:58:01", "10:03:00"],
+                "Passing (Second Period / Homeroom)": ["10:03:01", "10:07:00"],
+                "Homeroom": {
+                    "times": ["10:07:01", "10:27:00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Third Period)": ["10:27:01", "10:31:00"],
+                "Third Period": ["10:31:01", "11:27:00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "11:27:01",
+                    "11:31:00"
+                ],
+                "Fourth Period": ["11:31:01", "12:27:00"],
+                "Lunch": {
+                    "times": ["12:27:01", "12:58:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fifth Period)": ["12:58:01", "13:02:00"],
+                "Fifth Period": ["13:02:01", "13:59:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:59:01",
+                    "14:03:00"
+                ],
+                "Sixth Period": ["14:03:01", "15:00:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "15:00:01",
+                    "15:04:00"
+                ],
+                "Seventh Period": ["15:04:01", "16:01:00"]
+            },
+            "FRI": {
+                "First Period": ["07:58:00", "08:54:00"],
+                "Passing (First Period / Second Period)": [
+                    "08:54:01",
+                    "08:58:00"
+                ],
+                "Second Period": ["08:58:01", "10:03:00"],
+                "Passing (Second Period / Homeroom)": ["10:03:01", "10:07:00"],
+                "Homeroom": {
+                    "times": ["10:07:01", "10:27:00"],
+                    "allowEditing": false
+                },
+                "Passing (Homeroom / Third Period)": ["10:27:01", "10:31:00"],
+                "Third Period": ["10:31:01", "11:27:00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "11:27:01",
+                    "11:31:00"
+                ],
+                "Fourth Period": ["11:31:01", "12:27:00"],
+                "Lunch": {
+                    "times": ["12:27:01", "12:58:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fifth Period)": ["12:58:01", "13:02:00"],
+                "Fifth Period": ["13:02:01", "13:59:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:59:01",
+                    "14:03:00"
+                ],
+                "Sixth Period": ["14:03:01", "15:00:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "15:00:01",
+                    "15:04:00"
+                ],
+                "Seventh Period": ["15:04:01", "16:01:00"]
+            }
+        },
+        "offDays": {
+            "Teacher Inservice Day": ["2023-04-28"],
+            "Teacher Work Day": ["2023-05-26"],
+            "Memorial Day": ["2023-05-29"]
+        },
+        "overrides": {}
     }
 }
