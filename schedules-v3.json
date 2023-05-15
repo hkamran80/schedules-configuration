@@ -148,35 +148,35 @@
                     "times": ["10:30:01", "10:45:00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Fourth Period)": ["10:45:01", "10:50:00"],
-                "Fourth Period": ["10:50:01", "12:50:00"]
+                "Passing (Brunch / Second Period)": ["10:45:01", "10:50:00"],
+                "Second Period": ["10:50:01", "12:50:00"]
             },
             "FINAL2": {
-                "First Period": ["08:30:00", "10:30:00"],
+                "Fifth Period": ["08:30:00", "10:30:00"],
                 "Brunch": {
                     "times": ["10:30:01", "10:45:00"],
                     "allowEditing": false
                 },
-                "Passing (Brunch / Fifth Period)": ["10:45:01", "10:50:00"],
-                "Fifth Period": ["10:50:01", "12:50:00"]
+                "Passing (Brunch / First Period)": ["10:45:01", "10:50:00"],
+                "First Period": ["10:50:01", "12:50:00"]
             },
             "FINAL3": {
-                "Second Period": ["08:30:00", "10:30:00"],
-                "Brunch": {
-                    "times": ["10:30:01", "10:45:00"],
-                    "allowEditing": false
-                },
-                "Passing (Brunch / Seventh Period)": ["10:45:01", "10:50:00"],
-                "Seventh Period": ["10:50:01", "12:50:00"]
-            },
-            "FINAL4": {
-                "Third Period": ["08:30:00", "10:30:00"],
+                "Fourth Period": ["08:30:00", "10:30:00"],
                 "Brunch": {
                     "times": ["10:30:01", "10:45:00"],
                     "allowEditing": false
                 },
                 "Passing (Brunch / Sixth Period)": ["10:45:01", "10:50:00"],
                 "Sixth Period": ["10:50:01", "12:50:00"]
+            },
+            "FINAL4": {
+                "Seventh Period": ["08:30:00", "10:30:00"],
+                "Brunch": {
+                    "times": ["10:30:01", "10:45:00"],
+                    "allowEditing": false
+                },
+                "Passing (Brunch / Third Period)": ["10:45:01", "10:50:00"],
+                "Third Period": ["10:50:01", "12:50:00"]
             }
         },
         "offDays": {
@@ -191,12 +191,12 @@
         },
         "overrides": {
             "2022-11-07": "WED",
-            "2022-12-13": "FINAL1",
-            "2022-12-14": "FINAL2",
-            "2022-12-15": "FINAL3",
-            "2022-12-16": "FINAL4",
             "2023-01-04": "MON",
-            "2023-02-13": "FRI"
+            "2023-02-13": "FRI",
+            "2023-05-23": "FINAL1",
+            "2023-05-24": "FINAL2",
+            "2023-05-25": "FINAL3",
+            "2023-05-26": "FINAL4"
         }
     },
     "tx-conroeisd-twcp-a": {
