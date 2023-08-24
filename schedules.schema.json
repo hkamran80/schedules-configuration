@@ -41,6 +41,10 @@
                         "unknown"
                     ]
                 },
+                "custom": {
+                    "type": "boolean",
+                    "description": "If the schedule is a custom/private schedule"
+                },
                 "schedule": {
                     "type": "object",
                     "description": "The actual schedule",
