@@ -5,5 +5,10 @@
     "private": true,
     "dependencies": {
         "@hkamran/utility-assets": "^1.0.0"
-    }
+    },
+    "devDependencies": {
+        "@hkamran/prettier-config": "^1.1.1",
+        "prettier": "^3.0.2"
+    },
+    "prettier": "@hkamran/prettier-config"
 }
