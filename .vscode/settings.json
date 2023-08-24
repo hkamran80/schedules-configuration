@@ -5,7 +5,7 @@
             "url": "https://raw.githubusercontent.com/hkamran80/schedules-configuration/34bf6b6002d25b45f79a9d4299f5518995bd2820/schedules.schema.json"
         },
         {
-            "fileMatch": ["/schedules-v3.json", "/schedules-custom*.json"],
+            "fileMatch": ["/schedules-v3*.json", "/schedules-custom*.json"],
             "url": "./schedules.schema.json"
         }
     ]
