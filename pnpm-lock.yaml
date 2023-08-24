@@ -1,28 +1,33 @@
-lockfileVersion: 5.4
+lockfileVersion: '6.0'
 
-specifiers:
-  '@hkamran/prettier-config': ^1.1.1
-  '@hkamran/utility-assets': ^1.0.0
-  prettier: ^3.0.2
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
 
 dependencies:
-  '@hkamran/utility-assets': 1.0.0
+  '@hkamran/utility-assets':
+    specifier: ^1.0.0
+    version: 1.0.0
 
 devDependencies:
-  '@hkamran/prettier-config': 1.1.1
-  prettier: 3.0.2
+  '@hkamran/prettier-config':
+    specifier: ^1.1.1
+    version: 1.1.1
+  prettier:
+    specifier: ^3.0.2
+    version: 3.0.2
 
 packages:
 
-  /@hkamran/prettier-config/1.1.1:
+  /@hkamran/prettier-config@1.1.1:
     resolution: {integrity: sha512-VLAWG2W19Wonwl+uEz1qNgQINxCd5igOH1gUb+OsW46WEZlDOcFapTQyI/Mi/mB4NvTz2hd2hxUiAPAztH/xuA==}
     dev: true
 
-  /@hkamran/utility-assets/1.0.0:
+  /@hkamran/utility-assets@1.0.0:
     resolution: {integrity: sha512-R5Cv/yVn8GqlOMPO51QSAg1e3PEQhKicQ7Z6c6Ix+mYjG8GTTbIlmN2fMb98xzm7U6OK0EuqXeXvj8gca7TwiA==}
     dev: false
 
-  /prettier/3.0.2:
+  /prettier@3.0.2:
     resolution: {integrity: sha512-o2YR9qtniXvwEZlOKbveKfDQVyqxbEIWn48Z8m3ZJjBjcCmUy3xZGIv+7AkaeuaTr6yPXJjwv07ZWlsWbEy1rQ==}
     engines: {node: '>=14'}
     hasBin: true
