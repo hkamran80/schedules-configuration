@@ -7826,5 +7826,159 @@
             "Juneteenth":["2024-06-19"]
         },
         "overrides": {}
+    },
+    "tx-dallasisd-bookert-a": {
+        "name": "Booker T. Washington High School for the Performing and Visual Arts (A)",
+        "shortName": "Booker T. (A)",
+        "color": "#1f4892",
+        "timezone": "America/Chicago",
+        "location": "Dallas, TX",
+        "type": "high",
+        "schedule": {
+            "MON": {
+                "First Period": ["09:10:00", "10:30:00"],
+                "Passing (First Period / Second Period)": ["10:30:01","10:34:59"],
+                "Second Period": ["10:35:00", "11:55:00"],
+                "Passing (Second Period / Flex)": ["11:55:01","11:59:59"],
+                "Flex": {
+                    "times": ["12:00:00", "12:45:00"],
+                    "allowEditing": false
+                },
+                "Passing (Flex / Lunch)":["12:45:01","12:49:59"],
+                "Lunch": {
+                    "times": ["12:50:00", "13:40:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Third Period)":["13:40:01","13:44:59"],
+                "Third Period": ["13:45:00", "15:05:00"],
+                "Passing (Third Period / Fourth Period)":["15:05:01","15:09:59"],
+                "Fourth Period": ["15:10:00", "16:30:00"]
+            },
+            "WED": {
+                "First Period": ["09:10:00", "10:30:00"],
+                "Passing (First Period / Second Period)": ["10:30:01","10:34:59"],
+                "Second Period": ["10:35:00", "11:55:00"],
+                "Passing (Second Period / Flex)": ["11:55:01","11:59:59"],
+                "Flex": {
+                    "times": ["12:00:00", "12:45:00"],
+                    "allowEditing": false
+                },
+                "Passing (Flex / Lunch)":["12:45:01","12:49:59"],
+                "Lunch": {
+                    "times": ["12:50:00", "13:40:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Third Period)":["13:40:01","13:44:59"],
+                "Third Period": ["13:45:00", "15:05:00"],
+                "Passing (Third Period / Fourth Period)":["15:05:01","15:09:59"],
+                "Fourth Period": ["15:10:00", "16:30:00"]
+            },
+            "FRI": {
+                "First Period": ["09:10:00", "10:30:00"],
+                "Passing (First Period / Second Period)": ["10:30:01","10:34:59"],
+                "Second Period": ["10:35:00", "11:55:00"],
+                "Passing (Second Period / Flex)": ["11:55:01","11:59:59"],
+                "Flex": {
+                    "times": ["12:00:00", "12:45:00"],
+                    "allowEditing": false
+                },
+                "Passing (Flex / Lunch)":["12:45:01","12:49:59"],
+                "Lunch": {
+                    "times": ["12:50:00", "13:40:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Third Period)":["13:40:01","13:44:59"],
+                "Third Period": ["13:45:00", "15:05:00"],
+                "Passing (Third Period / Fourth Period)":["15:05:01","15:09:59"],
+                "Fourth Period": ["15:10:00", "16:30:00"]
+            }
+        },
+        "offDays": {
+            "Thanksgiving Break": ["2023-11-20","2023-11-24"],
+            "Winter Break":["2023-12-25","2024-01-05"],
+            "Martin Luther King Jr. Day":["2024-01-15"],
+            "Spring Break":["2024-03-11","2024-03-15"],
+            "Holiday":["2024-03-29"],
+            "Memorial Day":["2024-05-27"],
+            "Juneteenth": ["2024-06-19"]
+        },
+        "overrides": {}
+    },
+    "tx-dallasisd-bookert-b": {
+        "name": "Booker T. Washington High School for the Performing and Visual Arts (B)",
+        "shortName": "Booker T. (B)",
+        "color": "#1f4892",
+        "timezone": "America/Chicago",
+        "location": "Dallas, TX",
+        "type": "high",
+        "schedule": {
+            "TUE": {
+                "Fifth Period": ["09:10:00", "10:30:00"],
+                "Passing (Fifth Period / Sixth Period)": ["10:30:01","10:34:59"],
+                "Sixth Period": ["10:35:00", "11:55:00"],
+                "Passing (Sixth Period / Flex)": ["11:55:01","11:59:59"],
+                "Flex": {
+                    "times": ["12:00:00", "12:45:00"],
+                    "allowEditing": false
+                },
+                "Passing (Flex / Lunch)":["12:45:01","12:49:59"],
+                "Lunch": {
+                    "times": ["12:50:00", "13:40:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Seventh Period)":["13:40:01","13:44:59"],
+                "Seventh Period": ["13:45:00", "15:05:00"],
+                "Passing (Seventh Period / Eighth Period)":["15:05:01","15:09:59"],
+                "Eighth Period": ["15:10:00", "16:30:00"]
+            },
+            "THU": {
+                "Fifth Period": ["09:10:00", "10:30:00"],
+                "Passing (Fifth Period / Sixth Period)": ["10:30:01","10:34:59"],
+                "Sixth Period": ["10:35:00", "11:55:00"],
+                "Passing (Sixth Period / Flex)": ["11:55:01","11:59:59"],
+                "Flex": {
+                    "times": ["12:00:00", "12:45:00"],
+                    "allowEditing": false
+                },
+                "Passing (Flex / Lunch)":["12:45:01","12:49:59"],
+                "Lunch": {
+                    "times": ["12:50:00", "13:40:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Seventh Period)":["13:40:01","13:44:59"],
+                "Seventh Period": ["13:45:00", "15:05:00"],
+                "Passing (Seventh Period / Eighth Period)":["15:05:01","15:09:59"],
+                "Eighth Period": ["15:10:00", "16:30:00"]
+            },
+            "FRI": {
+                "Fifth Period": ["09:10:00", "10:30:00"],
+                "Passing (Fifth Period / Sixth Period)": ["10:30:01","10:34:59"],
+                "Sixth Period": ["10:35:00", "11:55:00"],
+                "Passing (Sixth Period / Flex)": ["11:55:01","11:59:59"],
+                "Flex": {
+                    "times": ["12:00:00", "12:45:00"],
+                    "allowEditing": false
+                },
+                "Passing (Flex / Lunch)":["12:45:01","12:49:59"],
+                "Lunch": {
+                    "times": ["12:50:00", "13:40:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Seventh Period)":["13:40:01","13:44:59"],
+                "Seventh Period": ["13:45:00", "15:05:00"],
+                "Passing (Seventh Period / Eighth Period)":["15:05:01","15:09:59"],
+                "Eighth Period": ["15:10:00", "16:30:00"]
+            }
+        },
+        "offDays": {
+            "Thanksgiving Break": ["2023-11-20","2023-11-24"],
+            "Winter Break":["2023-12-25","2024-01-05"],
+            "Martin Luther King Jr. Day":["2024-01-15"],
+            "Spring Break":["2024-03-11","2024-03-15"],
+            "Holiday":["2024-03-29"],
+            "Memorial Day":["2024-05-27"],
+            "Juneteenth": ["2024-06-19"]
+        },
+        "overrides": {}
     }
 }

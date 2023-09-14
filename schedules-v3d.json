@@ -4246,19 +4246,145 @@
         },
         "offDays": {
             "Yom Kippur": ["2023-09-25"],
-            "Italian Heritage / Indigenous Peoples' Day":["2023-10-09"],
-            "Election Day":["2023-11-07"],
-            "Thanksgiving Recess": ["2023-11-23","2023-11-24"],
-            "Winter Recess":["2023-12-25","2024-01-01"],
+            "Italian Heritage / Indigenous Peoples' Day": ["2023-10-09"],
+            "Election Day": ["2023-11-07"],
+            "Thanksgiving Recess": ["2023-11-23", "2023-11-24"],
+            "Winter Recess": ["2023-12-25", "2024-01-01"],
             "Rev. Dr. Martin Luther King Jr. Day": ["2024-01-15"],
-            "Midwinter Recess": ["2024-02-19","2024-02-23"],
-            "Easter Weekend": ["2024-03-29","2024-04-01"],
-            "Eid-ul-Fitr":["2024-04-10"],
-            "Spring Recess":["2024-04-22","2024-04-30"],
+            "Midwinter Recess": ["2024-02-19", "2024-02-23"],
+            "Easter Weekend": ["2024-03-29", "2024-04-01"],
+            "Eid-ul-Fitr": ["2024-04-10"],
+            "Spring Recess": ["2024-04-22", "2024-04-30"],
+            "Memorial Day": ["2024-05-27"],
+            "Anniversary Day / Staff - Chancellor's Conference Day": [
+                "2024-06-06"
+            ],
+            "Eid-ul-Adha": ["2024-06-17"],
+            "Juneteenth": ["2024-06-19"]
+        },
+        "overrides": {}
+    },
+    "tx-dallasisd-bookert-a": {
+        "name": "Booker T. Washington High School for the Performing and Visual Arts (A)",
+        "shortName": "Booker T. (A)",
+        "color": "#1f4892",
+        "timezone": "America/Chicago",
+        "location": "Dallas, TX",
+        "type": "high",
+        "schedule": {
+            "MON": {
+                "First Period": ["09:10:00", "10:30:00"],
+                "Second Period": ["10:35:00", "11:55:00"],
+                "Flex": {
+                    "times": ["12:00:00", "12:45:00"],
+                    "allowEditing": false
+                },
+                "Lunch": {
+                    "times": ["12:50:00", "13:40:00"],
+                    "allowEditing": false
+                },
+                "Third Period": ["13:45:00", "15:05:00"],
+                "Fourth Period": ["15:10:00", "16:30:00"]
+            },
+            "WED": {
+                "First Period": ["09:10:00", "10:30:00"],
+                "Second Period": ["10:35:00", "11:55:00"],
+                "Flex": {
+                    "times": ["12:00:00", "12:45:00"],
+                    "allowEditing": false
+                },
+                "Lunch": {
+                    "times": ["12:50:00", "13:40:00"],
+                    "allowEditing": false
+                },
+                "Third Period": ["13:45:00", "15:05:00"],
+                "Fourth Period": ["15:10:00", "16:30:00"]
+            },
+            "FRI": {
+                "First Period": ["09:10:00", "10:30:00"],
+                "Second Period": ["10:35:00", "11:55:00"],
+                "Flex": {
+                    "times": ["12:00:00", "12:45:00"],
+                    "allowEditing": false
+                },
+                "Lunch": {
+                    "times": ["12:50:00", "13:40:00"],
+                    "allowEditing": false
+                },
+                "Third Period": ["13:45:00", "15:05:00"],
+                "Fourth Period": ["15:10:00", "16:30:00"]
+            }
+        },
+        "offDays": {
+            "Thanksgiving Break": ["2023-11-20","2023-11-24"],
+            "Winter Break":["2023-12-25","2024-01-05"],
+            "Martin Luther King Jr. Day":["2024-01-15"],
+            "Spring Break":["2024-03-11","2024-03-15"],
+            "Holiday":["2024-03-29"],
             "Memorial Day":["2024-05-27"],
-            "Anniversary Day / Staff - Chancellor's Conference Day":["2024-06-06"],
-            "Eid-ul-Adha":["2024-06-17"],
-            "Juneteenth":["2024-06-19"]
+            "Juneteenth": ["2024-06-19"]
+        },
+        "overrides": {}
+    },
+    "tx-dallasisd-bookert-b": {
+        "name": "Booker T. Washington High School for the Performing and Visual Arts (B)",
+        "shortName": "Booker T. (B)",
+        "color": "#1f4892",
+        "timezone": "America/Chicago",
+        "location": "Dallas, TX",
+        "type": "high",
+        "schedule": {
+            "TUE": {
+                "Fifth Period": ["09:10:00", "10:30:00"],
+                "Sixth Period": ["10:35:00", "11:55:00"],
+                "Flex": {
+                    "times": ["12:00:00", "12:45:00"],
+                    "allowEditing": false
+                },
+                "Lunch": {
+                    "times": ["12:50:00", "13:40:00"],
+                    "allowEditing": false
+                },
+                "Seventh Period": ["13:45:00", "15:05:00"],
+                "Eighth Period": ["15:10:00", "16:30:00"]
+            },
+            "THU": {
+                "Fifth Period": ["09:10:00", "10:30:00"],
+                "Sixth Period": ["10:35:00", "11:55:00"],
+                "Flex": {
+                    "times": ["12:00:00", "12:45:00"],
+                    "allowEditing": false
+                },
+                "Lunch": {
+                    "times": ["12:50:00", "13:40:00"],
+                    "allowEditing": false
+                },
+                "Seventh Period": ["13:45:00", "15:05:00"],
+                "Eighth Period": ["15:10:00", "16:30:00"]
+            },
+            "FRI": {
+                "Fifth Period": ["09:10:00", "10:30:00"],
+                "Sixth Period": ["10:35:00", "11:55:00"],
+                "Flex": {
+                    "times": ["12:00:00", "12:45:00"],
+                    "allowEditing": false
+                },
+                "Lunch": {
+                    "times": ["12:50:00", "13:40:00"],
+                    "allowEditing": false
+                },
+                "Seventh Period": ["13:45:00", "15:05:00"],
+                "Eighth Period": ["15:10:00", "16:30:00"]
+            }
+        },
+        "offDays": {
+            "Thanksgiving Break": ["2023-11-20","2023-11-24"],
+            "Winter Break":["2023-12-25","2024-01-05"],
+            "Martin Luther King Jr. Day":["2024-01-15"],
+            "Spring Break":["2024-03-11","2024-03-15"],
+            "Holiday":["2024-03-29"],
+            "Memorial Day":["2024-05-27"],
+            "Juneteenth": ["2024-06-19"]
         },
         "overrides": {}
     }
