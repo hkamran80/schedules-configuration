@@ -5935,17 +5935,17 @@
                 "2023-11-01"
             ],
             "Student/Staff Holiday III": ["2023-11-20", "2023-11-24"],
-            "Student/Staff Holiday IV": ["2023-12-18", "2023-12-01"],
+            "Student/Staff Holiday IV": ["2023-12-18", "2024-01-01"],
             "Staff Exchange Day/Staff Workday/Student Holiday II": [
                 "2024-01-02",
                 "2024-01-03"
             ],
-            "Student/Staff Holiday V": ["2023-01-15"],
-            "Staff Workday/Student Holiday II": ["2023-02-16"],
-            "Student/Staff Holiday VI": ["2023-02-19"],
-            "Student/Staff Holiday VII": ["2023-03-18", "2023-03-22"],
-            "Student/Staff Holiday VIII": ["2023-03-29"],
-            "Staff Workday/Student Holiday III": ["2023-04-01"]
+            "Student/Staff Holiday V": ["2024-01-15"],
+            "Staff Workday/Student Holiday II": ["2024-02-16"],
+            "Student/Staff Holiday VI": ["2024-02-19"],
+            "Student/Staff Holiday VII": ["2024-03-18", "2024-03-22"],
+            "Student/Staff Holiday VIII": ["2024-03-29"],
+            "Staff Workday/Student Holiday III": ["2024-04-01"]
         },
         "overrides": {}
     },
@@ -6153,6 +6153,7 @@
                 "Seventh Period": ["14:44:01", "15:35:00"]
             }
         },
+        
         "offDays": {
             "Student/Staff Holiday": ["2023-09-04"],
             "Staff Workday/Student Holiday": ["2023-10-06"],
@@ -6162,17 +6163,17 @@
                 "2023-11-01"
             ],
             "Student/Staff Holiday III": ["2023-11-20", "2023-11-24"],
-            "Student/Staff Holiday IV": ["2023-12-18", "2023-12-01"],
+            "Student/Staff Holiday IV": ["2023-12-18", "2024-01-01"],
             "Staff Exchange Day/Staff Workday/Student Holiday II": [
                 "2024-01-02",
                 "2024-01-03"
             ],
-            "Student/Staff Holiday V": ["2023-01-15"],
-            "Staff Workday/Student Holiday II": ["2023-02-16"],
-            "Student/Staff Holiday VI": ["2023-02-19"],
-            "Student/Staff Holiday VII": ["2023-03-18", "2023-03-22"],
-            "Student/Staff Holiday VIII": ["2023-03-29"],
-            "Staff Workday/Student Holiday III": ["2023-04-01"]
+            "Student/Staff Holiday V": ["2024-01-15"],
+            "Staff Workday/Student Holiday II": ["2024-02-16"],
+            "Student/Staff Holiday VI": ["2024-02-19"],
+            "Student/Staff Holiday VII": ["2024-03-18", "2024-03-22"],
+            "Student/Staff Holiday VIII": ["2024-03-29"],
+            "Staff Workday/Student Holiday III": ["2024-04-01"]
         },
         "overrides": {}
     },
@@ -6360,6 +6361,7 @@
                 "Seventh Period": ["14:44:01", "15:35:00"]
             }
         },
+        
         "offDays": {
             "Student/Staff Holiday": ["2023-09-04"],
             "Staff Workday/Student Holiday": ["2023-10-06"],
@@ -6369,17 +6371,17 @@
                 "2023-11-01"
             ],
             "Student/Staff Holiday III": ["2023-11-20", "2023-11-24"],
-            "Student/Staff Holiday IV": ["2023-12-18", "2023-12-01"],
+            "Student/Staff Holiday IV": ["2023-12-18", "2024-01-01"],
             "Staff Exchange Day/Staff Workday/Student Holiday II": [
                 "2024-01-02",
                 "2024-01-03"
             ],
-            "Student/Staff Holiday V": ["2023-01-15"],
-            "Staff Workday/Student Holiday II": ["2023-02-16"],
-            "Student/Staff Holiday VI": ["2023-02-19"],
-            "Student/Staff Holiday VII": ["2023-03-18", "2023-03-22"],
-            "Student/Staff Holiday VIII": ["2023-03-29"],
-            "Staff Workday/Student Holiday III": ["2023-04-01"]
+            "Student/Staff Holiday V": ["2024-01-15"],
+            "Staff Workday/Student Holiday II": ["2024-02-16"],
+            "Student/Staff Holiday VI": ["2024-02-19"],
+            "Student/Staff Holiday VII": ["2024-03-18", "2024-03-22"],
+            "Student/Staff Holiday VIII": ["2024-03-29"],
+            "Staff Workday/Student Holiday III": ["2024-04-01"]
         },
         "overrides": {}
     },
@@ -6582,6 +6584,7 @@
                 }
             }
         },
+        
         "offDays": {
             "Student/Staff Holiday": ["2023-09-04"],
             "Staff Workday/Student Holiday": ["2023-10-06"],
@@ -6591,17 +6594,17 @@
                 "2023-11-01"
             ],
             "Student/Staff Holiday III": ["2023-11-20", "2023-11-24"],
-            "Student/Staff Holiday IV": ["2023-12-18", "2023-12-01"],
+            "Student/Staff Holiday IV": ["2023-12-18", "2024-01-01"],
             "Staff Exchange Day/Staff Workday/Student Holiday II": [
                 "2024-01-02",
                 "2024-01-03"
             ],
-            "Student/Staff Holiday V": ["2023-01-15"],
-            "Staff Workday/Student Holiday II": ["2023-02-16"],
-            "Student/Staff Holiday VI": ["2023-02-19"],
-            "Student/Staff Holiday VII": ["2023-03-18", "2023-03-22"],
-            "Student/Staff Holiday VIII": ["2023-03-29"],
-            "Staff Workday/Student Holiday III": ["2023-04-01"]
+            "Student/Staff Holiday V": ["2024-01-15"],
+            "Staff Workday/Student Holiday II": ["2024-02-16"],
+            "Student/Staff Holiday VI": ["2024-02-19"],
+            "Student/Staff Holiday VII": ["2024-03-18", "2024-03-22"],
+            "Student/Staff Holiday VIII": ["2024-03-29"],
+            "Staff Workday/Student Holiday III": ["2024-04-01"]
         },
         "overrides": {}
     },
@@ -6829,6 +6832,7 @@
                 }
             }
         },
+        
         "offDays": {
             "Student/Staff Holiday": ["2023-09-04"],
             "Staff Workday/Student Holiday": ["2023-10-06"],
@@ -6838,17 +6842,17 @@
                 "2023-11-01"
             ],
             "Student/Staff Holiday III": ["2023-11-20", "2023-11-24"],
-            "Student/Staff Holiday IV": ["2023-12-18", "2023-12-01"],
+            "Student/Staff Holiday IV": ["2023-12-18", "2024-01-01"],
             "Staff Exchange Day/Staff Workday/Student Holiday II": [
                 "2024-01-02",
                 "2024-01-03"
             ],
-            "Student/Staff Holiday V": ["2023-01-15"],
-            "Staff Workday/Student Holiday II": ["2023-02-16"],
-            "Student/Staff Holiday VI": ["2023-02-19"],
-            "Student/Staff Holiday VII": ["2023-03-18", "2023-03-22"],
-            "Student/Staff Holiday VIII": ["2023-03-29"],
-            "Staff Workday/Student Holiday III": ["2023-04-01"]
+            "Student/Staff Holiday V": ["2024-01-15"],
+            "Staff Workday/Student Holiday II": ["2024-02-16"],
+            "Student/Staff Holiday VI": ["2024-02-19"],
+            "Student/Staff Holiday VII": ["2024-03-18", "2024-03-22"],
+            "Student/Staff Holiday VIII": ["2024-03-29"],
+            "Staff Workday/Student Holiday III": ["2024-04-01"]
         },
         "overrides": {}
     },
@@ -7051,6 +7055,7 @@
                 }
             }
         },
+        
         "offDays": {
             "Student/Staff Holiday": ["2023-09-04"],
             "Staff Workday/Student Holiday": ["2023-10-06"],
@@ -7060,17 +7065,17 @@
                 "2023-11-01"
             ],
             "Student/Staff Holiday III": ["2023-11-20", "2023-11-24"],
-            "Student/Staff Holiday IV": ["2023-12-18", "2023-12-01"],
+            "Student/Staff Holiday IV": ["2023-12-18", "2024-01-01"],
             "Staff Exchange Day/Staff Workday/Student Holiday II": [
                 "2024-01-02",
                 "2024-01-03"
             ],
-            "Student/Staff Holiday V": ["2023-01-15"],
-            "Staff Workday/Student Holiday II": ["2023-02-16"],
-            "Student/Staff Holiday VI": ["2023-02-19"],
-            "Student/Staff Holiday VII": ["2023-03-18", "2023-03-22"],
-            "Student/Staff Holiday VIII": ["2023-03-29"],
-            "Staff Workday/Student Holiday III": ["2023-04-01"]
+            "Student/Staff Holiday V": ["2024-01-15"],
+            "Staff Workday/Student Holiday II": ["2024-02-16"],
+            "Student/Staff Holiday VI": ["2024-02-19"],
+            "Student/Staff Holiday VII": ["2024-03-18", "2024-03-22"],
+            "Student/Staff Holiday VIII": ["2024-03-29"],
+            "Staff Workday/Student Holiday III": ["2024-04-01"]
         },
         "overrides": {}
     },
@@ -7253,6 +7258,7 @@
                 "Seventh Period": ["13:21:01", "14:00:00"]
             }
         },
+        
         "offDays": {
             "Student/Staff Holiday": ["2023-09-04"],
             "Staff Workday/Student Holiday": ["2023-10-06"],
@@ -7262,17 +7268,17 @@
                 "2023-11-01"
             ],
             "Student/Staff Holiday III": ["2023-11-20", "2023-11-24"],
-            "Student/Staff Holiday IV": ["2023-12-18", "2023-12-01"],
+            "Student/Staff Holiday IV": ["2023-12-18", "2024-01-01"],
             "Staff Exchange Day/Staff Workday/Student Holiday II": [
                 "2024-01-02",
                 "2024-01-03"
             ],
-            "Student/Staff Holiday V": ["2023-01-15"],
-            "Staff Workday/Student Holiday II": ["2023-02-16"],
-            "Student/Staff Holiday VI": ["2023-02-19"],
-            "Student/Staff Holiday VII": ["2023-03-18", "2023-03-22"],
-            "Student/Staff Holiday VIII": ["2023-03-29"],
-            "Staff Workday/Student Holiday III": ["2023-04-01"]
+            "Student/Staff Holiday V": ["2024-01-15"],
+            "Staff Workday/Student Holiday II": ["2024-02-16"],
+            "Student/Staff Holiday VI": ["2024-02-19"],
+            "Student/Staff Holiday VII": ["2024-03-18", "2024-03-22"],
+            "Student/Staff Holiday VIII": ["2024-03-29"],
+            "Staff Workday/Student Holiday III": ["2024-04-01"]
         },
         "overrides": {}
     },
@@ -7480,6 +7486,7 @@
                 "Seventh Period": ["13:21:01", "14:00:00"]
             }
         },
+        
         "offDays": {
             "Student/Staff Holiday": ["2023-09-04"],
             "Staff Workday/Student Holiday": ["2023-10-06"],
@@ -7489,17 +7496,17 @@
                 "2023-11-01"
             ],
             "Student/Staff Holiday III": ["2023-11-20", "2023-11-24"],
-            "Student/Staff Holiday IV": ["2023-12-18", "2023-12-01"],
+            "Student/Staff Holiday IV": ["2023-12-18", "2024-01-01"],
             "Staff Exchange Day/Staff Workday/Student Holiday II": [
                 "2024-01-02",
                 "2024-01-03"
             ],
-            "Student/Staff Holiday V": ["2023-01-15"],
-            "Staff Workday/Student Holiday II": ["2023-02-16"],
-            "Student/Staff Holiday VI": ["2023-02-19"],
-            "Student/Staff Holiday VII": ["2023-03-18", "2023-03-22"],
-            "Student/Staff Holiday VIII": ["2023-03-29"],
-            "Staff Workday/Student Holiday III": ["2023-04-01"]
+            "Student/Staff Holiday V": ["2024-01-15"],
+            "Staff Workday/Student Holiday II": ["2024-02-16"],
+            "Student/Staff Holiday VI": ["2024-02-19"],
+            "Student/Staff Holiday VII": ["2024-03-18", "2024-03-22"],
+            "Student/Staff Holiday VIII": ["2024-03-29"],
+            "Staff Workday/Student Holiday III": ["2024-04-01"]
         },
         "overrides": {}
     },
@@ -7682,6 +7689,7 @@
                 "Seventh Period": ["13:21:01", "14:00:00"]
             }
         },
+        
         "offDays": {
             "Student/Staff Holiday": ["2023-09-04"],
             "Staff Workday/Student Holiday": ["2023-10-06"],
@@ -7691,17 +7699,17 @@
                 "2023-11-01"
             ],
             "Student/Staff Holiday III": ["2023-11-20", "2023-11-24"],
-            "Student/Staff Holiday IV": ["2023-12-18", "2023-12-01"],
+            "Student/Staff Holiday IV": ["2023-12-18", "2024-01-01"],
             "Staff Exchange Day/Staff Workday/Student Holiday II": [
                 "2024-01-02",
                 "2024-01-03"
             ],
-            "Student/Staff Holiday V": ["2023-01-15"],
-            "Staff Workday/Student Holiday II": ["2023-02-16"],
-            "Student/Staff Holiday VI": ["2023-02-19"],
-            "Student/Staff Holiday VII": ["2023-03-18", "2023-03-22"],
-            "Student/Staff Holiday VIII": ["2023-03-29"],
-            "Staff Workday/Student Holiday III": ["2023-04-01"]
+            "Student/Staff Holiday V": ["2024-01-15"],
+            "Staff Workday/Student Holiday II": ["2024-02-16"],
+            "Student/Staff Holiday VI": ["2024-02-19"],
+            "Student/Staff Holiday VII": ["2024-03-18", "2024-03-22"],
+            "Student/Staff Holiday VIII": ["2024-03-29"],
+            "Staff Workday/Student Holiday III": ["2024-04-01"]
         },
         "overrides": {}
     },
