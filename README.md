@@ -15,6 +15,8 @@ make any changes.
 **Note:** These guides assume basic familiarity with [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON),
 [Git](https://learn.microsoft.com/en-us/devops/develop/git/what-is-git), and [GitHub](https://docs.github.com/en/get-started).
 
+Before submitting a pull request, make sure to run `scripts/add_passing_periods.py`.
+
 ### Add a New Schedule
 
 Once you have made all your changes, create a pull request to have it added to Schedules.
