@@ -4471,7 +4471,7 @@
     "ar-whitehallsd-whms-a": {
         "name": "White Hall Middle School (A)",
         "shortName": "White Hall (A)",
-        "color": "CC2031",
+        "color": "#CC2031",
         "timezone": "America/Chicago",
         "location": "White Hall, AR",
         "type": "middle",
@@ -4562,7 +4562,7 @@
     "ar-whitehallsd-whms-b": {
         "name": "White Hall Middle School (B)",
         "shortName": "White Hall (B)",
-        "color": "CC2031",
+        "color": "#CC2031",
         "timezone": "America/Chicago",
         "location": "White Hall, AR",
         "type": "middle",
