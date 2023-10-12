@@ -8317,5 +8317,437 @@
             "Juneteenth Holiday": ["2024-06-19"]
         },
         "overrides": {}
+    },
+    "ar-whitehallsd-whms-a": {
+        "name": "White Hall Middle School (A)",
+        "shortName": "White Hall (A)",
+        "color": "CC2031",
+        "timezone": "America/Chicago",
+        "location": "White Hall, AR",
+        "type": "middle",
+        "schedule": {
+            "MON": {
+                "First Period": ["08:30:00", "09:15:00"],
+                "Passing (First Period / Second Period)": [
+                    "09:15:01",
+                    "09:19:59"
+                ],
+                "Second Period": ["09:20:00", "10:05:00"],
+                "Passing (Second Period / Third Period)": [
+                    "10:05:01",
+                    "10:09:59"
+                ],
+                "Third Period": ["10:10:00", "10:55:00"],
+                "Lunch": {
+                    "times": ["10:55:01", "11:25:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fourth Period)": ["11:25:01", "11:29:59"],
+                "Fourth Period": ["11:30:00", "12:15:00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "12:15:01",
+                    "12:19:59"
+                ],
+                "Fifth Period": ["12:20:00", "13:05:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:05:01",
+                    "13:09:59"
+                ],
+                "Sixth Period": ["13:10:00", "13:55:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "13:55:01",
+                    "13:59:59"
+                ],
+                "Seventh Period": ["14:00:00", "14:45:00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "14:45:01",
+                    "14:49:59"
+                ],
+                "Eighth Period": ["14:50:00", "15:35:00"]
+            },
+            "TUE": {
+                "First Period": ["08:30:00", "09:15:00"],
+                "Passing (First Period / Second Period)": [
+                    "09:15:01",
+                    "09:19:59"
+                ],
+                "Second Period": ["09:20:00", "10:05:00"],
+                "Passing (Second Period / Third Period)": [
+                    "10:05:01",
+                    "10:09:59"
+                ],
+                "Third Period": ["10:10:00", "10:55:00"],
+                "Lunch": {
+                    "times": ["10:55:01", "11:25:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fourth Period)": ["11:25:01", "11:29:59"],
+                "Fourth Period": ["11:30:00", "12:15:00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "12:15:01",
+                    "12:19:59"
+                ],
+                "Fifth Period": ["12:20:00", "13:05:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:05:01",
+                    "13:09:59"
+                ],
+                "Sixth Period": ["13:10:00", "13:55:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "13:55:01",
+                    "13:59:59"
+                ],
+                "Seventh Period": ["14:00:00", "14:45:00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "14:45:01",
+                    "14:49:59"
+                ],
+                "Eighth Period": ["14:50:00", "15:35:00"]
+            },
+            "WED": {
+                "First Period": ["08:30:00", "09:15:00"],
+                "Passing (First Period / Second Period)": [
+                    "09:15:01",
+                    "09:19:59"
+                ],
+                "Second Period": ["09:20:00", "10:05:00"],
+                "Passing (Second Period / Third Period)": [
+                    "10:05:01",
+                    "10:09:59"
+                ],
+                "Third Period": ["10:10:00", "10:55:00"],
+                "Lunch": {
+                    "times": ["10:55:01", "11:25:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fourth Period)": ["11:25:01", "11:29:59"],
+                "Fourth Period": ["11:30:00", "12:15:00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "12:15:01",
+                    "12:19:59"
+                ],
+                "Fifth Period": ["12:20:00", "13:05:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:05:01",
+                    "13:09:59"
+                ],
+                "Sixth Period": ["13:10:00", "13:55:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "13:55:01",
+                    "13:59:59"
+                ],
+                "Seventh Period": ["14:00:00", "14:45:00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "14:45:01",
+                    "14:49:59"
+                ],
+                "Eighth Period": ["14:50:00", "15:35:00"]
+            },
+            "THU": {
+                "First Period": ["08:30:00", "09:15:00"],
+                "Passing (First Period / Second Period)": [
+                    "09:15:01",
+                    "09:19:59"
+                ],
+                "Second Period": ["09:20:00", "10:05:00"],
+                "Passing (Second Period / Third Period)": [
+                    "10:05:01",
+                    "10:09:59"
+                ],
+                "Third Period": ["10:10:00", "10:55:00"],
+                "Lunch": {
+                    "times": ["10:55:01", "11:25:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fourth Period)": ["11:25:01", "11:29:59"],
+                "Fourth Period": ["11:30:00", "12:15:00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "12:15:01",
+                    "12:19:59"
+                ],
+                "Fifth Period": ["12:20:00", "13:05:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:05:01",
+                    "13:09:59"
+                ],
+                "Sixth Period": ["13:10:00", "13:55:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "13:55:01",
+                    "13:59:59"
+                ],
+                "Seventh Period": ["14:00:00", "14:45:00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "14:45:01",
+                    "14:49:59"
+                ],
+                "Eighth Period": ["14:50:00", "15:35:00"]
+            },
+            "FRI": {
+                "First Period": ["08:30:00", "09:15:00"],
+                "Passing (First Period / Second Period)": [
+                    "09:15:01",
+                    "09:19:59"
+                ],
+                "Second Period": ["09:20:00", "10:05:00"],
+                "Passing (Second Period / Third Period)": [
+                    "10:05:01",
+                    "10:09:59"
+                ],
+                "Third Period": ["10:10:00", "10:55:00"],
+                "Lunch": {
+                    "times": ["10:55:01", "11:25:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fourth Period)": ["11:25:01", "11:29:59"],
+                "Fourth Period": ["11:30:00", "12:15:00"],
+                "Passing (Fourth Period / Fifth Period)": [
+                    "12:15:01",
+                    "12:19:59"
+                ],
+                "Fifth Period": ["12:20:00", "13:05:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:05:01",
+                    "13:09:59"
+                ],
+                "Sixth Period": ["13:10:00", "13:55:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "13:55:01",
+                    "13:59:59"
+                ],
+                "Seventh Period": ["14:00:00", "14:45:00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "14:45:01",
+                    "14:49:59"
+                ],
+                "Eighth Period": ["14:50:00", "15:35:00"]
+            }
+        },
+        "offDays": {
+            "Thanksgiving Break": ["2023-11-20", "2023-11-24"],
+            "Winter Break": ["2023-12-22", "2024-01-05"],
+            "Martin Luther King Jr. Day": ["2024-01-15"],
+            "Presidents' Day": ["2024-02-19"],
+            "Spring Break": ["2024-03-18", "2024-03-22"],
+            "Good Friday": ["2024-03-29"],
+            "Teacher Professional Development": ["2024-04-08"],
+            "Memorial Day": ["2024-05-27"]
+        },
+        "overrides": {}
+    },
+    "ar-whitehallsd-whms-b": {
+        "name": "White Hall Middle School (B)",
+        "shortName": "White Hall (B)",
+        "color": "CC2031",
+        "timezone": "America/Chicago",
+        "location": "White Hall, AR",
+        "type": "middle",
+        "schedule": {
+            "MON": {
+                "First Period": ["08:30:00", "09:15:00"],
+                "Passing (First Period / Second Period)": [
+                    "09:15:01",
+                    "09:19:59"
+                ],
+                "Second Period": ["09:20:00", "10:05:00"],
+                "Passing (Second Period / Third Period)": [
+                    "10:05:01",
+                    "10:09:59"
+                ],
+                "Third Period": ["10:10:00", "10:55:00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10:55:01",
+                    "10:59:59"
+                ],
+                "Fourth Period": ["11:00:00", "11:45:00"],
+                "Lunch": {
+                    "times": ["11:45:01", "12:15:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fifth Period)": ["12:15:01", "12:19:59"],
+                "Fifth Period": ["12:20:00", "13:05:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:05:01",
+                    "13:09:59"
+                ],
+                "Sixth Period": ["13:10:00", "13:55:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "13:55:01",
+                    "13:59:59"
+                ],
+                "Seventh Period": ["14:00:00", "14:45:00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "14:45:01",
+                    "14:49:59"
+                ],
+                "Eighth Period": ["14:50:00", "15:35:00"]
+            },
+            "TUE": {
+                "First Period": ["08:30:00", "09:15:00"],
+                "Passing (First Period / Second Period)": [
+                    "09:15:01",
+                    "09:19:59"
+                ],
+                "Second Period": ["09:20:00", "10:05:00"],
+                "Passing (Second Period / Third Period)": [
+                    "10:05:01",
+                    "10:09:59"
+                ],
+                "Third Period": ["10:10:00", "10:55:00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10:55:01",
+                    "10:59:59"
+                ],
+                "Fourth Period": ["11:00:00", "11:45:00"],
+                "Lunch": {
+                    "times": ["11:45:01", "12:15:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fifth Period)": ["12:15:01", "12:19:59"],
+                "Fifth Period": ["12:20:00", "13:05:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:05:01",
+                    "13:09:59"
+                ],
+                "Sixth Period": ["13:10:00", "13:55:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "13:55:01",
+                    "13:59:59"
+                ],
+                "Seventh Period": ["14:00:00", "14:45:00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "14:45:01",
+                    "14:49:59"
+                ],
+                "Eighth Period": ["14:50:00", "15:35:00"]
+            },
+            "WED": {
+                "First Period": ["08:30:00", "09:15:00"],
+                "Passing (First Period / Second Period)": [
+                    "09:15:01",
+                    "09:19:59"
+                ],
+                "Second Period": ["09:20:00", "10:05:00"],
+                "Passing (Second Period / Third Period)": [
+                    "10:05:01",
+                    "10:09:59"
+                ],
+                "Third Period": ["10:10:00", "10:55:00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10:55:01",
+                    "10:59:59"
+                ],
+                "Fourth Period": ["11:00:00", "11:45:00"],
+                "Lunch": {
+                    "times": ["11:45:01", "12:15:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fifth Period)": ["12:15:01", "12:19:59"],
+                "Fifth Period": ["12:20:00", "13:05:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:05:01",
+                    "13:09:59"
+                ],
+                "Sixth Period": ["13:10:00", "13:55:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "13:55:01",
+                    "13:59:59"
+                ],
+                "Seventh Period": ["14:00:00", "14:45:00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "14:45:01",
+                    "14:49:59"
+                ],
+                "Eighth Period": ["14:50:00", "15:35:00"]
+            },
+            "THU": {
+                "First Period": ["08:30:00", "09:15:00"],
+                "Passing (First Period / Second Period)": [
+                    "09:15:01",
+                    "09:19:59"
+                ],
+                "Second Period": ["09:20:00", "10:05:00"],
+                "Passing (Second Period / Third Period)": [
+                    "10:05:01",
+                    "10:09:59"
+                ],
+                "Third Period": ["10:10:00", "10:55:00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10:55:01",
+                    "10:59:59"
+                ],
+                "Fourth Period": ["11:00:00", "11:45:00"],
+                "Lunch": {
+                    "times": ["11:45:01", "12:15:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fifth Period)": ["12:15:01", "12:19:59"],
+                "Fifth Period": ["12:20:00", "13:05:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:05:01",
+                    "13:09:59"
+                ],
+                "Sixth Period": ["13:10:00", "13:55:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "13:55:01",
+                    "13:59:59"
+                ],
+                "Seventh Period": ["14:00:00", "14:45:00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "14:45:01",
+                    "14:49:59"
+                ],
+                "Eighth Period": ["14:50:00", "15:35:00"]
+            },
+            "FRI": {
+                "First Period": ["08:30:00", "09:15:00"],
+                "Passing (First Period / Second Period)": [
+                    "09:15:01",
+                    "09:19:59"
+                ],
+                "Second Period": ["09:20:00", "10:05:00"],
+                "Passing (Second Period / Third Period)": [
+                    "10:05:01",
+                    "10:09:59"
+                ],
+                "Third Period": ["10:10:00", "10:55:00"],
+                "Passing (Third Period / Fourth Period)": [
+                    "10:55:01",
+                    "10:59:59"
+                ],
+                "Fourth Period": ["11:00:00", "11:45:00"],
+                "Lunch": {
+                    "times": ["11:45:01", "12:15:00"],
+                    "allowEditing": false
+                },
+                "Passing (Lunch / Fifth Period)": ["12:15:01", "12:19:59"],
+                "Fifth Period": ["12:20:00", "13:05:00"],
+                "Passing (Fifth Period / Sixth Period)": [
+                    "13:05:01",
+                    "13:09:59"
+                ],
+                "Sixth Period": ["13:10:00", "13:55:00"],
+                "Passing (Sixth Period / Seventh Period)": [
+                    "13:55:01",
+                    "13:59:59"
+                ],
+                "Seventh Period": ["14:00:00", "14:45:00"],
+                "Passing (Seventh Period / Eighth Period)": [
+                    "14:45:01",
+                    "14:49:59"
+                ],
+                "Eighth Period": ["14:50:00", "15:35:00"]
+            }
+        },
+        "offDays": {
+            "Thanksgiving Break": ["2023-11-20", "2023-11-24"],
+            "Winter Break": ["2023-12-22", "2024-01-05"],
+            "Martin Luther King Jr. Day": ["2024-01-15"],
+            "Presidents' Day": ["2024-02-19"],
+            "Spring Break": ["2024-03-18", "2024-03-22"],
+            "Good Friday": ["2024-03-29"],
+            "Teacher Professional Development": ["2024-04-08"],
+            "Memorial Day": ["2024-05-27"]
+        },
+        "overrides": {}
     }
 }
