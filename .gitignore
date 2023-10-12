@@ -3,3 +3,4 @@
 node_modules/
 dist/
 schedules-custom*.json
+db-*.json

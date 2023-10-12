@@ -4387,5 +4387,85 @@
             "Juneteenth": ["2024-06-19"]
         },
         "overrides": {}
+    },
+    "al-shelbyed-omms": {
+        "name": "Oak Mountain Middle School",
+        "shortName": "Oak Mountain",
+        "color": "#90232C",
+        "timezone": "America/Chicago",
+        "location": "Birmingham, AL",
+        "type": "middle",
+        "schedule": {
+            "MON": {
+                "First Period": ["07:45:00", "08:40:00"],
+                "Second Period": ["08:45:00", "09:35:00"],
+                "Third Period": ["09:40:00", "10:30:00"],
+                "Fourth Period": ["10:35:00", "12:25:00"],
+                "Fifth Period": ["12:30:00", "13:25:00"],
+                "Sixth Period": ["13:30:00", "14:20:00"],
+                "Seventh Period": ["14:30:00", "15:00:00"]
+            },
+            "TUE": {
+                "First Period": ["07:45:00", "08:40:00"],
+                "Second Period": ["08:45:00", "09:35:00"],
+                "Third Period": ["09:40:00", "10:30:00"],
+                "Fourth Period": ["10:35:00", "12:25:00"],
+                "Fifth Period": ["12:30:00", "13:25:00"],
+                "Sixth Period": ["13:30:00", "14:20:00"],
+                "Seventh Period": ["14:30:00", "15:00:00"]
+            },
+            "WED": {
+                "First Period": ["07:45:00", "08:40:00"],
+                "Second Period": ["08:45:00", "09:35:00"],
+                "Third Period": ["09:40:00", "10:30:00"],
+                "Fourth Period": ["10:35:00", "12:25:00"],
+                "Fifth Period": ["12:30:00", "13:25:00"],
+                "Sixth Period": ["13:30:00", "14:20:00"],
+                "Seventh Period": ["14:30:00", "15:00:00"]
+            },
+            "THU": {
+                "First Period": ["07:45:00", "08:40:00"],
+                "Second Period": ["08:45:00", "09:35:00"],
+                "Third Period": ["09:40:00", "10:30:00"],
+                "Fourth Period": ["10:35:00", "12:25:00"],
+                "Fifth Period": ["12:30:00", "13:25:00"],
+                "Sixth Period": ["13:30:00", "14:20:00"],
+                "Seventh Period": ["14:30:00", "15:00:00"]
+            },
+            "FRI": {
+                "First Period": ["07:45:00", "08:40:00"],
+                "Second Period": ["08:45:00", "09:35:00"],
+                "Third Period": ["09:40:00", "10:30:00"],
+                "Fourth Period": ["10:35:00", "12:25:00"],
+                "Fifth Period": ["12:30:00", "13:25:00"],
+                "Sixth Period": ["13:30:00", "14:20:00"],
+                "Seventh Period": ["14:30:00", "15:00:00"]
+            }
+        },
+        "offDays": {
+            "Veteran's Day": ["2023-11-10"],
+            "Thanksgiving Holidays": ["2023-11-20", "2023-11-24"],
+            "Teacher Work Day I": ["2023-12-15"],
+            "Christmas Holidays": ["2023-12-18", "2023-12-29"],
+            "New Year's Holiday": ["2024-01-01"],
+            "Instructional Planning / Professional Development I": [
+                "2024-01-02"
+            ],
+            "Martin Luther King Jr. Day": ["2024-01-15"],
+            "Instructional Planning / Professional Development II": [
+                "2024-02-19"
+            ],
+            "Instructional Planning / Professional Development III": [
+                "2024-03-08"
+            ],
+            "Spring Break": ["2024-03-25", "2024-03-29"],
+            "Instructional Planning / Professional Development IV": [
+                "2024-04-26"
+            ],
+            "Teacher Work Day II": ["2024-05-24"],
+            "Memorial Day Holiday": ["2024-05-27"],
+            "Juneteenth Holiday": ["2024-06-19"]
+        },
+        "overrides": {}
     }
 }
