@@ -4649,5 +4649,305 @@
             "Memorial Day": ["2024-05-27"]
         },
         "overrides": {}
+    },
+    "pa-parklandsd-phs-a": {
+        "name": "Parkland High School (A)",
+        "shortName": "Parkland (A)",
+        "color": "#990000",
+        "timezone": "America/New_York",
+        "location": "Allentown, PA",
+        "type": "high",
+        "schedule": {
+            "MON": {
+                "First Period": ["07:40:00", "08:28:00"],
+                "Second Period": ["08:32:00", "09:15:00"],
+                "Third Period": ["09:19:00", "10:02:00"],
+                "Fourth Period": ["10:06:00", "10:49:00"],
+                "Fifth Period": ["10:53:00", "11:36:00"],
+                "Sixth Period": ["11:40:00", "12:23:00"],
+                "Seventh Period": ["12:27:00", "13:10:00"],
+                "Eighth Period": ["13:14:00", "13:57:00"],
+                "Ninth Period": ["14:01:00", "14:44:00"]
+            },
+            "TUE": {
+                "First Period": ["07:40:00", "08:28:00"],
+                "Second Period": ["08:32:00", "09:15:00"],
+                "Third Period": ["09:19:00", "10:02:00"],
+                "Fourth Period": ["10:06:00", "10:49:00"],
+                "Fifth Period": ["10:53:00", "11:36:00"],
+                "Sixth Period": ["11:40:00", "12:23:00"],
+                "Seventh Period": ["12:27:00", "13:10:00"],
+                "Eighth Period": ["13:14:00", "13:57:00"],
+                "Ninth Period": ["14:01:00", "14:44:00"]
+            },
+            "WED": {
+                "First Period": ["07:40:00", "08:28:00"],
+                "Second Period": ["08:32:00", "09:15:00"],
+                "Third Period": ["09:19:00", "10:02:00"],
+                "Fourth Period": ["10:06:00", "10:49:00"],
+                "Fifth Period": ["10:53:00", "11:36:00"],
+                "Sixth Period": ["11:40:00", "12:23:00"],
+                "Seventh Period": ["12:27:00", "13:10:00"],
+                "Eighth Period": ["13:14:00", "13:57:00"],
+                "Ninth Period": ["14:01:00", "14:44:00"]
+            },
+            "THU": {
+                "First Period": ["07:40:00", "08:28:00"],
+                "Second Period": ["08:32:00", "09:15:00"],
+                "Third Period": ["09:19:00", "10:02:00"],
+                "Fourth Period": ["10:06:00", "10:49:00"],
+                "Fifth Period": ["10:53:00", "11:36:00"],
+                "Sixth Period": ["11:40:00", "12:23:00"],
+                "Seventh Period": ["12:27:00", "13:10:00"],
+                "Eighth Period": ["13:14:00", "13:57:00"],
+                "Ninth Period": ["14:01:00", "14:44:00"]
+            },
+            "FRI": {
+                "First Period": ["07:40:00", "08:28:00"],
+                "Second Period": ["08:32:00", "09:15:00"],
+                "Third Period": ["09:19:00", "10:02:00"],
+                "Fourth Period": ["10:06:00", "10:49:00"],
+                "Fifth Period": ["10:53:00", "11:36:00"],
+                "Sixth Period": ["11:40:00", "12:23:00"],
+                "Seventh Period": ["12:27:00", "13:10:00"],
+                "Eighth Period": ["13:14:00", "13:57:00"],
+                "Ninth Period": ["14:01:00", "14:44:00"]
+            }
+        },
+        "offDays": {
+            "Thanksgiving Holiday": ["2023-11-23", "2023-11-27"],
+            "Winter Holiday": ["2023-12-22", "2024-01-01"],
+            "Martin Luther King Jr. Day": ["2024-01-15"],
+            "Presidents' Day": ["2024-02-19"],
+            "Professional Development Day": ["2024-03-08"],
+            "Spring Holiday": ["2024-03-28", "2024-04-01"],
+            "Memorial Day": ["2024-05-27"]
+        },
+        "overrides": {}
+    },
+    "pa-parklandsd-phs-b": {
+        "name": "Parkland High School (B)",
+        "shortName": "Parkland (B)",
+        "color": "#990000",
+        "timezone": "America/New_York",
+        "location": "Allentown, PA",
+        "type": "high",
+        "schedule": {
+            "MON": {
+                "HR": {
+                    "times": ["07:40:00", "07:50:00"],
+                    "allowEditing": false
+                },
+                "First Period": ["07:54:00", "08:36:00"],
+                "Second Period": ["08:40:00", "09:22:00"],
+                "Third Period": ["09:26:00", "10:08:00"],
+                "Fourth Period": ["10:12:00", "10:54:00"],
+                "Fifth Period": ["10:58:00", "11:40:00"],
+                "Sixth Period": ["11:44:00", "12:26:00"],
+                "Seventh Period": ["12:30:00", "13:12:00"],
+                "Eighth Period": ["13:16:00", "13:58:00"],
+                "Ninth Period": ["14:02:00", "14:44:00"]
+            },
+            "TUE": {
+                "HR": {
+                    "times": ["07:40:00", "07:50:00"],
+                    "allowEditing": false
+                },
+                "First Period": ["07:54:00", "08:36:00"],
+                "Second Period": ["08:40:00", "09:22:00"],
+                "Third Period": ["09:26:00", "10:08:00"],
+                "Fourth Period": ["10:12:00", "10:54:00"],
+                "Fifth Period": ["10:58:00", "11:40:00"],
+                "Sixth Period": ["11:44:00", "12:26:00"],
+                "Seventh Period": ["12:30:00", "13:12:00"],
+                "Eighth Period": ["13:16:00", "13:58:00"],
+                "Ninth Period": ["14:02:00", "14:44:00"]
+            },
+            "WED": {
+                "HR": {
+                    "times": ["07:40:00", "07:50:00"],
+                    "allowEditing": false
+                },
+                "First Period": ["07:54:00", "08:36:00"],
+                "Second Period": ["08:40:00", "09:22:00"],
+                "Third Period": ["09:26:00", "10:08:00"],
+                "Fourth Period": ["10:12:00", "10:54:00"],
+                "Fifth Period": ["10:58:00", "11:40:00"],
+                "Sixth Period": ["11:44:00", "12:26:00"],
+                "Seventh Period": ["12:30:00", "13:12:00"],
+                "Eighth Period": ["13:16:00", "13:58:00"],
+                "Ninth Period": ["14:02:00", "14:44:00"]
+            },
+            "THU": {
+                "HR": {
+                    "times": ["07:40:00", "07:50:00"],
+                    "allowEditing": false
+                },
+                "First Period": ["07:54:00", "08:36:00"],
+                "Second Period": ["08:40:00", "09:22:00"],
+                "Third Period": ["09:26:00", "10:08:00"],
+                "Fourth Period": ["10:12:00", "10:54:00"],
+                "Fifth Period": ["10:58:00", "11:40:00"],
+                "Sixth Period": ["11:44:00", "12:26:00"],
+                "Seventh Period": ["12:30:00", "13:12:00"],
+                "Eighth Period": ["13:16:00", "13:58:00"],
+                "Ninth Period": ["14:02:00", "14:44:00"]
+            },
+            "FRI": {
+                "HR": {
+                    "times": ["07:40:00", "07:50:00"],
+                    "allowEditing": false
+                },
+                "First Period": ["07:54:00", "08:36:00"],
+                "Second Period": ["08:40:00", "09:22:00"],
+                "Third Period": ["09:26:00", "10:08:00"],
+                "Fourth Period": ["10:12:00", "10:54:00"],
+                "Fifth Period": ["10:58:00", "11:40:00"],
+                "Sixth Period": ["11:44:00", "12:26:00"],
+                "Seventh Period": ["12:30:00", "13:12:00"],
+                "Eighth Period": ["13:16:00", "13:58:00"],
+                "Ninth Period": ["14:02:00", "14:44:00"]
+            }
+        },
+        "offDays": {
+            "Thanksgiving Holiday": ["2023-11-23", "2023-11-27"],
+            "Winter Holiday": ["2023-12-22", "2024-01-01"],
+            "Martin Luther King Jr. Day": ["2024-01-15"],
+            "Presidents' Day": ["2024-02-19"],
+            "Professional Development Day": ["2024-03-08"],
+            "Spring Holiday": ["2024-03-28", "2024-04-01"],
+            "Memorial Day": ["2024-05-27"]
+        },
+        "overrides": {}
+    },
+    "pa-parklandsd-phs-c": {
+        "name": "Parkland High School (C)",
+        "shortName": "Parkland (C)",
+        "color": "#990000",
+        "timezone": "America/New_York",
+        "location": "Allentown, PA",
+        "type": "high",
+        "schedule": {
+            "MON": {
+                "First Period": ["07:40:00", "08:20:00"],
+                "Second Period": ["08:24:00", "09:00:00"],
+                "Third Period": ["09:04:00", "09:40:00"],
+                "Eighth Period": ["09:44:00", "10:20:00"],
+                "Ninth Period": ["10:24:00", "11:00:00"]
+            },
+            "TUE": {
+                "First Period": ["07:40:00", "08:20:00"],
+                "Second Period": ["08:24:00", "09:00:00"],
+                "Third Period": ["09:04:00", "09:40:00"],
+                "Eighth Period": ["09:44:00", "10:20:00"],
+                "Ninth Period": ["10:24:00", "11:00:00"]
+            },
+            "WED": {
+                "First Period": ["07:40:00", "08:20:00"],
+                "Second Period": ["08:24:00", "09:00:00"],
+                "Third Period": ["09:04:00", "09:40:00"],
+                "Eighth Period": ["09:44:00", "10:20:00"],
+                "Ninth Period": ["10:24:00", "11:00:00"]
+            },
+            "THU": {
+                "First Period": ["07:40:00", "08:20:00"],
+                "Second Period": ["08:24:00", "09:00:00"],
+                "Third Period": ["09:04:00", "09:40:00"],
+                "Eighth Period": ["09:44:00", "10:20:00"],
+                "Ninth Period": ["10:24:00", "11:00:00"]
+            },
+            "FRI": {
+                "First Period": ["07:40:00", "08:20:00"],
+                "Second Period": ["08:24:00", "09:00:00"],
+                "Third Period": ["09:04:00", "09:40:00"],
+                "Eighth Period": ["09:44:00", "10:20:00"],
+                "Ninth Period": ["10:24:00", "11:00:00"]
+            }
+        },
+        "offDays": {
+            "Thanksgiving Holiday": ["2023-11-23", "2023-11-27"],
+            "Winter Holiday": ["2023-12-22", "2024-01-01"],
+            "Martin Luther King Jr. Day": ["2024-01-15"],
+            "Presidents' Day": ["2024-02-19"],
+            "Professional Development Day": ["2024-03-08"],
+            "Spring Holiday": ["2024-03-28", "2024-04-01"],
+            "Memorial Day": ["2024-05-27"]
+        },
+        "overrides": {}
+    },
+    "pa-parklandsd-phs-d": {
+        "name": "Parkland High School (A)",
+        "shortName": "Parkland (A)",
+        "color": "#990000",
+        "timezone": "America/New_York",
+        "location": "Allentown, PA",
+        "type": "high",
+        "schedule": {
+            "MON": {
+                "First Period": ["09:40:00", "10:08:00"],
+                "Second Period": ["10:12:00", "10:37:00"],
+                "Third Period": ["10:41:00", "11:06:00"],
+                "Fourth Period": ["11:10:00", "11:39:00"],
+                "Fifth Period": ["11:43:00", "12:12:00"],
+                "Sixth Period": ["12:16:00", "12:45:00"],
+                "Seventh Period": ["12:49:00", "13:18:00"],
+                "Eighth Period": ["13:22:00", "14:01:00"],
+                "Ninth Period": ["14:05:00", "14:44:00"]
+            },
+            "TUE": {
+                "First Period": ["09:40:00", "10:08:00"],
+                "Second Period": ["10:12:00", "10:37:00"],
+                "Third Period": ["10:41:00", "11:06:00"],
+                "Fourth Period": ["11:10:00", "11:39:00"],
+                "Fifth Period": ["11:43:00", "12:12:00"],
+                "Sixth Period": ["12:16:00", "12:45:00"],
+                "Seventh Period": ["12:49:00", "13:18:00"],
+                "Eighth Period": ["13:22:00", "14:01:00"],
+                "Ninth Period": ["14:05:00", "14:44:00"]
+            },
+            "WED": {
+                "First Period": ["09:40:00", "10:08:00"],
+                "Second Period": ["10:12:00", "10:37:00"],
+                "Third Period": ["10:41:00", "11:06:00"],
+                "Fourth Period": ["11:10:00", "11:39:00"],
+                "Fifth Period": ["11:43:00", "12:12:00"],
+                "Sixth Period": ["12:16:00", "12:45:00"],
+                "Seventh Period": ["12:49:00", "13:18:00"],
+                "Eighth Period": ["13:22:00", "14:01:00"],
+                "Ninth Period": ["14:05:00", "14:44:00"]
+            },
+            "THU": {
+                "First Period": ["09:40:00", "10:08:00"],
+                "Second Period": ["10:12:00", "10:37:00"],
+                "Third Period": ["10:41:00", "11:06:00"],
+                "Fourth Period": ["11:10:00", "11:39:00"],
+                "Fifth Period": ["11:43:00", "12:12:00"],
+                "Sixth Period": ["12:16:00", "12:45:00"],
+                "Seventh Period": ["12:49:00", "13:18:00"],
+                "Eighth Period": ["13:22:00", "14:01:00"],
+                "Ninth Period": ["14:05:00", "14:44:00"]
+            },
+            "FRI": {
+                "First Period": ["09:40:00", "10:08:00"],
+                "Second Period": ["10:12:00", "10:37:00"],
+                "Third Period": ["10:41:00", "11:06:00"],
+                "Fourth Period": ["11:10:00", "11:39:00"],
+                "Fifth Period": ["11:43:00", "12:12:00"],
+                "Sixth Period": ["12:16:00", "12:45:00"],
+                "Seventh Period": ["12:49:00", "13:18:00"],
+                "Eighth Period": ["13:22:00", "14:01:00"],
+                "Ninth Period": ["14:05:00", "14:44:00"]
+            }
+        },
+        "offDays": {
+            "Thanksgiving Holiday": ["2023-11-23", "2023-11-27"],
+            "Winter Holiday": ["2023-12-22", "2024-01-01"],
+            "Martin Luther King Jr. Day": ["2024-01-15"],
+            "Presidents' Day": ["2024-02-19"],
+            "Professional Development Day": ["2024-03-08"],
+            "Spring Holiday": ["2024-03-28", "2024-04-01"],
+            "Memorial Day": ["2024-05-27"]
+        },
+        "overrides": {}
     }
 }
