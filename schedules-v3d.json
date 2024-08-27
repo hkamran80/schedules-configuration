@@ -4949,5 +4949,102 @@
             "Memorial Day": ["2024-05-27"]
         },
         "overrides": {}
+    },
+    "ny-ercsd-svhs": {
+        "name": "Spring Valley High School",
+        "shortName": "Spring Valley",
+        "color": "#EF3A21",
+        "timezone": "America/New_York",
+        "location": "Spring Valley, NY",
+        "type": "high",
+        "schedule": {
+            "MON": {
+                "First Period": ["07:42:00", "08:23:00"],
+                "Second Period": ["08:27:00", "09:08:00"],
+                "Third Period": ["09:12:00", "09:53:00"],
+                "Fourth Period": ["09:57:00", "10:39:00"],
+                "Lunch": {
+                    "times": ["10:39:01", "11:02:00"],
+                    "allowEditing": false
+                },
+                "Fifth Period": ["11:02:01", "11:44:00"],
+                "Sixth Period": ["11:47:00", "12:28:00"],
+                "Seventh Period": ["12:31:00", "13:12:00"],
+                "Eighth Period": ["13:15:00", "13:56:00"]
+            },
+            "TUE": {
+                "First Period": ["07:42:00", "08:37:00"],
+                "Second Period": ["08:41:00", "09:36:00"],
+                "Third Period": ["09:40:00", "10:35:00"],
+                "Lunch": {
+                    "times": ["10:35:01", "10:59:00"],
+                    "allowEditing": false
+                },
+                "Fifth Period": ["11:03:00", "11:58:00"],
+                "Sixth Period": ["12:02:00", "12:57:00"],
+                "Seventh Period": ["13:01:00", "13:56:00"]
+            },
+            "WED": {
+                "Fourth Period": ["07:42:00", "08:37:00"],
+                "First Period": ["08:41:00", "09:36:00"],
+                "Second Period": ["09:40:00", "10:35:00"],
+                "Lunch": {
+                    "times": ["10:35:01", "10:59:00"],
+                    "allowEditing": false
+                },
+                "Eighth Period": ["11:03:00", "11:58:00"],
+                "Fifth Period": ["12:02:00", "12:57:00"],
+                "Sixth Period": ["13:01:00", "13:56:00"]
+            },
+            "THU": {
+                "Third Period": ["07:42:00", "08:37:00"],
+                "Fourth Period": ["08:41:00", "09:36:00"],
+                "First Period": ["09:40:00", "10:35:00"],
+                "Lunch": {
+                    "times": ["10:35:01", "10:59:00"],
+                    "allowEditing": false
+                },
+                "Seventh Period": ["11:03:00", "11:58:00"],
+                "Eighth Period": ["12:02:00", "12:57:00"],
+                "Fifth Period": ["13:01:00", "13:56:00"]
+            },
+            "FRI": {
+                "Second Period": ["07:42:00", "08:37:00"],
+                "Third Period": ["08:41:00", "09:36:00"],
+                "Fourth Period": ["09:40:00", "10:35:00"],
+                "Lunch": {
+                    "times": ["10:35:01", "10:59:00"],
+                    "allowEditing": false
+                },
+                "Sixth Period": ["11:03:00", "11:58:00"],
+                "Seventh Period": ["12:02:00", "12:57:00"],
+                "Eighth Period": ["13:01:00", "13:56:00"]
+            }
+        },
+        "offDays": {
+            "Professional Development Day I": ["2024-09-24"],
+            "Rosh Hashanah": ["2024-10-03", "2024-10-04"],
+            "Indigenous People's Day": ["2024-10-14"],
+            "Professional Development Day II": ["2024-10-22"],
+            "Superindendent's Day (Election Day)": ["2024-11-05"],
+            "Veteran's Day": ["2024-11-11"],
+            "Professional Development Day III": ["2024-11-26"],
+            "Thanksgiving Recess": ["2024-11-28", "2024-11-29"],
+            "Winter Recess": ["2024-12-23", "2024-12-31"],
+            "New Year's Day": ["2025-01-01"],
+            "Martin Luther King Jr.'s Day": ["2025-01-20"],
+            "Lunar New Year": ["2025-01-29"],
+            "Superintendent's Conference Day": ["2025-02-07"],
+            "Presidents' Day / Mid-winter Recess": ["2025-02-17", "2025-02-21"],
+            "Parent-Teacher Conferences (K-12)": ["2024-03-07"],
+            "Superintendents Conference Day (Countywide)": ["2025-03-14"],
+            "Passover / Good Friday / Spring Recess": [
+                "2025-04-14",
+                "2025-04-21"
+            ],
+            "Memorial Day": ["2025-05-26"],
+            "Juneteenth": ["2025-06-19"]
+        },
+        "overrides": {}
     }
 }
